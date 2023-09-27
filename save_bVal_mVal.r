@@ -16,6 +16,25 @@ write.csv(myImport$beta, csv_path, row.names=T)
 csv_path_mVal <- "D:\\2ndYear\\Slivia's project\\mythalExp\\batch1\\mVal.csv"
 write.csv(myImport$M, csv_path, row.names=T)
 
+
+  #### METHOD 2 ####
+# save filtered beata and m-values
+# NOTE: in Champ we need to place the csv sample_sheet inside the folder containing idat files 
+
+
+# Filter out failed probs from both matrices
+myfilter_m <- champ.filter(beta=myImport$beta,M=myImport$M,pd=myImport$pd,detP=myImport$detP,beadcount=myImport$beadcount)
+
+# save beta
+csv_path_beta <- "E:\\2ndYear\\Slivia's project\\mythalExp\\batch1\\9989540035_betaV.csv"
+write.csv(myfilter_m$beta, csv_path_beta, row.names=T)
+
+# Save m-Values
+csv_path_mVal <- "E:\\2ndYear\\Slivia's project\\mythalExp\\batch1\\9989540035_mVal.csv"
+write.csv(myfilter_m$M, csv_path_mVal, row.names=T)
+#E:\2ndYear\Slivia's project\mythalExp\batch1\mValues
+
+
 ####### This block we need to do it after extracting all beta & M vlaues from all samples ######
 # myfilter <- champ.filter(beta=myImport$beta,M=myImport$M,pd=myImport$pd,detP=myImport$detP,beadcount=myImport$beadcount)
 # CpG.GUI(CpG=rownames(myfilter$M),arraytype="450K")
