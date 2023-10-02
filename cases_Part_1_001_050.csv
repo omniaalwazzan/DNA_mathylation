@@ -1,0 +1,1169 @@
+,ExtractedName,FilePath,Unnamed: 0,Batch Number,Batch number ,Sample.ID,Unnamed: 2,Sentrix.ID,Date added to list,Expected Result,ScanDate,TAT,Added by,Study,Batch Integer,Scanned Slide #,NZConnect,Origin,Diagnostic query,Rationale,BLOCK,DOB,Age at OP,MC 12.6,MC 12.6 Score ,MC 11.6,MC 11.6 Score ,Purity,BRAF Fusion,Merged.1,Initial Diagnosis (CoPath),Revised Diagnosis,Outcome,Unnamed: 28,Folder generator,MDM4,MYCN,GLI2,FGFR3_TACC3,PDGFRA,TERT,MYB,EGFR,CDK6,MET,KIAA1549_BRAF,FGFR1_TACC1,MYBL1,MYC,CDKN2A_B,PTCH1,PTEN,MGMT,CCND1,CCND2,CDK4,MDM2,RB1,TP53,NF1,PPM1D,C19MC,SMARCB1,NF2,mgmt.Status
+0,9989536136_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R01C01_Grn.idat,5,#001,#001,NH14-2217,,9989536136_R01C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,4/18/1981 0:00,33.65594559,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.995207728,AIDH,0.970327342,0.744667,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-2217,"Anaplastic Oligoastrocytoma (WHO grade III)._x000D_
+IDH1 (R132H IHC): Mutation. _x000D_
+ATRX (IHC): Loss of expression (indicates mutation). _x000D_
+1p/19q: Test pending (previous specimen NH13-1919 showed 1p/19q LOH)._x000D_
+  _x000D_
+","Histology: Astrocytoma, IDH-mutant (WHO grade III)_x000D_
+Methylation profile: IDH glioma, subclass astrocytoma_x000D_
+MGMT promoter (Illumina array): Methylated _x000D_
+  _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH14-2217,-0.11,-0.036,0.072,-0.101,0.051,-0.346,-0.297,0.236,0.073,0.005,0.04,-0.015,0.114,0.047,-0.004,0.14,0.055,-0.136,-0.079,0.154,-0.022,0.009,0.051,0.022,0.046,0.038,-0.405,-0.022,0.083,methylated
+4,9989536136_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R01C02_Grn.idat,10,#001,#001,NH14-911,,9989536136_R01C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,8/27/1957 0:00,56.77412481,"glioblastoma, IDH-wildtype, mesenchymal type",0.988472974,GBM_MES,0.167575171,0.57952,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-911,"_x000D_
+Glioblastoma (WHO grade IV) - see comment. _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH14-911,0.114,-0.507,-0.259,-0.551,-0.428,-0.407,-0.061,0.068,0.146,0.253,0.04,0.102,0.272,0.037,0.115,0.027,-0.028,-0.317,-0.358,-0.288,0.139,0.239,-0.151,-0.114,0.178,0.341,-0.725,0.044,0.209,methylated
+6,9989536136_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R02C01_Grn.idat,9,#001,#001,NH14-2331,,9989536136_R02C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,,NHNN,,"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",,4/10/1964 0:00,50.7272032,"glioblastoma, IDH-wildtype, RTK1 type",0.956875594,GBM_RTKI,0.632568557,0.619913,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-2331,"Glioblastoma with oligodendroglial component (WHO grade IV). Please see comments._x000D_
+IDH1 (R132H IHC): No mutation; further tests pending _x000D_
+ATRX (IHC): Retained. _x000D_
+1p/19q: Test pending   _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH14-2331,1.103,-0.051,-0.026,-0.001,0.876,0.02,0.017,1.112,0.225,0.159,0.131,0.027,-0.005,-0.028,-0.561,-0.062,-0.396,-0.295,-0.015,-0.012,0.038,0.114,-0.013,0.033,0.027,0.02,-0.164,-0.023,0.079,unmethylated
+8,9989536136_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R02C02_Grn.idat,2,#001,#001,NH13-581,,9989536136_R02C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,8/25/1964 0:00,48.69156012,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.886139241,AIDH,0.648460405,0.788376,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH13-581,"Glioblastoma with oligodendroglial component (WHO Grade IV)_x000D_
+IDH-1 (G395A) mutation_x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH13-581,-0.213,0.04,-0.004,-0.094,0.023,-0.128,0.053,0.207,0.065,0.28,0.208,0.009,0.047,0.059,-0.235,0.063,-0.048,-0.098,-0.035,0.118,0.114,-0.26,-0.015,0.021,0.069,-0.02,-0.11,-0.041,0.156,methylated
+10,9989536136_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R03C01_Grn.idat,11,#001,#001,NH15-40,,9989536136_R03C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,2/25/1983 0:00,31.89226408,supratentorial pilocytic astrocytoma,0.992849198,LGG_PA_GGST,0.997398696,0.640614,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH15-40,"Oligodendroglioma (WHO grade II)_x000D_
+IDH1 (R132H IHC): No mutation; further tests pending _x000D_
+ATRX (IHC): Retained. _x000D_
+1p/19q: Test pending  _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH15-40,0.008,-0.051,-0.051,0.011,-0.017,-0.184,-0.024,0.028,0.063,0.081,0.013,0.042,-0.044,0.055,-0.028,-0.056,0.035,-0.089,0.006,0.029,0.069,0.065,-0.043,0.063,0.025,0.02,-0.135,0.024,0.098,methylated
+12,9989536136_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R03C02_Grn.idat,0,#001,#001,NH13-1256,,9989536136_R03C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,6/22/1963 0:00,50.19856545,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.997603239,AIDH_HG,0.888207805,0.865667,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH13-1256,"Glioblastoma with oligodendroglial component (WHO grade IV)  see comment_x000D_
+","Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted (WHO grade III)_x000D_
+IDH1/2Seq: IDH2 mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Codeleted_x000D_
+TERT promoter: Mutation_x000D_
+_x000D_
+  _x000D_
+",(4) misleading profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH13-1256,0.099,-0.018,0.05,-0.349,-0.496,-0.064,0.189,0.025,-0.031,0.032,-0.062,-0.022,0.071,0.025,-0.544,-0.446,0.002,0.074,-0.09,0.072,0.006,-0.232,-0.463,-0.144,-0.024,-0.063,-0.555,-0.128,-0.018,methylated
+14,9989536136_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R04C01_Grn.idat,12,#001,#001,NH15-5,,9989536136_R04C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,6/14/1946 0:00,68.60164003,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]",0.999987344,CN,0.092160126,0.859466,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH15-5,"Anaplastic Oligodendroglioma (WHO grade III). Please see comments_x000D_
+IDH1 (R132H IHC): No mutation; further tests pending. _x000D_
+ATRX (IHC): Retained. _x000D_
+1p/19q: Test pending  _x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH15-5,0.243,-0.074,0.192,-0.059,0.007,-0.113,0.047,-0.022,0.016,0.056,0.022,-0.041,0.004,-0.452,0.022,-0.089,-0.255,-0.443,-0.007,-0.029,0.027,0.104,-0.457,-0.002,0.006,0.021,-0.203,-0.012,0.037,unmethylated
+16,9989536136_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R05C01_Grn.idat,4,#001,#001,NH14-1589,,9989536136_R05C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,3/21/1991 0:00,23.49225647,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.941907179,OIDH,0.952359234,0.7926,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-1589,"Glioblastoma with oligodendroglial component (WHO grade IV). _x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH14-1589,-0.135,-0.145,-0.011,-0.102,-0.103,-0.038,0.017,-0.16,0.168,0.192,0.159,-0.025,0.124,0.032,-0.081,-0.225,0.061,-0.015,-0.084,-0.013,0.048,0.048,0.033,-0.043,0.011,0.051,-0.755,0.01,0.177,methylated
+18,9989536136_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R05C02_Grn.idat,3,#001,#001,NH14-1206,,9989536136_R05C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,4/12/1948 0:00,66.28600076,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.999948896,AIDH_HG,0.997645508,0.792339,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-1206,"Glioblastoma with oligodendroglial component (WHO grade IV)_x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH14-1206,-0.17,-0.099,0.005,0.037,-0.036,0.011,0.021,-0.019,-0.057,-0.021,0.002,-0.028,-0.025,0.337,-0.108,0.016,0.064,-0.238,-0.026,0.13,0.017,-0.042,-0.384,-0.066,-0.058,0.027,-0.12,0.046,0.086,unmethylated
+20,9989536136_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#001_450k Array Data 2015-02\9989536136\9989536136_R06C02_Grn.idat,1,#001,#001,NH13-1730,,9989536136_R06C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,1,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,5/28/1979 0:00,34.47238014,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.909890755,AIDH_HG,0.807021418,0.732566,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH13-1730,"Oligoastrocytoma (WHO grade II)._x000D_
+IDH1 mutation (R132H). _x000D_
+","Oligodendroglioma, IDH-mutant and 1p/19q-codeleted (WHO grade II)_x000D_
+IDH1 (R132H IHC): Mutation _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q: Codeleted      _x000D_
+  _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #001\NH13-1730,-0.146,0.066,0.038,0.059,0.096,-0.023,0.124,-0.035,0.0,0.162,-0.018,-0.1,0.045,0.308,-0.083,0.022,0.008,-0.268,0.062,0.145,0.005,-0.087,-0.332,-0.146,0.048,-0.037,-0.175,0.014,0.081,unmethylated
+40,9989536145_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R06C02_Grn.idat,13,#002,#002,NH07-1129,,9989536145_R06C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,3,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,1/7/1983 0:00,,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.999710979,OIDH,0.998938603,0.814011,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH07-1129,"PNET (see comment)_x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH07-1129,-0.156,0.004,-0.094,-0.166,0.173,-0.226,0.128,0.298,0.168,0.274,0.174,0.205,0.08,0.232,-0.017,-0.034,0.018,-0.204,0.188,0.168,0.04,-0.002,-0.032,0.049,-0.019,-0.019,-0.605,0.053,0.05,methylated
+38,9989536145_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R05C02_Grn.idat,22,#002,#002,NH96-415,,9989536145_R05C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,,,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.977084275,OIDH,0.972681075,0.736444,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH96-415,,,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH96-415,0.058,-0.047,-0.013,-0.167,-0.013,-0.532,0.163,0.07,0.051,-0.044,-0.013,0.033,-0.051,0.045,0.102,-0.016,0.049,-0.243,-0.078,0.085,0.108,0.153,-0.007,0.081,0.007,-0.012,-1.002,0.039,0.117,methylated
+36,9989536145_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R05C01_Grn.idat,21,#002,#002,NH14-4,,9989536145_R05C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,1/12/1966 0:00,48.00733067,"glioblastoma, IDH-wildtype, RTK2 type",0.998505578,GBM_RTKII,0.966505515,0.757913,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-4,"Glioblastoma with primitive neuroectodermal tumour (PNET) component (WHO grade IV); IDH1 (R132H) negative_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH14-4,-0.267,-0.281,-0.078,0.044,-0.076,-0.142,-0.05,2.0,0.437,0.371,0.256,-0.015,0.046,-0.061,-1.819,0.062,-0.571,-0.588,-0.264,0.226,0.136,-0.217,-0.012,0.031,-0.051,-0.09,-0.043,-0.094,0.142,unmethylated
+34,9989536145_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R04C02_Grn.idat,20,#002,#002,NH14-1533,,9989536145_R04C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,6/3/1955 0:00,59.28133562,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.395954983,OIDH,0.823527057,0.706112,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-1533,"Glioblastoma (WHO grade IV)_x000D_
+",,(4) misleading profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH14-1533,-0.017,0.037,0.004,-0.082,0.054,-0.085,0.097,0.04,-0.043,0.057,0.005,0.009,-0.018,0.065,-0.017,-0.032,-0.024,-0.002,0.014,0.063,0.0,-0.057,-0.369,0.003,-0.109,-0.021,-0.474,0.029,0.073,methylated
+32,9989536145_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R04C01_Grn.idat,17,#002,#002,NH13-1974,,9989536145_R04C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,6,NDP,NHNN,,"(2) unusual histology, location, demographics",,4/30/1979 0:00,34.65652778,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.999995514,AIDH_HG,0.999131459,0.854827,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH13-1974,"Left temporal tumour: Glioblastoma with PNET component, WHO Grade IV. _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH13-1974,0.121,0.443,0.025,-0.11,0.104,-0.145,-0.178,1.047,0.464,0.149,0.138,0.209,0.175,0.022,-1.571,0.247,-0.101,-0.683,-0.044,0.186,0.017,0.099,-0.082,0.011,0.001,0.346,-0.984,-0.059,0.033,methylated
+28,9989536145_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R03C01_Grn.idat,14,#002,#002,NH11-1207,,9989536145_R03C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,6,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,4/30/1979 0:00,32.33618912,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.999980658,AIDH_HG,0.99856192,0.906893,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH11-1207,"Malignant glioma with a primitive neuroectodermal tumour-like (PNET) component (WHO grade IV)  see comment _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH11-1207,-0.002,0.011,0.018,-0.053,0.073,-0.517,0.072,0.067,0.018,-0.021,0.091,0.017,0.061,0.044,-0.502,-0.048,-0.28,-0.414,-0.056,0.664,0.66,0.065,-0.071,-0.026,-0.027,0.006,-0.795,0.004,0.127,methylated
+26,9989536145_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R02C02_Grn.idat,18,#002,#002,NH14-1226,,9989536145_R02C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,12/15/1979 0:00,34.59374429,"Diffuse paediatric-type high grade glioma, RTK1 subtype",0.152989679,DMG_K27,0.179430157,0.837381,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-1226,"Glioblastoma multiforme (WHO grade IV)  see comment_x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH14-1226,-0.278,0.016,-0.082,-0.058,0.163,0.088,-0.083,0.061,0.092,-0.065,-0.211,0.026,0.029,-0.165,-0.843,-0.038,-0.165,-0.354,-0.127,0.077,0.075,0.501,0.103,-0.371,-0.299,0.294,-0.214,-0.366,-0.029,unmethylated
+24,9989536145_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R02C01_Grn.idat,15,#002,#002,NH13-1014,,9989536145_R02C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,2/8/1970 0:00,43.44515791,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.561288819,PXA,0.091248378,0.95158,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH13-1014,"Anaplastic oligoastrocytoma (WHO grade III)  see comment _x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH13-1014,-0.088,0.002,0.024,-0.115,0.074,-0.264,-0.06,0.076,0.192,0.178,0.137,0.023,0.069,0.05,-0.027,0.187,-0.127,-0.104,-0.036,0.591,0.6,-0.051,0.031,-0.053,0.019,0.034,-0.383,-0.017,0.1,methylated
+22,9989536145_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R01C01_Grn.idat,16,#002,#002,NH13-1444,,9989536145_R01C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,6/1/1955 0:00,58.36027397,"Diffuse paediatric-type high grade glioma, MYCN subtype",0.695643691,GBM_RTKII,0.689962043,0.595652,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH13-1444,"Oligoastrocytoma (WHO grade II)_x000D_
+IDH1 gene mutation (see comment)_x000D_
+",,(4) misleading profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH13-1444,0.17,-0.074,-0.028,0.055,0.088,-0.094,-0.008,0.303,0.243,0.241,0.164,0.11,0.051,0.124,0.033,-0.015,-0.021,-0.266,-0.076,-0.054,0.043,-0.021,-0.072,-0.023,0.042,0.007,-0.291,-0.101,-0.013,unmethylated
+30,9989536145_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#002_450k Array Data 2015-02\9989536145\9989536145_R03C02_Grn.idat,19,#002,#002,NH14-1514,,9989536145_R03C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,2,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,9/22/1966 0:00,47.94974886,"glioblastoma, IDH-wildtype, mesenchymal type",0.319243372,GBM_MES,0.754467874,0.701938,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-1514,"Glioblastoma (WHO grade IV)_x000D_
+",,(4) misleading profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #002\NH14-1514,-0.008,-0.343,-0.201,0.19,-0.003,-0.184,0.065,0.48,0.386,0.414,0.281,0.14,0.302,0.157,0.203,-0.231,-0.175,-0.547,-0.294,0.155,0.689,0.161,0.073,-0.101,0.036,-0.044,-0.429,0.01,0.082,methylated
+62,9989540022_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R03C01_Grn.idat,28,#003,#003,NH14-261,,9989540022_R03C01,,,2/26/2015 0:00,42061.0,SB,Epigenetics,3,4,NDP,NHNN,,"(6) Research sample, for stratification or subclassification",,4/16/1988 0:00,25.82897451,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.998962554,AIDH,0.987915705,0.73686,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-261,"Oligoastrocytoma, WHO grade II. IDH1 mutation R132H_x000D_
+","Diffuse astrocytoma, IDH-mutant (WHO grade II)_x000D_
+ _x000D_
+IDH1 (R132H IHC); IDH1/2Seq: Mutation     _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+_x000D_
+  _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-261,-0.206,0.026,0.061,-0.036,0.024,-0.152,0.11,0.127,0.152,0.26,0.158,-0.021,0.102,0.384,-0.058,-0.014,0.036,-0.133,0.009,0.097,0.067,0.042,-0.128,-0.029,-0.08,-0.013,-0.14,0.026,0.079,unmethylated
+76,9989540022_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R06C02_Grn.idat,27,#003,#003,NH14-2103,,9989540022_R06C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,3,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,6/27/1983 0:00,31.42339612,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.998179946,AIDH,0.990350953,0.681569,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-2103,"Oligoastrocytoma (WHO grade II)_x000D_
+IDH1 (R132H, IHC): No mutation_x000D_
+ATRX (IHC): Loss of expression_x000D_
+","Astrocytoma, IDH mutant (WHO grade II)_x000D_
+IDH1/2Seq: IDH1 mutation_x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+MGMT Promoter: No/insignificant methylation*_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-2103,-0.126,0.059,0.051,-0.042,0.062,-0.278,0.09,0.001,0.001,0.08,0.001,0.005,0.052,0.081,0.004,-0.02,0.012,-0.022,0.063,0.04,-0.068,-0.112,-0.109,0.031,-0.043,-0.02,-0.124,0.085,0.038,unmethylated
+74,9989540022_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R06C01_Grn.idat,31,#003,#003,NH14-411,,9989540022_R06C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,3,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,9/21/1967 0:00,46.48111301,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.58629969,AIDH,0.724907115,0.733826,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-411,"Recurrent anaplastic oligoastrocytoma (WHO Grade III)  see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-411,-0.244,0.072,0.03,-0.276,-0.007,-0.324,0.229,0.255,-0.005,0.207,0.021,-0.38,0.034,-0.419,0.139,-0.062,-0.039,0.045,-0.117,0.034,-0.011,-0.274,-0.023,-0.139,0.107,0.111,-0.698,0.038,0.094,methylated
+72,9989540022_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R05C02_Grn.idat,25,#003,#003,NH14-1367,,9989540022_R05C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,3,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,11/15/1981 0:00,32.73263318,"Diffuse paediatric-type high grade glioma, MYCN subtype",0.143400236,GBM_RTKII,0.221275939,0.611583,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-1367,"Right medial frontal tumour : Anaplastic oligoastrocytoma (WHO grade III). No IDH1 or ATRX mutation.  _x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-1367,-0.07,0.061,0.086,0.021,-0.008,-0.149,0.083,0.44,0.25,0.269,0.22,-0.025,-0.034,-0.026,-0.016,0.233,-0.017,0.018,0.14,0.168,0.305,0.016,-0.016,-0.087,-0.043,-0.065,0.137,0.046,-0.017,methylated
+70,9989540022_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R05C01_Grn.idat,30,#003,#003,NH14-326,,9989540022_R05C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,3,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,5/3/1938 0:00,75.84790145,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)",0.937815425,GBM_RTKII,0.60559387,0.865821,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-326,"Anaplastic oligoastrocytoma (WHO Grade III); negative for mutant IDH-1 (R132H)  see comment_x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-326,0.177,-0.058,-0.009,-0.045,0.035,-0.062,0.062,0.303,0.32,0.273,0.204,-0.019,-0.031,0.017,-0.043,0.02,-0.244,-0.505,-0.052,-0.002,0.034,0.081,-0.026,0.042,0.041,-0.017,-0.705,0.042,-0.22,methylated
+68,9989540022_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R04C02_Grn.idat,24,#003,#003,NH14-1319,,9989540022_R04C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,3,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,3/6/1959 0:00,55.426543,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.385960941,AIDH,0.5760863,0.71858,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-1319,"Anaplastic oligoastrocytoma (WHO grade III)  see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-1319,-0.247,-0.045,0.079,0.001,0.157,-0.251,-0.089,0.19,0.05,0.17,0.06,0.009,0.016,0.025,-0.433,0.039,-0.037,0.054,-0.056,0.144,-0.052,-0.434,-0.172,-0.234,-0.002,0.002,-0.516,0.005,0.082,methylated
+66,9989540022_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R04C01_Grn.idat,29,#003,#003,NH14-306,,9989540022_R04C01,,,2/26/2015 0:00,42061.0,SB,Epigenetics,3,4,NDP,NHNN,,"(6) Research sample, for stratification or subclassification",,6/20/1978 0:00,35.67848174,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.988748022,AIDH,0.98020431,0.681993,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-306,"Oligoastrocytoma (WHO Grade II)_x000D_
+","Astrocytoma, IDH-mutant (WHO grade II) _x000D_
+IDH1/2Seq: Mutation _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+1p/19q: Retained          _x000D_
+EGFR: No amplification          _x000D_
+Histone H3F3A (K27M IHC): No mutation     _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-306,0.014,-0.196,-0.088,-0.097,0.051,-0.119,-0.114,0.072,0.015,0.063,0.009,0.024,0.083,-0.049,0.022,-0.124,0.016,-0.079,-0.064,-0.035,-0.038,-0.044,0.002,0.091,0.019,0.037,-0.204,0.043,0.085,methylated
+60,9989540022_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R02C02_Grn.idat,33,#003,#003,NH14-660,,9989540022_R02C02,,,2/26/2015 0:00,42061.0,SB,Epigenetics,3,4,NDP,NHNN,,"(6) Research sample, for stratification or subclassification",,6/4/1971 0:00,42.88107686,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.985881393,AIDH,0.990869706,0.824999,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-660,"Oligoastrocytoma (WHO Grade II); positive for IDH1 (R132H) and ATRX mutations  see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-660,0.028,-0.149,0.011,-0.07,0.041,-0.271,0.066,0.127,0.088,0.043,0.027,0.025,0.067,0.079,-0.04,-0.029,0.072,-0.227,-0.022,0.046,-0.039,-0.058,-0.152,0.038,0.036,0.094,-0.211,0.083,0.051,unmethylated
+64,9989540022_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R03C02_Grn.idat,34,#003,#003,NH14-855,,9989540022_R03C02,,,2/26/2015 0:00,42061.0,SB,Epigenetics,3,4,NDP,NHNN,,"(6) Research sample, for stratification or subclassification",,1/4/1973 0:00,41.38784437,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.970719834,AIDH,0.961214606,0.751837,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-855,"Anaplastic oligoastrocytoma (WHO Grade III) _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-855,-0.151,0.032,0.068,-0.055,0.061,-0.098,-0.389,0.054,-0.036,0.073,0.02,-0.009,0.047,0.086,-0.37,-0.039,0.036,0.081,0.018,0.064,0.076,-0.024,-0.303,-0.047,-0.092,-0.017,-0.623,0.059,0.048,methylated
+56,9989540022_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R01C02_Grn.idat,32,#003,#003,NH14-495,,9989540022_R01C02,,,2/26/2015 0:00,42061.0,SB,Diagnostic,3,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,11/12/1979 0:00,34.36827816,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.725109578,OIDH,0.954964566,0.7716,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-495,"Anaplastic oligoastrocytoma (WHO grade III)_x000D_
+IDH1 gene mutation  see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-495,-0.004,-0.06,0.036,-0.081,0.052,-0.112,-0.019,0.079,0.289,0.333,0.219,0.173,0.075,0.208,-0.321,-0.076,0.046,-0.063,-0.022,0.006,0.014,0.067,-0.111,0.036,0.015,-0.012,-0.66,0.042,0.062,unmethylated
+54,9989540022_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R01C01_Grn.idat,23,#003,#003,NH14-1,,9989540022_R01C01,,,2/26/2015 0:00,42061.0,SB,Diagnostic,3,5,NDP,NHNN,,"(4) IHC, sequencing, or copy number assay ambiguous",,7/3/1973 0:00,40.53006469,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.997933469,AIDH,0.987458959,0.749591,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-1,"Oligoastrocytoma (WHO Grade II)  see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-1,-0.139,0.028,0.07,-0.038,0.04,-0.254,0.09,0.002,0.029,0.021,-0.022,-0.013,0.005,0.102,-0.159,0.025,0.03,-0.039,0.028,0.134,-0.231,-0.329,-0.05,-0.013,-0.027,-0.039,-0.071,0.019,0.063,methylated
+58,9989540022_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\9989540022\9989540022_R02C01_Grn.idat,26,#003,#003,NH14-205,,9989540022_R02C01,,,2/26/2015 0:00,42061.0,SB,Epigenetics,3,4,NDP,NHNN,,"(6) Research sample, for stratification or subclassification",,4/17/1990 0:00,23.80677131,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.975492578,AIDH,0.914262576,0.648348,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-205,"Oligoastrocytoma (WHO grade II); positive for IDH1 mutation (R132H) _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #003\NH14-205,-0.038,-0.002,0.016,-0.051,0.048,-0.07,0.027,-0.006,-0.021,0.035,0.021,0.024,0.0,0.106,0.0,-0.042,0.036,0.017,0.027,0.086,0.076,0.052,-0.315,0.0,-0.033,0.004,-0.117,0.024,0.041,methylated
+78,9989540035_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#005_450k Array Data 2015-06\9989540035\9989540035_R05C02_Grn.idat,35,#005,#005,NH08-210,,9989540035_R05C02,,,6/5/2015 0:00,42160.0,SB,Diagnostic,5,9,NDP,NHNN,GBM-PNET,"(2) unusual histology, location, demographics",DEF1A,9/5/1959 0:00,,"glioblastoma, IDH-wildtype, with primitive neuronal component",0.996711485,MB_SHHCHLAD,0.159959569,0.826108,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH08-210,"Gliosarcoma with PNET-like features (WHO grade IV). Please read the diagnostic comment._x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #005\NH08-210,0.414,-0.16,-0.037,-0.069,-0.097,-0.166,0.042,0.322,0.29,0.251,0.227,-0.004,0.094,0.03,-0.076,-0.068,-2.12,-0.532,-0.096,-0.01,0.162,0.137,-0.264,-0.529,0.167,0.131,-0.175,-0.374,-0.123,methylated
+80,101070190045_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#013_450K Array data 2016-03\101070190045\101070190045_R03C02_Grn.idat,36,#013,#013,NH16-440,,101070190045_R03C02,3/2/2016 0:00,,3/16/2016 0:00,14.0,SB,Diagnostic,13,1,NDP,NHNN,Astrocytoma without high-grade features,"(4) IHC, sequencing, or copy number assay ambiguous",SP1A ,8/25/1962 0:00,53.53524543,"glioblastoma, IDH-wildtype, RTK1 type",0.389465137,GBM_RTKII,0.906732348,0.7049,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-440,"Astrocytoma morphologically without high-grade features, please see comment._x000D_
+ _x000D_
+IDH1 (R132H IHC): No mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Test pending_x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #013\NH16-440,-0.079,-0.012,0.038,0.02,-0.017,0.019,-0.051,0.283,0.358,0.458,0.347,-0.022,-0.008,0.001,-0.329,0.231,-0.278,-0.271,-0.075,0.02,0.042,-0.032,0.018,0.089,0.092,-0.024,-0.005,-0.117,0.001,methylated
+83,200512330122_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#015_850K Array data 2016-06\200512330122\200512330122_R06C01_Grn.idat,39,#015,#015,NH16-862,,200512330122_R06C01,5/13/2016 0:00,,6/10/2016 0:00,28.0,SB,Diagnostic,15,4,NDP,"Cardiff, University Hospital","Clear cell tumour, possibly of glial lineage","(2) unusual histology, location, demographics",,4/5/1950 0:00,66.08349696,pleomorphic xanthoastrocytoma(-like),0.6704835,PXA,0.341819514,0.65119,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-862,"Clear cell tumour, possibly of glial lineage (see comment)._x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #015\NH16-862,-0.051,-0.055,-0.014,-0.154,-0.047,-0.122,-0.341,-0.008,0.055,0.057,-0.02,0.012,0.01,0.022,-0.053,-0.132,-0.172,-0.259,-0.409,-0.366,-0.331,-0.426,-0.324,-0.343,-0.498,-0.24,0.031,-0.05,-0.044,unmethylated
+82,200512330122_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#015_850K Array data 2016-06\200512330122\200512330122_R05C01_Grn.idat,38,#015,#015,NH16-623,,200512330122_R05C01,4/21/2016 0:00,,6/10/2016 0:00,50.0,SB,Diagnostic,15,4,NDP,Brighton and Sussex Hospital,Glioblastoma,"(4) IHC, sequencing, or copy number assay ambiguous",TBC,3/24/1973 0:00,43.00958904,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.950268899,AIDH_HG,0.923215516,0.823309,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-623,"Glioblastoma (WHO Grade IV)._x000D_
+_x000D_
+IDH1 (R132H IHC): Mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+",,(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #015\NH16-623,0.181,0.494,-0.005,-0.024,0.636,-0.163,-0.224,0.126,0.168,1.474,0.062,0.173,0.111,0.185,-1.518,0.092,-0.049,-0.235,0.05,-0.092,-0.077,-0.057,-0.316,0.011,-0.012,0.002,-0.296,0.057,0.131,unmethylated
+81,200512330122_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#015_850K Array data 2016-06\200512330122\200512330122_R04C01_Grn.idat,37,#015,#015,NH16-580,,200512330122_R04C01,4/1/2016 0:00,,6/10/2016 0:00,70.0,SB,Diagnostic,15,3,NDP,"Charing Cross Hospital, London",Anaplastic oligodendroglioma ,"(4) IHC, sequencing, or copy number assay ambiguous",,7/4/1977 0:00,38.68630137,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.848205913,OIDH,0.976316127,0.721976,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-580,"Anaplastic oligodendroglioma (WHO grade III) _x000D_
+IDH1 (R132H IHC): IDH1 mutation; _x000D_
+ATRX (IHC): Retained; _x000D_
+1p/19q: See comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #015\NH16-580,0.009,-0.021,0.002,-0.132,-0.068,-0.123,-0.129,0.066,0.015,-0.029,0.013,0.04,0.048,-0.026,-0.113,0.017,0.032,-0.058,-0.062,0.006,-0.003,-0.11,0.042,-0.04,0.082,0.019,-0.342,0.214,0.221,methylated
+84,200577430059_R08C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#018_850k Array data 2016-09\200577430059\200577430059_R08C01_Grn.idat,40,#018,#018,NH16-1084," we have 3 samples in Batch 018 in the hard drive but in the excell only one is avail, NH16-1084",200577430059_R08C01,9/7/2016 0:00,,9/20/2016 0:00,13.0,SB,Epigenetics,18,11,NDP,NHNN,Glioblastoma (Epigenetics study),"(6) Research sample, for stratification or subclassification",DEF1A,10/16/1960 0:00,55.62068113,Diffuse glioneuronal tumour with oligodendroglioma-like features and nuclear clusters,0.471095748,OIDH,0.091949772,0.788394,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-1084,"Anaplastic oligodendroglioma, IDH mutant (WHO grade III)_x000D_
+","_x000D_
+Molecular and methylation profile: _x000D_
+_x000D_
+Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted (WHO grade III)_x000D_
+_x000D_
+",(4) misleading profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #018\NH16-1084,-0.001,-0.041,-0.02,-0.055,0.048,-0.008,-0.02,0.036,0.068,-0.034,-0.012,0.004,0.035,0.025,-0.281,-0.001,0.018,-0.02,-0.038,-0.055,-0.12,0.08,-0.015,-0.007,0.187,0.23,-0.262,0.006,0.019,unmethylated
+88,200577440025_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#019 850K Array data 2017-01-03\200577440025\200577440025_R01C01_Grn.idat,46,#019,#019,NH11-1296,,200577440025_R01C01,12/6/2016 0:00,,1/13/2017 0:00,38.0,SB,Diagnostic,19,10,NDP,NHNN,Anaplastic astroblastoma,"(5) Confirmation of rare, unusual or interesting histo-molecular results",DEF2A,9/14/1992 0:00,19.01008181,high-grade neuroepithelial tumour with MN1:BEND2 fusion,0.999939777,HGNET_MN1,0.999729868,0.847404,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH11-1296,"Anaplastic astroblastoma  for grading see comment. _x000D_
+","Anaplastic astroblastoma_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #019\NH11-1296,0.038,0.001,-0.279,-0.032,-0.034,0.12,-0.289,0.107,0.05,0.003,-0.02,0.047,0.14,-0.111,-0.347,-0.322,0.018,-0.1,0.028,0.007,-0.03,-0.025,0.004,0.011,0.112,0.054,-0.3,-0.322,0.004,methylated
+133,200362700212_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R04C02_Grn.idat,45,#025,#025,NH16-155,,200362700212_R04C02,6/20/2017 0:00,,6/29/2017 0:00,9.0,SB,Diagnostic,25,6,NDP,NHNN,?Neurocitic tumour versus Oligo; previous Illumina in 2016 confusing,"(5) Confirmation of rare, unusual or interesting histo-molecular results",DEF1A,8/20/1949 0:00,66.46229262,Diffuse glioneuronal tumour with oligodendroglioma-like features and nuclear clusters,0.691713711,CNSNB_FOXR2,0.328820338,0.875188,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-155,"Anaplastic oligodendroglioma (WHO grade III)  see comment_x000D_
+","_x000D_
+Neurocytic tumour Grade II/III  see comment below_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+Chromosome 7p and EGFR: No gain and no amplification_x000D_
+TERT promoter: No mutation_x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+_x000D_
+",(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH16-155,0.055,-0.086,0.071,-0.068,-0.092,-0.067,0.245,0.068,-0.065,0.12,-0.001,-0.05,0.165,-0.009,-0.211,0.019,0.057,0.04,-0.094,0.053,-0.018,-0.144,0.006,-0.174,0.328,0.195,-0.675,-0.102,-0.003,unmethylated
+140,200362700151_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#026_450K array data 2017-09-08\200362700151\200362700151_R04C01_Grn.idat,44,#026,#026,NH16-1309,,200362700151_R04C01,8/31/2017 0:00,,9/7/2017 0:00,7.0,SB,Epigenetics,26,2,NDP,NHNN,"GBM, Epigenetics","(6) Research sample, for stratification or subclassification",DEF1A,10/4/1944 0:00,71.73047184,"glioblastoma, IDH-wildtype, RTK1 type",0.999778073,GBM_RTKI,0.995419544,0.789337,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-1309,"Glioblastoma (WHO grade IV).  _x000D_
+IDH1 (R132H IHC): No mutation (wild type). _x000D_
+ATRX (IHC): Retained. _x000D_
+1p/19q LOH: No LOH_x000D_
+","Glioblastoma, IDH wild-type (WHO grade IV)_x000D_
+Methylation class glioblastoma, subclass RTK I_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #026\NH16-1309,-0.154,-0.131,0.075,0.01,-0.094,0.079,0.283,0.188,0.275,0.166,0.125,0.043,0.427,0.125,-0.739,0.038,-0.183,-0.156,0.102,0.001,0.045,-0.058,0.008,-0.352,0.108,-0.056,-0.358,-0.468,-0.502,unmethylated
+89,200577440025_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#019 850K Array data 2017-01-03\200577440025\200577440025_R05C01_Grn.idat,47,#019,19,NH16-2632,,200577440025_R05C01,11/15/2016 0:00,,1/13/2017 0:00,59.0,SB,Diagnostic,19,3,NDP,Royal London Hospital,"GBM, survived since 2012, check diagnosis","(2) unusual histology, location, demographics",B1,6/24/1943 0:00,68.92465753,pleomorphic xanthoastrocytoma(-like),0.980152737,PXA,0.760470006,0.807261,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2632,"Anaplastic pleomorphic xanthoastrocytoma (WHO grade III)_x000D_
+BRAF V600E mutation (see comment)_x000D_
+",,(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #019\NH16-2632,-0.1,-0.148,0.142,-0.059,0.034,-0.065,-0.188,0.075,0.074,0.026,0.07,0.14,-0.074,-0.088,-0.818,0.259,-0.556,-0.547,0.021,-0.002,0.102,0.058,0.088,0.091,0.031,0.054,-0.022,-0.578,-0.287,methylated
+95,200362700166_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R04C01_Grn.idat,56,#020,20,NH17-3,,200362700166_R04C01,1/10/2017 0:00,,1/26/2017 0:00,16.0,SB,Diagnostic,20,4,NDP,NHNN,?Glioblastoma,"(2) unusual histology, location, demographics",DEF1A,7/25/1963 0:00,53.4833847,"glioblastoma, IDH-wildtype, mesenchymal type",0.798570665,GBM_MES,0.952467157,0.604456,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-3,"Recurrent glioblastoma, IDH wild-type (WHO grade IV)_x000D_
+_x000D_
+","_x000D_
+Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH17-3,-0.05,-0.077,-0.024,0.381,0.065,0.133,0.06,0.245,0.352,0.372,0.225,-0.02,0.025,-0.014,-0.091,-0.017,0.021,-0.01,0.004,0.114,0.265,0.068,0.02,-0.03,0.06,0.027,0.115,-0.109,-0.166,unmethylated
+90,200362700166_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R01C01_Grn.idat,55,#020,20,NH16-2995,,200362700166_R01C01,1/16/2017 0:00,,1/26/2017 0:00,10.0,SB,Diagnostic,20,1,NDP,Royal London Hospital,IDH wtGBM?,"(5) Confirmation of rare, unusual or interesting histo-molecular results",DEF1A,10/15/1978 0:00,38.21495434,"glioblastoma, IDH-wildtype, mesenchymal type",0.531739229,GBM_RTKII,0.139180573,0.80283,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2995,"Preliminary diagnosis:_x000D_
+Malignant tumour with features suggestive of glioblastoma (WHO grade IV)  see comment_x000D_
+","Glioblastoma (WHO grade IV) _x000D_
+IDH1 (R132H IHC); IDH2 Seq: see comment _x000D_
+ATRX (IHC): Retained _x000D_
+1p/19q: Retained _x000D_
+EGFR: Amplification (see comment)_x000D_
+MGMT Promoter: No methylation  _x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH16-2995,-0.086,0.069,0.075,0.038,-0.026,-0.201,0.193,-0.018,-0.045,-0.319,-0.19,-0.088,0.076,-0.491,-1.267,-0.068,-0.283,0.13,-0.093,0.038,0.09,-0.123,-0.275,-0.259,-0.011,0.074,-0.214,-0.039,0.086,methylated
+91,200362700166_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R02C01_Grn.idat,52,#020,20,NH16-2798,,200362700166_R02C01,1/16/2017 0:00,,1/26/2017 0:00,10.0,SB,Diagnostic,20,1,NDP,NHNN,"?Glioma, ?Inflammation",(1) small biopsy or nonrepresentative sample;,DEF2A,11/22/1947 0:00,69.07513318,"glioblastoma, IDH-wildtype, mesenchymal type",0.469140782,GBM_MES,0.844961649,0.550823,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2798,"_x000D_
+Probable glioma, molecular investigations pending, see comment_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation, further tests pending _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+ _x000D_
+","_x000D_
+Molecular profile of Glioblastoma, IDH-wildtype (WHO grade IV)  see comment _x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH16-2798,-0.023,-0.109,0.063,0.064,-0.026,0.021,-0.232,0.237,0.165,0.146,0.124,-0.013,0.042,-0.024,-0.119,0.026,-0.112,-0.082,0.001,0.01,-0.024,-0.042,0.029,-0.034,0.03,-0.001,0.033,-0.176,-0.067,unmethylated
+92,200362700166_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R02C02_Grn.idat,51,#020,20,NH16-2771,,200362700166_R02C02,1/16/2017 0:00,,1/26/2017 0:00,10.0,SB,Diagnostic,20,1,NDP,"Cambridge, Addenbrooke's Hospital",GBM vs Ganglioglioma,"(2) unusual histology, location, demographics",E1,3/10/1960 0:00,56.68336568,"glioblastoma, IDH-wildtype, mesenchymal type",0.214646907,GBM_MES,0.513168406,0.861926,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2771,"Appearances compatible with anaplastic ganglioglioma (WHO grade III)  see comment_x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH16-2771,1.024,-0.041,0.016,0.141,-0.015,0.089,0.086,0.065,0.172,0.163,0.11,-0.054,0.027,0.089,-0.113,-0.043,-0.213,-0.047,0.038,-0.058,0.621,-0.164,0.002,-0.14,0.33,0.005,0.119,-0.035,0.005,methylated
+93,200362700166_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R03C01_Grn.idat,48,#020,20,NH16-2435,,200362700166_R03C01,1/16/2017 0:00,,1/26/2017 0:00,10.0,SB,Diagnostic,20,1,NDP,Romford,IDH wt GBM??,"(4) IHC, sequencing, or copy number assay ambiguous",C1,1/21/1978 0:00,38.75205479,diffuse leptomeningeal glioneuronal tumour,0.999997948,DLGNT,0.737789562,0.821436,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2435,"_x000D_
+High grade glioma, IDH-wild-type, corresponding to at least WHO grade III  see comment_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained (LOH1p)_x000D_
+EGFR: No amplification_x000D_
+Chromosome 7p: Gain (4 copies)_x000D_
+TERT promoter: Test failed repeatedly_x000D_
+Chromosome 10q: LOH_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH16-2435,0.238,-0.096,-0.025,0.04,0.001,0.017,-0.011,0.173,0.337,0.322,0.325,0.202,0.222,0.175,-0.034,0.025,0.075,0.023,0.074,0.024,0.029,-0.174,0.007,-0.014,0.02,-0.02,-0.069,0.028,-0.025,unmethylated
+94,200362700166_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R03C02_Grn.idat,54,#020,20,NH16-2875,,200362700166_R03C02,12/14/2016 0:00,,1/26/2017 0:00,43.0,SB,Diagnostic,20,9,NDP,NHNN,Medulloblastoma vs. Metastatic small cell lung ,"(2) unusual histology, location, demographics",SP1A,10/17/1958 0:00,58.18788052,"Diffuse paediatric-type high grade glioma, MYCN subtype",0.159662599,ETMR,0.076305005,0.911575,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2875,"Favour metastatic small cell (neuroendocrine) carcinoma, see comment_x000D_
+",,(4) misleading profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH16-2875,-0.125,-0.039,0.044,-0.029,-0.184,0.152,0.061,0.052,-0.166,-0.278,0.159,-0.44,0.361,0.436,-0.042,-0.273,-0.051,-0.02,-0.299,0.183,0.135,-0.058,-2.444,0.002,0.699,-0.04,0.001,-0.283,-0.099,unmethylated
+96,200362700166_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R05C01_Grn.idat,50,#020,20,NH16-2660,,200362700166_R05C01,1/16/2017 0:00,,1/26/2017 0:00,10.0,SB,Diagnostic,20,4,NDP,NHNN,Subependymoma (??),"(7) Establish  methylation class for histologcally defined entities, e.g. Medullo, ependymoma, etc",DEF1A,7/11/1958 0:00,58.39117199,infratentorial pilocytic astrocytoma,0.225235299,LGG_MYB,0.491751413,0.590881,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2660,"Subependymoma (WHO grade I)_x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH16-2660,0.161,-0.491,0.045,0.008,-0.084,0.116,-0.207,-0.075,0.065,0.172,0.049,0.126,-0.182,0.054,-0.268,0.058,-0.194,0.041,-0.146,-0.161,-0.023,0.198,0.071,-0.187,0.022,-0.021,0.166,-0.146,-0.272,unmethylated
+97,200362700166_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R05C02_Grn.idat,49,#020,20,NH16-2561,,200362700166_R05C02,1/16/2017 0:00,,1/26/2017 0:00,10.0,SB,Diagnostic,20,3,NDP,Romford,"LGG, unclear type","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",A5,2/25/1993 0:00,23.70547945,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.502312481,CONTR_HEMI,0.363154658,0.59214,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2561,"_x000D_
+Preliminary diagnosis:_x000D_
+_x000D_
+Low grade glioma  see comment_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+EGFR: No amplification_x000D_
+Chromosome 7p: Gain (3 copies)_x000D_
+TERT promoter: No mutation_x000D_
+Chromosome 10q: LOH_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+","_x000D_
+INTEGRATED DIAGNOSIS:_x000D_
+_x000D_
+Diffuse glioma, IDH-mutant (WHO grade II)  for typing see supplementary comment_x000D_
+ _x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: Mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+TERT promoter: Test unsuccessful _x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH16-2561,-0.014,-0.039,0.036,-0.018,-0.069,0.015,0.088,0.025,0.052,0.057,0.019,0.011,0.067,-0.016,0.018,-0.02,0.036,0.05,-0.017,0.051,-0.007,-0.056,0.052,-0.101,0.002,0.012,-0.105,-0.076,0.008,methylated
+98,200362700166_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#020_450K array data 2017-01-24\200362700166\200362700166_R06C01_Grn.idat,53,#020,20,NH16-2872,,200362700166_R06C01,1/16/2017 0:00,,1/26/2017 0:00,10.0,SB,Diagnostic,20,1,NDP,London Clinic,"Unclear glioma., CHECK REOPERATION FIRST ","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF1B,4/17/1977 0:00,39.67260274,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]",0.520985301,LGG_GG,0.228470047,0.661385,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2872,"Infiltration zone of a glioma, see comment_x000D_
+","Infiltration zone of a glioma._x000D_
+Molecular test results non-contributory_x000D_
+_x000D_
+COMMENT:_x000D_
+The molecular test excludes any type of IDH mutant glioma. Also, the possibility of a BRAFV600E mutant low grade glioma can be excluded. All other tests are non-contributory, i.e. they do not allow for a further differential diagnosis._x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #020\NH16-2872,-0.135,-0.08,-0.004,0.029,-0.042,0.026,-0.067,0.288,0.243,0.265,0.2,-0.035,0.065,-0.048,-0.072,-0.039,-0.385,-0.093,-0.085,-0.022,-0.007,-0.083,0.086,-0.147,0.106,0.068,0.053,-0.23,-0.101,unmethylated
+104,200577440082_R07C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#021_850K array data 2017-10-02\IDATs\200577440082\200577440082_R07C01_Grn.idat,62,#021,21,NH16-2342,,200577440082_R07C01,1/26/2017 0:00,,2/9/2017 0:00,14.0,SB,Epigenetics,21,4,NDP,NHNN,"GBM, Epigenetics","(6) Research sample, for stratification or subclassification",DEF1D,3/27/1972 0:00,44.5738261,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.999633553,AIDH_HG,0.961466161,0.823556,"CNPs at bands 7q33, 7q34 and 7q35 are consistent with a KIAA1549-BRAF fusion event.",NH16-2342,"Glioblastoma (WHO grade IV), IDH1 mutant_x000D_
+_x000D_
+IDH1 (R132H IHC): Mutation_x000D_
+ATRX (IHC): Loss of expression (mutated)_x000D_
+1p/19q: Test pending_x000D_
+",,(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #021\NH16-2342,0.031,-0.111,-0.003,-0.041,-0.062,0.014,0.039,-0.12,-0.433,-0.163,-0.101,-0.008,-0.012,0.03,-0.334,0.04,0.011,0.038,-0.052,0.179,-0.009,-0.361,-0.13,-0.008,-0.032,0.02,-0.012,-0.212,-0.247,methylated
+103,200577440082_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#021_850K array data 2017-10-02\IDATs\200577440082\200577440082_R06C01_Grn.idat,61,#021,21,NH16-2255,,200577440082_R06C01,1/26/2017 0:00,,2/9/2017 0:00,14.0,SB,Epigenetics,21,3,NDP,NHNN,"GBM, Epigenetics","(6) Research sample, for stratification or subclassification",DEF1D,12/24/1949 0:00,66.81550609,"glioblastoma, IDH-wildtype, RTK2 type",0.999362065,GBM_RTKII,0.8782629,0.807206,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2255,"_x000D_
+Glioblastoma (WHO Grade IV) _x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Test pending_x000D_
+_x000D_
+_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #021\NH16-2255,-0.129,-0.083,0.036,-0.025,-0.007,0.017,-0.36,1.221,0.246,0.335,0.232,0.007,0.015,0.005,-1.606,0.014,-0.366,-0.312,-0.067,-0.07,0.004,-0.002,0.003,-0.011,0.044,0.031,0.203,-0.04,0.061,unmethylated
+102,200577440082_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#021_850K array data 2017-10-02\IDATs\200577440082\200577440082_R05C01_Grn.idat,60,#021,21,NH16-2251,,200577440082_R05C01,1/26/2017 0:00,,2/9/2017 0:00,14.0,SB,Epigenetics,21,4,NDP,NHNN,"GBM, Epigenetics","(6) Research sample, for stratification or subclassification",DEF1C,10/2/1948 0:00,68.04247527,"glioblastoma, IDH-wildtype, RTK2 type",0.999271292,GBM_RTKII,0.973060375,0.824555,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2251,"_x000D_
+Glioblastoma (WHO grade IV) _x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Test pending_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #021\NH16-2251,0.305,-0.063,0.049,-0.022,-0.018,0.02,-0.009,1.358,0.38,0.217,0.156,-0.006,0.026,0.045,-1.359,0.002,-0.375,-0.321,-0.011,-0.02,-0.006,0.011,-0.014,0.011,0.079,0.078,-0.059,-0.022,0.02,unmethylated
+105,200577440082_R08C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#021_850K array data 2017-10-02\IDATs\200577440082\200577440082_R08C01_Grn.idat,63,#021,21,NH16-2806,,200577440082_R08C01,1/26/2017 0:00,,2/9/2017 0:00,14.0,SB,Epigenetics,21,3,NDP,NHNN,"GBM, Epigenetics","(6) Research sample, for stratification or subclassification",DEF1B,6/10/1950 0:00,66.52479072,"glioblastoma, IDH-wildtype, RTK2 type",0.999988958,GBM_RTKII,0.989110461,0.845189,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2806,"Glioblastoma (WHO grade IV)_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Test pending_x000D_
+","INTEGRATED DIAGNOSIS:_x000D_
+_x000D_
+Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter: Low level methylation (10%)_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+EGFR: Moderate amplification_x000D_
+TERT promoter: Test unsuccessful repeatedly _x000D_
+Chromosome 10q: LOH_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #021\NH16-2806,-0.13,-0.074,0.026,-0.11,-0.058,0.027,0.144,1.544,-0.021,0.025,-0.044,-0.025,0.131,0.028,-1.89,0.019,-0.449,-0.419,-0.038,-0.028,-0.002,-0.006,0.043,0.014,0.059,0.086,0.187,-0.093,0.064,methylated
+101,200577440082_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#021_850K array data 2017-10-02\IDATs\200577440082\200577440082_R03C01_Grn.idat,58,#021,21,NH16-1976,,200577440082_R03C01,1/26/2017 0:00,,2/9/2017 0:00,14.0,SB,Epigenetics,21,1,NDP,NHNN,"GBM, Epigenetics","(6) Research sample, for stratification or subclassification",DEF1A,4/26/1968 0:00,48.36606735,"glioblastoma, IDH-wildtype, RTK2 type",0.989671226,GBM_RTKII,0.960876997,0.774017,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-1976,"Glioblastoma (WHO grade IV)_x000D_
+ _x000D_
+IDH1 (R132H IHC): No mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Test pending_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #021\NH16-1976,0.136,-0.046,0.027,0.023,0.269,0.013,-0.014,1.474,0.295,0.323,0.233,-0.014,0.061,0.035,-0.018,0.029,-0.324,-0.305,-0.09,-0.013,1.059,2.055,-0.064,0.045,0.164,0.082,0.182,0.0,0.082,unmethylated
+99,200577440082_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#021_850K array data 2017-10-02\IDATs\200577440082\200577440082_R01C01_Grn.idat,57,#021,21,NH16-1240,,200577440082_R01C01,1/26/2017 0:00,,2/9/2017 0:00,14.0,SB,Epigenetics,21,3,NDP,NHNN,"GBM, Epigenetics","(6) Research sample, for stratification or subclassification",DEF2A,9/4/1965 0:00,50.77708143,"glioblastoma, IDH-wildtype, RTK2 type",0.986972991,GBM_RTKII,0.873156275,0.829241,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-1240,"Glioblastoma (WHO grade IV)_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation.  _x000D_
+ATRX (IHC): Technically not satisfactory.    _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #021\NH16-1240,-0.017,-0.082,0.24,-0.044,-0.122,0.056,-0.467,0.221,0.298,0.366,0.267,-0.02,-0.018,0.087,-2.053,0.015,-0.426,-0.42,-0.001,0.224,0.033,0.02,-0.486,-0.429,-0.532,-0.011,-0.062,-0.095,0.071,unmethylated
+100,200577440082_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#021_850K array data 2017-10-02\IDATs\200577440082\200577440082_R02C01_Grn.idat,59,#021,21,NH16-2214,,200577440082_R02C01,1/26/2017 0:00,,2/9/2017 0:00,14.0,SB,Epigenetics,21,1,NDP,NHNN,"GBM, Epigenetics","(6) Research sample, for stratification or subclassification",DEF1A,12/11/1942 0:00,73.84812405,"glioblastoma, IDH-wildtype, mesenchymal type",0.999941209,GBM_MES,0.9583265,0.713655,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2214,"Glioblastoma, IDH wild-type (WHO grade IV)_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation; further tests pending _x000D_
+ATRX (IHC): Retained (no mutation)_x000D_
+1p/19q: Test pending_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #021\NH16-2214,0.001,0.002,0.033,-0.07,0.037,0.046,0.06,1.096,0.157,0.19,0.118,-0.024,-0.03,0.051,-0.582,0.039,-0.243,-0.127,-0.015,-0.019,0.483,0.685,-0.214,0.04,0.023,-0.061,0.0,-0.021,-0.006,methylated
+113,200362700167_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R06C01_Grn.idat,69,#022,22,NH17-171,,200362700167_R06C01,1/19/2017 0:00,,2/24/2017 0:00,36.0,SB,Diagnostic,22,1,NDP,Royal London Hospital,?GBM; ?PXA,"(2) unusual histology, location, demographics",DEF1A,11/28/1960 0:00,56.18767123,"glioblastoma, IDH-wildtype, mesenchymal type",0.999999915,GBM_MES,0.99054207,0.616075,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-171,"Glioblastoma (WHO grade IV)_x000D_
+IDH1 (R132H IHC): No mutation _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Test pending_x000D_
+","INTEGRATED DIAGNOSIS:_x000D_
+_x000D_
+Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+(Methylation profile of glioblastoma, IDH-wildtype, subclass mesenchymal)_x000D_
+_x000D_
+MGMT Promoter: Low level methylation (10%)_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+EGFR: No amplification_x000D_
+Chromosome 7p: Gain (5 copies)_x000D_
+TERT promoter: Mutation_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #022\NH17-171,0.24,-0.058,-0.013,0.012,-0.049,-0.029,-0.185,0.556,0.028,0.019,0.021,0.016,0.016,-0.068,-0.566,-0.024,-0.113,-0.107,-0.082,-0.013,-0.031,-0.016,-0.158,-0.095,0.119,0.023,-0.01,-0.176,-0.156,methylated
+109,200362700167_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R02C02_Grn.idat,70,#022,22,NH17-211,,200362700167_R02C02,2/1/2017 0:00,,2/24/2017 0:00,23.0,SB,Diagnostic,22,7,NDP,Royal London Hospital,?GBM; ?PA,"(2) unusual histology, location, demographics",DEF1A,7/27/1994 0:00,22.51643836,infratentorial pilocytic astrocytoma,0.657649161,LGG_PAPF,0.571474202,0.502863,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-211,"The features are those of a glioma. The most likely differential lies between a pilocytic astrocytoma and an ependymoma, however the morphology is unusual. High grade features are not seen. _x000D_
+","Pilocytic astrocytoma (WHO grade I)_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #022\NH17-211,-0.121,-0.061,0.046,0.034,-0.071,0.031,0.008,0.164,0.246,0.217,0.191,-0.005,0.044,-0.02,0.011,-0.004,0.185,0.201,0.176,0.22,0.086,0.141,0.086,-0.086,-0.037,0.036,0.002,-0.043,0.072,unmethylated
+110,200362700167_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R03C02_Grn.idat,68,#022,22,NH17-168,,200362700167_R03C02,1/19/2017 0:00,,2/24/2017 0:00,36.0,SB,Diagnostic,22,1,NDP,NHNN,?GBM,"(2) unusual histology, location, demographics",DEF2B,12/11/1979 0:00,37.14089612,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype,0.228756602,ANAPA,0.771841876,0.605903,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-168,"Histology and immunohistochemistry favour glioblastoma (WHO grade IV). Please see comment._x000D_
+IDH1 (R132H IHC): No mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Test pending_x000D_
+","INTEGRATED DIAGNOSIS:_x000D_
+_x000D_
+Histological diagnosis: High grade astrocytoma, for grading  see comment_x000D_
+Methylation profile: Anaplastic pilocytic astrocytoma  see comment_x000D_
+_x000D_
+MGMT Promoter: Intermediate level of methylation (15%)_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+EGFR: No amplification_x000D_
+Chromosome 7p: Gain (detected with qPCR and Illumina 450k array)_x000D_
+TERT promoter: Test unsuccessful repeatedly_x000D_
+Chromosome 10q: LOH (detected with qPCR)_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+Illumina 450k array: Multiple chromosomal deletions (see below) _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #022\NH17-168,-0.052,-0.298,0.016,-0.033,0.094,0.187,0.149,0.186,0.102,0.157,0.073,-0.072,0.086,-0.04,-0.532,-0.026,-0.024,0.07,-0.145,0.022,-0.04,-0.076,-0.186,-0.378,0.09,0.118,-0.245,-0.236,-0.18,methylated
+111,200362700167_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R04C01_Grn.idat,64,#022,22,NH16-2577,,200362700167_R04C01,1/16/2017 0:00,,2/24/2017 0:00,39.0,SB,Diagnostic,22,3,NDP,"Charing Cross Hospital, London",Oligodendroglioma,(1) small biopsy or nonrepresentative sample;,F1,2/25/1975 0:00,41.66401256,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.999972773,OIDH,0.999969141,0.876907,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-2577,"_x000D_
+Infiltration margin of diffuse glioma, IDH-mutant - see comment_x000D_
+_x000D_
+MGMT Promoter: Low level methylation (10%)_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: IDH1 mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+EGFR: No amplification_x000D_
+Chromosome 7p: Gain (3 copies)_x000D_
+TERT promoter: Test unsuccessful repeatedly_x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+_x000D_
+","INTEGRATED DIAGNOSIS:_x000D_
+_x000D_
+Anaplastic oligodendroglioma, IDH-mutant and 1p/19q codeleted (WHO grade III)_x000D_
+_x000D_
+MGMT Promoter: Low level methylation (10%)_x000D_
+_x000D_
+IDH1 (R132H IHC): Mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Codeleted (detected via copy number assessment using Illumina 450k methylation profiling) _x000D_
+Chromosome 7p and EGFR: No significant gain and no amplification_x000D_
+TERT promoter: Test unsuccessful repeatedly _x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #022\NH16-2577,0.0,-0.098,-0.081,-0.086,-0.165,-0.015,0.044,0.03,0.071,0.082,0.012,0.0,0.087,-0.058,-0.049,0.031,0.063,-0.024,-0.016,0.074,-0.009,-0.056,0.058,0.04,0.107,0.072,-0.562,0.152,0.206,methylated
+108,200362700167_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R02C01_Grn.idat,65,#022,22,NH17-131,,200362700167_R02C01,1/19/2017 0:00,,2/24/2017 0:00,36.0,SB,Diagnostic,22,4,NDP,NHNN,"Recurrent ""1p/19q codel"", IDH wt glioma. ? PXA?","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF2A,4/28/1972 0:00,44.75534627,pleomorphic xanthoastrocytoma(-like),0.205836283,PXA,0.512787421,0.763843,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-131,"_x000D_
+High grade glial tumour, await molecular profiling for final diagnosis, see comment. _x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation       _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+","_x000D_
+Molecular profile compatible with glioblastoma, IDH-wildtype (WHO grade IV)  see comment_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Partial 1p loss (detected on Illumina 450k copy number variation profile; qPCR  inconclusive results)_x000D_
+EGFR: No amplification_x000D_
+Chromosome 7p: Gain (detected with qPCR and Illumina 450k)_x000D_
+TERT promoter: No mutation_x000D_
+Chromosome 10q: LOH (detected with qPCR and Illumina 450k)_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+Illumina 450k copy number variation profile: Multiple chromosomal losses_x000D_
+_x000D_
+",(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #022\NH17-131,0.045,-0.079,-0.048,-0.197,-0.174,-0.074,0.001,0.143,0.246,0.278,0.132,-0.026,0.056,0.015,-0.255,-0.023,-0.216,-0.285,-0.353,0.007,0.002,-0.168,-0.286,-0.284,-0.233,-0.305,-0.042,-0.284,-0.312,unmethylated
+107,200362700167_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R01C02_Grn.idat,67,#022,22,NH17-157,,200362700167_R01C02,2/13/2017 0:00,,2/24/2017 0:00,11.0,SB,Diagnostic,22,6,NDP,Brighton and Sussex Hospital,"GBM, ATRX loss, IDH-wildtype; H3-wildtype","(5) Confirmation of rare, unusual or interesting histo-molecular results",DEF1A,5/17/1974 0:00,42.70547945,"Diffuse hemispheric glioma, H3 G34-mutant",0.99998883,GBM_G34,0.999733437,0.848312,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-157,"Glioblastoma (WHO grade IV), please see comment._x000D_
+IDH1 (R132H IHC): No mutation _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+1p/19q: Test pending_x000D_
+","_x000D_
+Methylation profile: Glioblastoma, IDH-wildtype, H3.3 G34 mutant (WHO grade IV)_x000D_
+_x000D_
+Molecular profile: Glioblastoma, IDH-wildtype (WHO grade IV)  see comment_x000D_
+_x000D_
+MGMT Promoter: Intermediate level of methylation (15%)_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #022\NH17-157,0.147,-0.284,-0.043,0.01,0.156,0.066,0.052,-0.033,0.619,0.175,0.012,0.026,0.148,-0.052,-0.255,0.005,0.004,0.061,-0.112,0.032,0.026,-0.071,-0.414,-0.008,0.165,0.104,-0.099,-0.092,0.019,methylated
+112,200362700167_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R04C02_Grn.idat,66,#022,22,NH17-156,,200362700167_R04C02,1/19/2017 0:00,,2/24/2017 0:00,36.0,SB,Diagnostic,22,1,NDP,Royal London Hospital,"High grade glioma, nos ?ependymoma","(2) unusual histology, location, demographics",DEF1A,12/18/1988 0:00,28.10547945,"Diffuse paediatric-type high grade glioma, MYCN subtype",0.091134222,GBM_RTKII,0.31533926,0.759503,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-156,"High grade glial tumour. Please see comment._x000D_
+","INTEGRATED DIAGNOSIS:_x000D_
+_x000D_
+Methylation profile in favour of Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #022\NH17-156,0.151,-0.186,-0.014,-0.052,-0.134,0.027,0.023,-0.005,0.025,0.049,0.0,-0.022,0.067,-0.043,-0.008,-0.032,-0.232,-0.305,-0.226,-0.085,-0.038,-0.041,-0.028,-0.314,0.056,0.052,-0.032,-0.175,-0.223,unmethylated
+117,200069280223_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#023_450k array data 2017-04-10\200069280223\200069280223_R06C01_Grn.idat,75,#023,23,NH17-683,,200069280223_R06C01,3/17/2017 0:00,,4/7/2017 0:00,21.0,SB,Diagnostic,23,5,NDP,"Leeds, St James's University Hospital",,"(5) Confirmation of rare, unusual or interesting histo-molecular results",B1,9/5/1971 0:00,45.55753425,"Diffuse hemispheric glioma, H3 G34-mutant",0.99999703,GBM_G34,0.999482309,0.93046,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-683,"_x000D_
+Glioblastoma, H3.3 G34R mutant (WHO grade IV)_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation_x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+Histone H3F3A (G34R IHC and Seq): Mutation_x000D_
+",,(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #023\NH17-683,-0.031,-0.05,-0.184,-0.01,0.15,0.099,0.106,-0.049,0.425,0.324,0.147,-0.032,0.137,-0.037,-0.482,0.279,-0.171,-0.532,-0.011,-0.065,0.001,-0.071,-0.509,-0.652,0.137,0.03,-0.851,-0.262,-0.287,methylated
+114,200362700167_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R06C02_Grn.idat,72,#023,23,NH17-386,,200362700167_R06C02,2/16/2017 0:00,,2/24/2017 0:00,8.0,SB,Diagnostic,23,1,NDP,NHNN,?pilocytic,"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF1A,10/24/1977 0:00,39.33825152,high-grade astrocytoma with piloid features,0.626090623,ANAPA,0.871389097,0.619743,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-386,"Preliminary diagnosis: _x000D_
+Glial (or glioneuronal) tumour; molecular studies in progress for typing and grading of the tumour  see comment _x000D_
+","Methylation profile of anaplastic pilocytic astrocytoma (see previous comments grading)_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #023\NH17-386,-0.017,-0.111,0.045,0.066,-0.037,0.064,0.246,-0.016,0.003,-0.001,0.002,-0.031,0.02,-0.072,0.125,0.126,0.134,0.14,0.079,-0.034,-0.047,-0.067,0.012,-0.121,-0.027,0.063,0.044,-0.269,-0.222,unmethylated
+115,200069280223_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#023_450k array data 2017-04-10\200069280223\200069280223_R01C02_Grn.idat,73,#023,23,NH17-414,,200069280223_R01C02,3/22/2017 0:00,,4/7/2017 0:00,16.0,SB,Diagnostic,23,3,NDP,"Belfast, Royal Victoria Hospital",,"(4) IHC, sequencing, or copy number assay ambiguous",417463,5/31/1974 0:00,42.71917808,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.99987128,AIDH,0.998020904,0.761579,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-414,"_x000D_
+Astrocytoma, IDH-mutant  for grading, see comment below and the original pathology report (41700463, Belfast)_x000D_
+_x000D_
+MGMT Promoter: Low level methylation (10%)_x000D_
+_x000D_
+IDH1 (R132H IHC): Mutation  _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+1p/19q: Retained (confirmed with qPCR and Illumina 450k array)_x000D_
+_x000D_
+EGFR: No amplification_x000D_
+Chromosome 7p: Gain (confirmed with qPCR and Illumina 450k array)_x000D_
+_x000D_
+TERT promoter: Test unsuccessful repeatedly _x000D_
+Chromosome 10q: Test unsuccessful repeatedly_x000D_
+_x000D_
+",,(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #023\NH17-414,-0.035,-0.104,-0.026,-0.079,-0.029,-0.073,0.015,0.172,0.046,0.053,0.178,0.018,0.019,0.021,-0.053,-0.035,0.069,-0.032,-0.043,0.005,0.01,-0.131,-0.001,-0.035,0.005,0.035,-0.147,0.024,-0.047,methylated
+116,200069280223_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#023_450k array data 2017-04-10\200069280223\200069280223_R02C01_Grn.idat,71,#023,23,NH16-378,,200069280223_R02C01,2/8/2017 0:00,,4/7/2017 0:00,58.0,SB,Diagnostic,23,1,NDP,NHNN,"Low grade glioneuronal tumour (to confirm)IDHwt, ATRX retained","(2) unusual histology, location, demographics",DEF1A,10/24/1977 0:00,38.33853501,supratentorial pilocytic astrocytoma,0.327288377,LGG_PAPF,0.45115106,0.616424,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-378,"Low grade glioneuronal tumour, see comment_x000D_
+","_x000D_
+Methylation profile of anaplastic pilocytic astrocytoma  see supplementary comment_x000D_
+_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #023\NH16-378,-0.093,0.024,0.023,-0.003,-0.026,-0.033,0.269,-0.063,0.078,-0.018,-0.014,-0.074,0.013,0.069,0.182,0.079,0.136,0.137,0.153,0.053,0.032,-0.011,0.066,-0.045,-0.064,0.027,-0.034,-0.17,-0.122,unmethylated
+118,200069280223_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#023_450k array data 2017-04-10\200069280223\200069280223_R06C02_Grn.idat,74,#023,23,NH17-419,,200069280223_R06C02,3/24/2017 0:00,,4/7/2017 0:00,14.0,SB,Diagnostic,23,1,NDP,"Birmingham, Queen Elizabeth Hospital",?anaplstic pilocytic astrocytoma,"(5) Confirmation of rare, unusual or interesting histo-molecular results",A1,8/31/1979 0:00,37.49178082,high-grade astrocytoma with piloid features,0.891581644,ANAPA,0.856765267,0.528721,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-419,"Preliminary diagnosis:_x000D_
+Appearances raising the possibility of anaplastic pilocytic astrocytoma  for grading and typing see also comment_x000D_
+","Methylation profile of anaplastic pilocytic astrocytoma  for grading, see supplementary comment _x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #023\NH17-419,-0.057,-0.086,-0.027,-0.022,-0.029,0.005,0.012,0.002,0.084,0.15,0.059,-0.018,0.156,0.033,-0.344,0.009,-0.006,0.033,-0.019,0.008,0.081,0.126,-0.01,-0.031,0.043,0.003,-0.122,-0.053,0.068,methylated
+126,200362700171_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#024_450K array data 2017-05-31\200362700171\200362700171_R05C02_Grn.idat,77,#024,24,NH14-108,,200362700171_R05C02,4/11/2017 0:00,,6/2/2017 0:00,52.0,SB,Diagnostic,24,5,NDP,NHNN,"Ependymoma, other glioma?","(7) Establish  methylation class for histologcally defined entities, e.g. Medullo, ependymoma, etc",SP1A,12/27/1983 0:00,30.08075723,pleomorphic xanthoastrocytoma(-like),0.999410479,PXA,0.992037409,0.8247,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-108,"Anaplastic ependymoma WHO grade III. _x000D_
+","_x000D_
+Molecular and methylation profile in keeping with anaplastic pleomorphic xanthoastrocytoma, BRAFV600E-mutant (WHO grade III)  see supplementary comment_x000D_
+_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #024\NH14-108,-0.094,0.094,0.101,0.037,-0.073,0.066,-0.267,0.087,0.201,0.18,0.103,0.099,0.136,0.105,-1.597,-0.041,-0.202,-0.227,-0.246,0.218,0.241,0.338,-0.043,-0.035,0.037,-0.006,-0.011,-0.063,-0.014,unmethylated
+125,200362700171_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#024_450K array data 2017-05-31\200362700171\200362700171_R05C01_Grn.idat,87,#024,24,NH17-982,,200362700171_R05C01,5/17/2017 0:00,,6/2/2017 0:00,16.0,SB,Diagnostic,24,6,NDP,"Birmingham, Queen Elizabeth Hospital","GBM, IDH wt and H3 wt","(2) unusual histology, location, demographics",,1/30/2001 0:00,16.14934741,"Diffuse paediatric-type high grade glioma, MYCN subtype",0.995944069,GBM_MYCN,0.999952583,0.76254,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-982,"_x000D_
+Glioblastoma, IDH-wildtype (WHO grade IV)  see comment_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+Histone H3F3A (K27M and G34R IHC and Seq): No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+","_x000D_
+Molecular and methylation profile: Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+Histone H3F3A (K27M and G34R IHC and Seq): No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #024\NH17-982,0.266,0.289,0.34,-0.055,-0.174,0.061,-0.074,0.373,0.368,0.411,0.311,-0.118,0.027,-0.117,0.379,0.277,0.191,0.304,-0.149,0.258,0.129,0.203,0.351,-0.106,-0.068,0.047,0.271,-0.096,0.035,unmethylated
+124,200362700171_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#024_450K array data 2017-05-31\200362700171\200362700171_R04C01_Grn.idat,78,#024,24,NH17-1017,,200362700171_R04C01,5/17/2017 0:00,,6/2/2017 0:00,16.0,SB,Diagnostic,24,6,NDP,"Birmingham, Queen Elizabeth Hospital","GBM, IDH wt and H3 wt","(2) unusual histology, location, demographics",B,4/1/1995 0:00,22.0890411,"glioblastoma, IDH-wildtype, mesenchymal type",0.981706954,GBM_MES,0.671138191,0.735261,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1017,"_x000D_
+Glioblastoma, IDH-wildtype (WHO grade IV)  see comment_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+TERT promoter: No mutation_x000D_
+Histone H3F3A (K27M and G34R IHC and Seq): No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+","_x000D_
+Molecular and methylation profile: Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+TERT promoter: No mutation_x000D_
+Histone H3F3A (K27M and G34R IHC and Seq): No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #024\NH17-1017,0.061,-0.044,0.017,0.066,-0.081,0.267,-0.099,0.239,0.371,0.38,0.264,-0.024,0.009,0.005,0.02,-0.01,0.037,0.041,0.0,0.164,0.102,0.203,-0.068,-0.029,-0.031,0.048,-0.173,-0.065,0.079,methylated
+141,200362700107_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#027_450k array data 2017-07-31\200362700107\200362700107_R01C01_Grn.idat,81,#027,24,NH17-1049,,200362700107_R01C01,7/20/2017 0:00,,7/27/2017 0:00,7.0,SB,Diagnostic,27,5,NDP,Royal London Hospital,"IDHwt diffuse glioma, low grade",(1) small biopsy or nonrepresentative sample;,DEF1A,6/27/1985 0:00,31.87518075,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]",0.280909028,GBM_RTKII,0.400432471,0.725595,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1049,"_x000D_
+Low grade glioma (WHO grade II) (see comment)_x000D_
+  _x000D_
+IDH1 (R132H IHC): No mutation ; Further tests pending _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+","Histological diagnosis:_x000D_
+Low grade glioma (WHO grade II)_x000D_
+_x000D_
+Molecular and methylation profile: _x000D_
+Raising the possibility of infiltration margin or early stage of IDH-wildtype glioblastoma (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #027\NH17-1049,-0.009,0.03,0.046,0.018,-0.075,-0.001,-0.423,0.298,0.005,-0.033,0.001,0.002,-0.036,-0.002,-0.298,-0.019,-0.306,-0.236,-0.059,0.003,0.009,0.009,-0.285,-0.018,0.013,0.023,0.03,-0.309,-0.228,unmethylated
+121,200362700171_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#024_450K array data 2017-05-31\200362700171\200362700171_R03C01_Grn.idat,84,#024,24,NH17-1079,,200362700171_R03C01,5/9/2017 0:00,,6/2/2017 0:00,24.0,SB,Diagnostic,24,2,NDP,Romford,?glioneuronal tumour; await MB4 results before processing,"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",B2,10/15/1966 0:00,50.54931507,ganglioglioma,0.494990265,LGG_MYB,0.371312929,0.555709,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1079,"Low grade glioma, methylation class ganglioglioma (WHO grade I)_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #024\NH17-1079,-0.083,0.021,0.048,0.103,0.05,0.01,-0.204,0.163,0.133,0.113,0.134,0.013,-0.047,-0.004,-0.027,-0.084,-0.145,-0.108,-0.017,-0.007,0.047,0.085,-0.162,0.008,-0.117,-0.066,0.084,-0.076,0.083,unmethylated
+120,200362700171_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#024_450K array data 2017-05-31\200362700171\200362700171_R02C02_Grn.idat,79,#024,24,NH17-1036,,200362700171_R02C02,5/22/2017 0:00,,6/2/2017 0:00,11.0,SB,Diagnostic,24,4,NDP,"Belfast, Royal Victoria Hospital",AO vs GBM,"(4) IHC, sequencing, or copy number assay ambiguous",,10/11/1980 0:00,36.55205479,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.999553322,AIDH_HG,0.997420034,0.861188,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1036,"_x000D_
+High grade glioma, IDH-mutant  see comment_x000D_
+_x000D_
+MGMT Promoter: High level methylation (75%)_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: Mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Raising the possibility of codeletion, but qPCR test is inconclusive requirying further / repeated testing_x000D_
+EGFR: Weak amplification_x000D_
+TERT promoter: Test unsuccessful_x000D_
+Chromosome 10q: Test unsuccessful _x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+","_x000D_
+Glioblastoma, IDH-mutant (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter: High level methylation (75%)_x000D_
+_x000D_
+IDH1 (R132H IHC): Mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained (as per Illumina 450k array CNV profile)_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #024\NH17-1036,-0.16,-0.027,-0.011,-0.024,0.047,-0.008,-0.513,0.051,0.023,0.124,0.029,-0.016,0.069,0.168,-0.022,-0.096,-0.755,-0.444,-0.064,0.2,0.85,-0.07,0.013,-0.184,0.001,0.031,-0.147,-0.083,0.005,methylated
+122,200362700171_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#024_450K array data 2017-05-31\200362700171\200362700171_R03C02_Grn.idat,80,#024,24,NH17-1049,,200362700171_R03C02,5/22/2017 0:00,,6/2/2017 0:00,11.0,SB,Diagnostic,24,5,NDP,Royal London Hospital,"IDHwt diffuse glioma, low grade",(1) small biopsy or nonrepresentative sample;,DEF1A,6/27/1985 0:00,31.87518075,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]",0.264104734,GBM_RTKII,0.355663123,0.70309,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1049,"_x000D_
+Low grade glioma (WHO grade II) (see comment)_x000D_
+  _x000D_
+IDH1 (R132H IHC): No mutation ; Further tests pending _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+","Histological diagnosis:_x000D_
+Low grade glioma (WHO grade II)_x000D_
+_x000D_
+Molecular and methylation profile: _x000D_
+Raising the possibility of infiltration margin or early stage of IDH-wildtype glioblastoma (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #024\NH17-1049,-0.092,0.012,0.043,0.044,-0.04,0.017,-0.37,0.178,-0.054,-0.133,-0.001,0.021,-0.057,0.007,-0.295,-0.03,-0.275,-0.229,-0.017,-0.045,-0.01,0.038,-0.323,0.015,-0.155,-0.006,0.018,-0.248,-0.157,unmethylated
+127,200362700171_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#024_450K array data 2017-05-31\200362700171\200362700171_R06C02_Grn.idat,86,#024,24,NH17-734,,200362700171_R06C02,4/1/2017 0:00,,6/2/2017 0:00,62.0,SB,Diagnostic,24,1,NDP,Royal London Hospital,"?Long survivor (5Y) of Giant cell GBM, ? Epitheliod GBM","(2) unusual histology, location, demographics",DEF1A,4/5/1982 0:00,34.98767123,"Diffuse paediatric-type high grade glioma, MYCN subtype",0.819484588,GBM_RTKII,0.143725652,0.674698,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-734,"High grade intrinsic tumour, see comment._x000D_
+","_x000D_
+Molecular and methylation profile: Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+TERT promoter: No mutation_x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #024\NH17-734,0.089,0.121,0.151,-0.181,-0.142,0.316,-0.038,0.275,0.362,0.336,0.281,0.033,0.001,-0.025,0.296,0.234,0.068,-0.011,-0.099,-0.072,-0.06,0.135,0.017,-0.055,0.07,0.043,-0.222,-0.03,0.002,unmethylated
+106,200362700167_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#022_450K array data 2017-02-27\IDATs\200362700167\200362700167_R01C01_Grn.idat,76,#022,24,NH11-44,,200362700167_R01C01,1/16/2017 0:00,,2/24/2017 0:00,39.0,SB,Diagnostic,22,4,NDP,NHNN,GBM IDHwt. Long survival,"(6) Research sample, for stratification or subclassification",SP1A,3/8/1947 0:00,63.89975837,"glioblastoma, IDH-wildtype, mesenchymal type",0.999999213,GBM_MES,0.96642919,0.680476,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH11-44,"Glioblastoma multiforme, WHO grade IV_x000D_
+","INTEGRATED DIAGNOSIS:_x000D_
+_x000D_
+Glioblastoma, IDH-wildtype (WHO grade IV) _x000D_
+_x000D_
+(Methylation profile of glioblastoma, IDH-wildtype, subclass mesenchymal)_x000D_
+_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #022\NH11-44,-0.019,-0.251,-0.089,0.109,-0.155,-0.07,-0.069,0.15,0.356,0.369,0.14,-0.086,0.027,-0.029,-0.014,-0.019,-0.17,-0.236,-0.143,-0.097,-0.02,-0.282,0.075,-0.08,0.204,0.032,-0.122,-0.08,-0.011,methylated
+119,200362700171_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#024_450K array data 2017-05-31\200362700171\200362700171_R01C02_Grn.idat,85,#024,24,NH17-1123,,200362700171_R01C02,5/19/2017 0:00,,6/2/2017 0:00,14.0,SB,Diagnostic,24,5,NDP,"Belfast, Royal Victoria Hospital",APA vs H3mt Diffuse midline glioma (ATRX loss),"(4) IHC, sequencing, or copy number assay ambiguous",,1/17/1944 0:00,73.33013699,high-grade astrocytoma with piloid features,0.995739689,ANAPA,0.972930637,0.533293,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1123,"_x000D_
+Methylation profile of anaplastic pilocytic astrocytoma  see comment_x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #024\NH17-1123,-0.117,-0.086,0.024,-0.015,-0.061,0.033,-0.133,-0.008,0.001,0.031,0.023,0.02,-0.049,0.009,-0.272,0.001,0.005,0.011,-0.006,-0.06,0.04,0.214,-0.049,-0.023,-0.106,0.114,-0.051,0.02,0.061,methylated
+132,200362700212_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R03C02_Grn.idat,91,#025,25,NH17-1417,,200362700212_R03C02,6/22/2017 0:00,,6/29/2017 0:00,7.0,SB,Diagnostic,25,12,NDP,NHNN,H3 K27mt diffuse midline glioma,"(5) Confirmation of rare, unusual or interesting histo-molecular results",DEF1A,3/16/1976 0:00,41.27859589,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing",0.999623898,DMG_K27,0.995800714,0.814478,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1417,"Diffuse midline glioma, H3 K27M-mutant (WHO grade IV)_x000D_
+  _x000D_
+IDH1 (R132H IHC): Negative (no mutation)       _x000D_
+ATRX (IHC): Retained_x000D_
+H3 K27M (IHC): Positive (indicates mutation)     _x000D_
+  _x000D_
+_x000D_
+_x000D_
+_x000D_
+_x000D_
+","_x000D_
+Diffuse midline glioma, H3 K27M-mutant (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+Histone H3F3A (Seq and K27M IHC): K27M mutation_x000D_
+BRAF (Seq and V600E IHC): No mutation _x000D_
+_x000D_
+_x000D_
+_x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH17-1417,-0.161,0.06,0.094,0.029,0.207,0.113,-0.054,-0.012,0.063,0.013,-0.033,-0.03,0.077,0.009,0.134,0.101,-0.024,0.007,-0.023,0.209,0.255,0.458,-0.274,-0.241,0.021,0.001,-0.318,0.108,0.158,unmethylated
+134,200362700212_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R05C02_Grn.idat,94,#025,25,NH17-626,,200362700212_R05C02,6/20/2017 0:00,,6/29/2017 0:00,9.0,SB,Diagnostic,25,6,NDP,NHNN,Anaplstic ependymoma (Illumina on 2014 suggests PXA!),"(7) Establish  methylation class for histologcally defined entities, e.g. Medullo, ependymoma, etc",DEF1C,12/27/1983 0:00,33.22640982,pleomorphic xanthoastrocytoma(-like),0.999943661,PXA,0.996048161,0.834558,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-626,"Recurrent/residual anaplastic ependymoma (WHO grade III)_x000D_
+","_x000D_
+Molecular and methylation profile in keeping with anaplastic pleomorphic xanthoastrocytoma, BRAFV600E-mutant (WHO grade III)  see supplementary comment_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH17-626,-0.122,0.049,0.095,-0.038,-0.104,0.032,-0.341,0.165,0.266,0.271,0.137,0.144,0.158,0.123,-1.406,-0.069,-0.503,-0.204,-0.304,0.202,0.266,0.315,-0.289,-0.097,0.123,-0.066,-0.002,-0.049,0.029,unmethylated
+135,200362700212_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R06C01_Grn.idat,90,#025,25,NH17-1389,,200362700212_R06C01,6/15/2017 0:00,,6/29/2017 0:00,14.0,SB,Diagnostic,25,6,NDP,Romford,"Pineal lesion, morphology pilocytic astrocytoma",(1) small biopsy or nonrepresentative sample;,A2,4/8/1973 0:00,44.19863014,supratentorial pilocytic astrocytoma,0.682153188,LGG_PA_GGST,0.659780519,0.679334,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1389,"_x000D_
+Appearances in favour of pilocytic astrocytoma (WHO grade I)  see comment_x000D_
+_x000D_
+",,(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH17-1389,-0.34,-0.073,0.039,-0.005,-0.058,-0.029,0.034,0.032,0.071,0.1,-0.018,-0.03,0.058,-0.109,0.019,0.045,0.022,0.033,-0.053,-0.018,0.011,0.018,0.095,-0.204,0.165,-0.05,-0.051,-0.114,0.031,unmethylated
+136,200362700212_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R06C02_Grn.idat,95,#025,25,NH17-839,,200362700212_R06C02,4/5/2017 0:00,,6/29/2017 0:00,85.0,SB,Diagnostic,25,1,NDP,Royal London Hospital,"?Long survivor (5Y) of Giant cell GBM, ? Epitheliod GBM","(2) unusual histology, location, demographics",A2,4/5/1982 0:00,29.85068493,"glioblastoma, IDH-wildtype, mesenchymal type",0.293066166,GBM_MES,0.608548458,0.743542,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-839,"Giant cell glioblastoma, WHO grade IV, see comment. _x000D_
+","_x000D_
+Methylation profile: Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH17-839,0.104,-0.264,-0.023,0.057,-0.101,0.121,-0.158,0.353,0.478,0.361,0.293,-0.092,0.122,-0.059,0.255,0.338,-0.046,-0.123,-0.088,-0.183,0.053,-0.112,0.002,-0.158,0.28,-0.047,-0.334,-0.352,0.05,unmethylated
+130,200362700212_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R02C01_Grn.idat,93,#025,25,NH17-555,,200362700212_R02C01,4/24/2017 0:00,,6/29/2017 0:00,66.0,SB,Diagnostic,25,7,NDP,NHNN,?Undersampled/early-stage TERTmt IDHwt GBM,(1) small biopsy or nonrepresentative sample;,DEF2A,12/25/1970 0:00,46.22062976,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]",0.735123806,GBM_MES,0.179752679,0.54548,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-555,"Diffuse low grade glioma (WHO Grade I/II) - see comment_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation       _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+","Diffusely infiltrating astrocytoma, with molecular features of glioblastoma (see comment) _x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained _x000D_
+1p/19q: Retained _x000D_
+EGFR: No amplification (7p gain)_x000D_
+TERT promoter: mutation_x000D_
+MGMT Promoter: No methylation  _x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH17-555,0.107,0.057,0.063,-0.007,-0.06,0.012,-0.032,0.208,0.155,0.222,0.124,0.001,0.126,-0.038,0.032,-0.047,-0.342,-0.078,-0.115,-0.04,-0.003,-0.046,-0.022,-0.113,-0.007,0.024,-0.316,-0.236,-0.125,unmethylated
+131,200362700212_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R03C01_Grn.idat,89,#025,25,NH17-1256,,200362700212_R03C01,6/13/2017 0:00,,6/29/2017 0:00,16.0,SB,Diagnostic,25,6,NDP,NHNN,"Low grade glial tumour, more spcific? ","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF2A,7/6/1988 0:00,28.92201294,supratentorial pilocytic astrocytoma,0.778546176,LGG_DNT,0.930813,0.574538,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1256,"Low grade glial tumour- See the comment_x000D_
+","_x000D_
+Methylation profile supportive of pilocytic astrocytoma (WHO grade I)  see supplementary comment_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH17-1256,-0.23,-0.113,0.01,0.0,-0.039,0.055,0.02,0.081,0.075,0.017,0.031,0.002,0.156,0.017,0.062,0.026,0.016,0.039,-0.008,-0.011,0.053,0.103,0.034,-0.125,0.09,0.019,-0.101,-0.037,0.116,unmethylated
+128,200362700212_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R01C01_Grn.idat,88,#025,25,NH17-1131,,200362700212_R01C01,6/10/2017 0:00,,6/29/2017 0:00,19.0,SB,Diagnostic,25,11,NDP,Brighton and Sussex Hospital,,"(4) IHC, sequencing, or copy number assay ambiguous",,5/17/1974 0:00,38.74109589,"Diffuse hemispheric glioma, H3 G34-mutant",0.999996792,GBM_G34,0.999323457,0.906646,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1131,,"_x000D_
+Methylation profile: Glioblastoma, IDH-wildtype, H3.3 G34 mutant (WHO grade IV)  see supplementary comment_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH17-1131,0.403,-0.407,0.022,0.183,0.751,-0.496,-0.102,0.438,1.496,0.146,0.026,0.199,0.204,0.288,-0.118,0.301,-0.404,-1.281,-0.09,0.245,0.278,0.12,-0.408,0.157,0.175,0.228,-0.616,-0.319,-0.034,methylated
+129,200362700212_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#025 450K array data 2017-06-30\200362700212\200362700212_R01C02_Grn.idat,92,#025,25,NH17-1428,,200362700212_R01C02,6/19/2017 0:00,,6/29/2017 0:00,10.0,SB,Diagnostic,25,3,NDP,,,"(2) unusual histology, location, demographics",,4/21/1987 0:00,30.1739726,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.993941459,AIDH_HG,0.982755763,0.775261,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1428,"_x000D_
+Methylation profile supportive of glioblastoma, IDH-mutant (WHO grade IV)_x000D_
+_x000D_
+_x000D_
+IDH1 (R132H IHC): Mutation  _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #025\NH17-1428,-0.198,-0.052,0.059,-0.027,-0.113,-0.014,-0.433,0.049,0.051,0.13,-0.032,0.004,0.083,0.189,0.039,-0.017,0.039,0.036,-0.114,-0.009,-0.011,-0.564,-0.329,-0.097,0.117,-0.076,-0.148,-0.178,0.018,methylated
+137,200362700151_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#026_450K array data 2017-09-08\200362700151\200362700151_R01C02_Grn.idat,96,#026,26,NH17-1158,,200362700151_R01C02,8/18/2017 0:00,,9/7/2017 0:00,20.0,SB,Diagnostic,26,1,NDP,Romford,IDH wt glioma? Low grade Histolgoy,(1) small biopsy or nonrepresentative sample;,A,7/31/1955 0:00,61.80410959,ganglioglioma,0.473440102,GBM_MES,0.876620342,0.695943,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1158,"_x000D_
+Diffuse glioma  see comment_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+Chromosome 7p and EGFR: No gain and no amplification_x000D_
+TERT promoter: Test unsuccessful_x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+","Astrocytoma, IDH wild-type, with molecular features of glioblastoma (WHO grade IV)_x000D_
+Methylation class glioblastoma, IDH wild-type, subclass mesenchymal,_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #026\NH17-1158,-0.511,-0.186,0.017,0.51,-0.316,0.106,0.321,0.472,0.492,0.171,0.291,0.043,0.32,-0.25,-0.015,-0.09,-0.24,-0.13,-0.085,0.111,0.071,0.032,0.135,-0.639,0.312,-0.028,0.056,0.03,0.085,methylated
+139,200362700151_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#026_450K array data 2017-09-08\200362700151\200362700151_R03C01_Grn.idat,97,#026,26,NH17-1654,,200362700151_R03C01,8/1/2017 0:00,,9/7/2017 0:00,37.0,SB,Diagnostic,26,4,NDP,Royal London Hospital,"IDHwt, H3wt GBM with ATRX loss","(2) unusual histology, location, demographics",DEF1A,1/3/1944 0:00,73.57945205,"Diffuse paediatric-type high grade glioma, RTK1 subtype",0.992996473,GBM_MID,0.996460777,0.829493,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1654,"Glioblastoma (WHO grade IV)  see comment. _x000D_
+_x000D_
+IDH (R132H IHC)  No mutation, further tests pending_x000D_
+ATRX  Test unsatisfactory, a repeat is in progress_x000D_
+1p/19q  Test pending_x000D_
+_x000D_
+","_x000D_
+Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+1p/19q: Retained_x000D_
+Chromosome 7p and EGFR: No gain and no amplification_x000D_
+TERT promoter: Test unsuccessful repeatedly_x000D_
+Chromosome 10q: LOH_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #026\NH17-1654,-0.113,-0.338,-0.06,-0.071,1.53,-0.079,0.3,0.061,0.11,1.499,-0.067,-0.057,0.287,-0.225,-1.955,0.158,-1.985,-0.326,0.066,-0.1,-0.071,-0.16,-0.381,-1.237,0.334,0.248,-0.218,-0.077,0.047,unmethylated
+138,200362700151_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#026_450K array data 2017-09-08\200362700151\200362700151_R02C02_Grn.idat,98,#026,26,NH17-1746,,200362700151_R02C02,8/18/2017 0:00,,9/7/2017 0:00,20.0,SB,Diagnostic,26,1,NDP,NHNN,Low grade glioneuronal tumour,"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF2A,,,ganglioglioma,0.226432982,LGG_GG,0.428904073,0.515841,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1746,"Low grade glioneuronal tumour (WHO grade I)_x000D_
+_x000D_
+IDH1 (R132H): No mutation_x000D_
+ATRX (IHC): technically unsatisfactory_x000D_
+1p/19q: test pending_x000D_
+","Low grade glial neuronal tumour (WHO grade I)_x000D_
+Methylation class low grade glioma, subclass hemispheric pilocytic astrocytoma and ganglioglioma (see comment)_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #026\NH17-1746,-0.322,-0.178,0.042,0.085,-0.158,0.041,0.229,-0.058,0.096,-0.163,-0.053,-0.085,0.402,-0.072,-0.039,-0.037,-0.067,0.088,0.101,-0.038,0.128,0.077,0.02,-0.58,0.305,-0.071,-0.123,-0.018,0.118,unmethylated
+142,200362700107_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#027_450k array data 2017-07-31\200362700107\200362700107_R02C01_Grn.idat,101,#027,27,NH17-1482,,200362700107_R02C01,7/3/2017 0:00,,7/27/2017 0:00,24.0,SB,Diagnostic,27,2,NDP,Nottingham University Hospital,DMG vs PA (H3 K27M IHC neg),"(4) IHC, sequencing, or copy number assay ambiguous",D1,5/27/2014 0:00,3.07260274,infratentorial pilocytic astrocytoma,0.99938987,LGG_PAPF,0.993202657,0.579289,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1482,"_x000D_
+Glial tumour, further studies in progress  see comment_x000D_
+_x000D_
+MGMT Promoter: No methylation _x000D_
+  _x000D_
+","_x000D_
+Methylation profile: Pilocytic astrocytoma (WHO grade I)_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #027\NH17-1482,-0.053,-0.04,0.061,0.103,-0.037,0.046,0.018,-0.046,0.053,0.061,-0.029,-0.025,-0.021,-0.045,-0.134,-0.021,-0.005,0.014,0.1,-0.045,-0.016,0.022,-0.012,-0.109,-0.061,-0.036,-0.133,0.04,0.052,unmethylated
+143,200362700107_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#027_450k array data 2017-07-31\200362700107\200362700107_R04C01_Grn.idat,102,#027,27,NH17-1535,,200362700107_R04C01,7/4/2017 0:00,,7/27/2017 0:00,23.0,SB,Diagnostic,27,5,NDP,NHNN,"LGG, BRafins599 T (1798insTAC)*","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF1A,6/12/2000 0:00,17.05945015,supratentorial pilocytic astrocytoma,0.653226231,LGG_PA_GGST,0.993256796,0.745674,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1535,"Low grade glial tumour- see comment_x000D_
+_x000D_
+  _x000D_
+IDH1 (R132H IHC): No mutation _x000D_
+ATRX (IHC): Retained _x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+","_x000D_
+Pilocytic astrocytoma with BRAF insertion mutation (WHO grade I)_x000D_
+_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #027\NH17-1535,-0.029,-0.055,0.026,0.042,-0.059,0.045,0.046,0.012,0.041,0.094,0.025,-0.004,-0.063,0.034,0.0,-0.061,0.024,0.007,0.025,-0.048,-0.057,0.04,-0.012,-0.029,-0.085,-0.021,-0.019,-0.068,0.022,unmethylated
+144,200362700107_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#027_450k array data 2017-07-31\200362700107\200362700107_R04C02_Grn.idat,99,#027,27,NH16-872,,200362700107_R04C02,7/14/2017 0:00,,7/27/2017 0:00,13.0,SB,Diagnostic,27,6,NDP,NHNN,Medulloblastoma 1st tumour classification,"(7) Establish  methylation class for histologcally defined entities, e.g. Medullo, ependymoma, etc",SP1A,5/16/1962 0:00,53.96561073,"Diffuse paediatric-type high grade glioma, RTK1 subtype",0.461161007,GBM_MID,0.926250027,0.874656,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH16-872,"Medulloblastoma (WHO grade IV)._x000D_
+_x000D_
+Histological subtype: Classic _x000D_
+Molecular subtyping not done. _x000D_
+","_x000D_
+High grade neuroepithelial tumour (WHO grade IV)  see supplementary comment _x000D_
+",(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #027\NH16-872,-0.255,0.125,0.032,-0.015,0.083,-0.064,0.053,-0.015,-0.015,-0.051,-0.001,-0.034,-0.052,0.073,-2.931,0.005,0.041,-0.084,-0.025,0.023,0.052,-0.035,-0.019,-0.623,-0.029,0.282,-0.083,-0.528,-0.455,methylated
+146,200362700107_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#027_450k array data 2017-07-31\200362700107\200362700107_R06C01_Grn.idat,100,#027,27,NH17-1293,,200362700107_R06C01,7/10/2017 0:00,,7/27/2017 0:00,17.0,SB,Diagnostic,27,1,NDP,NHNN,Glioma vs inflammation,(1) small biopsy or nonrepresentative sample;,DEF1A,9/20/1943 0:00,73.75252093,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]",0.997022236,GBM_RTKII,0.204885892,0.533564,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1293,"CNS tissue with infiltrative, proliferative lesion. Very mild inflammation - see the comment_x000D_
+","See supplementary comment and comment in the main report _x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #027\NH17-1293,-0.056,-0.041,0.045,0.092,0.074,0.072,-0.187,0.171,-0.025,-0.184,0.139,-0.088,-0.096,-0.044,-0.277,-0.09,-0.196,-0.124,-0.007,0.006,0.007,0.03,-0.037,0.047,-0.19,-0.061,0.131,-0.199,0.055,unmethylated
+145,200362700107_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#027_450k array data 2017-07-31\200362700107\200362700107_R05C02_Grn.idat,103,#027,27,NH17-1619,,200362700107_R05C02,7/14/2017 0:00,,7/27/2017 0:00,13.0,SB,Diagnostic,27,5,NDP,NHNN,"Medulloblastoma recurrence post rad, classification","(4) IHC, sequencing, or copy number assay ambiguous",DEF2A,5/16/1962 0:00,55.19363584,"Diffuse paediatric-type high grade glioma, RTK1 subtype",0.764863247,GBM_MID,0.933424282,0.865712,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1619,"Recurrent high grade neuroglial tumour  see comment. _x000D_
+","_x000D_
+High grade neuroepithelial tumour (WHO grade IV)  see supplementary comment _x000D_
+ _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #027\NH17-1619,-0.108,0.037,0.035,0.019,-0.012,0.132,0.006,-0.017,-0.045,-0.003,-0.004,0.02,0.022,-0.002,-2.572,-0.11,-0.009,0.106,0.025,-0.054,-0.012,0.053,-0.396,-0.412,-0.062,0.146,-0.066,-0.377,-0.271,methylated
+147,200362700192_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#029_450K array data 2017-10-10\200362700192\200362700192_R01C02_Grn.idat,104,#029,29,NH17-1923,,200362700192_R01C02,9/6/2017 0:00,,10/6/2017 0:00,30.0,SB,Diagnostic,29,5,NDP,NHNN,"IDH wt glioma, possibly GBM, no high grade features",(1) small biopsy or nonrepresentative sample;,SP1A,5/16/1954 0:00,63.29772641,"glioblastoma, IDH-wildtype, RTK2 type",0.561335463,GBM_RTKII,0.538050631,0.808229,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1923,"Diffuse glioma  see comment_x000D_
+  _x000D_
+IDH1 (R132H IHC): No mutation _x000D_
+ATRX (IHC): Difficult to interpret due to technical issues_x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+","Diffuse glioma, IDH wild type (grading see comment)  _x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Technically unsatisfactory  _x000D_
+1p/19q: Retained _x000D_
+EGFR: No amplification_x000D_
+MGMT Promoter: High level methylation (>25%)_x000D_
+  _x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #029\NH17-1923,-0.277,-0.032,0.028,0.108,-0.199,0.208,0.126,0.459,0.459,0.387,0.355,0.192,0.384,0.184,0.098,0.273,-0.004,0.045,0.096,0.717,0.156,0.033,0.007,-0.731,-0.343,-0.025,-0.254,-0.109,0.232,methylated
+50,200379120087_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\450karray data\200379120087_R05C02_Grn.idat,105,#037,30,NH17-2163,,200379120087_R05C02,11/21/2017 0:00,,12/5/2017 0:00,14.0,SB,Diagnostic,37,4,NDP,NHNN,"HGG, IDH-mutant","(4) IHC, sequencing, or copy number assay ambiguous",DEF2A,9/26/1971 0:00,45.99560312,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade",0.999973107,AIDH_HG,0.998102828,0.906913,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2163,"Recurrent IDH mutant high grade glioma (WHO grade III at least)  see comment_x000D_
+  _x000D_
+IDH1 (R132H IHC): Mutation  _x000D_
+ATRX (IHC): Retained _x000D_
+1p/19q: Co-deleted (NH12-1561)      _x000D_
+  _x000D_
+","Glioblastoma, IDH mutant (WHO grade IV)  _x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: IDH1 mutation _x000D_
+ATRX (IHC): Loss of expression (indicates mutation) 1p/19q: Retained _x000D_
+MGMT Promoter: No methylation     _x000D_
+Methylation class: Glioma, IDH mutant; subclass high-grade astrocytoma  _x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #037\NH17-2163,-0.408,0.308,0.168,-0.017,-0.001,-0.642,-0.066,0.147,0.442,0.838,0.401,-0.113,-0.185,-0.159,-0.475,-0.05,0.213,-0.253,-0.177,0.15,0.113,0.082,-0.477,0.017,0.253,0.1,-0.542,-0.108,-0.39,unmethylated
+148,200362700242_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#030_450K array data 2017-11-01\200362700242\200362700242_R01C02_Grn.idat,106,#030,30,NH17-2466,,200362700242_R01C02,9/26/2017 0:00,,10/26/2017 0:00,30.0,SB,Diagnostic,30,3,NDP,Royal London Hospital,?GBM metastasis in lymph node,"(5) Confirmation of rare, unusual or interesting histo-molecular results",A1,6/27/1985 0:00,32.29726027,"Diffuse paediatric-type high grade glioma, RTK1 subtype",0.93698127,GBM_MID,0.948887446,0.945575,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2466,"Mediastinal lymph node: Features in keeping with metastatic glial/glio-neuronal tumour. Please see comment. _x000D_
+","_x000D_
+Methylation profile: Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #030\NH17-2466,-0.184,0.017,-0.002,-0.009,-0.203,-0.042,0.203,0.5,0.453,0.307,0.315,0.048,0.336,-0.12,-0.113,-0.127,-0.078,0.044,-0.069,-0.013,0.149,-0.133,-0.445,0.036,0.404,0.258,0.273,0.021,0.118,unmethylated
+42,200379120087_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\450karray data\200379120087_R02C01_Grn.idat,109,#037,37,NH17-2453,,200379120087_R02C01,11/21/2017 0:00,,12/5/2017 0:00,14.0,SB,Diagnostic,37,1,NDP,Oxford John Radcliffe Hospital,"Giant cell GBM, ATRX loss","(2) unusual histology, location, demographics",2A,3/28/2005 0:00,12.52465753,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]",0.999928585,DMG_K27,0.091412286,0.7875,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2453,"_x000D_
+Referred diagnosis: Glioblastoma, giant cell variant (WHO grade IV)  see comment_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+_x000D_
+Histone H3F3A (Seq and K27M IHC): No mutation_x000D_
+BRAF (V600E Seq): No mutation _x000D_
+_x000D_
+","_x000D_
+MGMT Promoter: No methylation _x000D_
+  _x000D_
+",(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #037\NH17-2453,-0.295,-0.095,0.009,-0.014,-0.028,-0.037,0.0,-0.038,0.161,0.083,-0.012,-0.05,0.202,-0.002,0.039,-0.212,-0.019,-0.023,-0.062,-0.051,-0.019,0.137,-0.063,-0.138,0.592,0.293,-0.192,-0.042,0.019,unmethylated
+46,200379120087_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\450karray data\200379120087_R04C01_Grn.idat,110,#037,37,NH17-2506,,200379120087_R04C01,11/1/2017 0:00,,12/5/2017 0:00,34.0,SB,Diagnostic,37,11,NDP,NHNN,"LGG vs DLGNT, vs LG-N, BRAF (F and mt) neg","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF1A,8/30/1970 0:00,47.1719083,rosette-forming glioneuronal tumour,0.908419377,LGG_RGNT,0.923992756,0.741697,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2506,"Low grade glial/glioneuronal tumour corresponding to WHO grade I  see comment_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation       _x000D_
+ATRX (IHC): Retained      _x000D_
+BRAF V600E (IHC): Negative (no mutation)_x000D_
+H3K27M (IHC): Negative (no mutation)  _x000D_
+","Rosette-forming neuronal tumour (WHO grade I)_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #037\NH17-2506,-0.48,-0.196,0.054,0.286,0.011,-0.043,-0.026,-0.006,0.046,0.057,-0.069,-0.066,0.075,-0.195,-0.099,-0.012,-0.004,0.152,-0.111,-0.08,-0.095,0.277,0.009,-0.388,0.179,-0.191,-0.034,-0.042,0.099,unmethylated
+48,200379120087_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\450karray data\200379120087_R04C02_Grn.idat,112,#037,37,NH17-2689,,200379120087_R04C02,11/24/2017 0:00,,12/5/2017 0:00,11.0,SB,Diagnostic,37,1,NDP,Nottingham University Hospital,,(1) small biopsy or nonrepresentative sample;,A1,12/21/2013 0:00,3.883561644,infratentorial pilocytic astrocytoma,0.625831882,LGG_PAPF,0.628077672,0.740979,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2689,"Pilocytic astrocytoma (WHO grade I)_x000D_
+","Pilocytic astrocytoma (WHO grade I)_x000D_
+BRAF V600E mutation _x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #037\NH17-2689,-0.425,-0.17,-0.055,-0.022,0.083,0.052,-0.113,0.147,0.269,0.14,0.115,0.03,0.005,-0.018,-0.07,-0.015,0.17,0.289,0.004,0.117,0.17,0.078,-0.086,-0.274,-0.002,-0.407,0.076,-0.156,-0.154,unmethylated
+52,200379120087_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\450karray data\200379120087_R06C02_Grn.idat,108,#037,37,NH17-1972,,200379120087_R06C02,11/21/2017 0:00,,12/5/2017 0:00,14.0,SB,Diagnostic,37,4,NDP,"Birmingham, Queen Elizabeth Hospital",Diffuse leptomeningial glioneunonal tumour?,"(5) Confirmation of rare, unusual or interesting histo-molecular results",B2,9/14/1953 0:00,63.88630137,papillary glioneuronal tumour,0.108734625,DMG_K27,0.160243221,0.685421,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-1972,"Features supportive of a diffuse leptomeningeal glioneuronal tumour (see comment)_x000D_
+","High grade glioma (see comment)_x000D_
+No matching methylation class_x000D_
+",(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #037\NH17-1972,1.493,-0.535,-0.06,0.125,0.217,0.296,0.306,0.38,0.748,0.528,0.502,0.048,0.425,0.162,-0.133,-0.149,0.015,-0.19,-0.167,0.346,0.34,0.596,-0.041,-0.317,0.24,0.095,-0.073,-0.386,-0.254,methylated
+44,200379120087_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#003_450k Array Data 2015-02\450karray data\200379120087_R03C02_Grn.idat,111,#037,37,NH17-2598,,200379120087_R03C02,11/22/2017 0:00,,12/5/2017 0:00,13.0,SB,Diagnostic,37,3,NDP,NHNN,?IDHwt GBM,(1) small biopsy or nonrepresentative sample;,SP1A,11/27/1990 0:00,26.94453387,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)",0.999998946,GBM_MYCN,0.734248503,0.838028,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2598,"High grade glioma (at least WHO grade III)  see comment_x000D_
+  _x000D_
+IDH1 (R132H IHC): Technically unsatisfactory _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Test pending_x000D_
+","_x000D_
+Molecular profile suggestive of glioblastoma, IDH-wildtype (WHO grade IV)  for grading and typing, see comment_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+Chromosome 7p and EGFR: No gain and no amplification_x000D_
+TERT promoter: Mutation_x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #037\NH17-2598,0.215,-0.072,0.026,0.032,0.011,0.054,0.167,0.02,0.058,0.052,-0.023,-0.06,0.065,-0.001,-0.046,-0.023,0.057,0.058,-0.067,-0.035,0.033,0.124,-0.424,-0.21,-0.006,0.04,-0.056,-0.049,0.036,unmethylated
+149,200379120100_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#038_450k array data 2017-12-18\IDATS_Meth450\200379120100\200379120100_R03C02_Grn.idat,113,#038,38,NH17-2862,,200379120100_R03C02,12/8/2017 0:00,,12/15/2017 0:00,7.0,SB,Diagnostic,38,1,NDP,NHNN,"IDH1 R132H mutant desmoplastic glioma, highly unusual morphology","(2) unusual histology, location, demographics",SP2A,11/23/1955 0:00,62.06177702,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.621518107,OIDH,0.868703981,0.715407,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2862,"Glioma, IDH mutant, desmoplasia (grading and typing see comment)_x000D_
+IDH1 (R132H IHC): Mutation       _x000D_
+ATRX (IHC): Retained      _x000D_
+","Oligodendroglioma, IDH-mutant and 1p/19q codeleted, with widespread stromal desmoplasia  for grading, see comment_x000D_
+_x000D_
+MGMT Promoter: Intermediate level methylation (>10% - 25%)_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: IDH1 mutation_x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Codeleted_x000D_
+EGFR: No amplification_x000D_
+TERT promoter: Test unsuccessful _x000D_
+Chromosome 10q: Retained_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+_x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #038\NH17-2862,-0.21,0.115,-0.204,0.276,-0.078,0.287,0.38,-0.044,0.558,0.203,-0.036,-0.261,0.163,0.134,0.188,-0.169,0.224,-0.05,0.507,0.044,-0.296,0.132,0.227,-0.443,0.492,0.238,-0.91,-0.331,0.11,methylated
+150,200379120100_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#038_450k array data 2017-12-18\IDATS_Meth450\200379120100\200379120100_R04C02_Grn.idat,114,#038,38,NH17-2912,,200379120100_R04C02,12/8/2017 0:00,,12/15/2017 0:00,7.0,SB,Diagnostic,38,2,NDP,NHNN,"Pontine glioma, high grade. Ordered before MB01 result available",(1) small biopsy or nonrepresentative sample;,DEF1A,4/12/1945 0:00,72.70540335,"glioblastoma, IDH-wildtype, mesenchymal type",0.9930488,GBM_MES,0.833161483,0.624207,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2912,"High-grade glioma, (at least WHO grade III)  see comment_x000D_
+IDH1 (R132H IHC): No mutation _x000D_
+ATRX (IHC): Retained _x000D_
+Histone H3.3 K27M (IHC): No mutation._x000D_
+BRAF V600E (IHC): No mutation_x000D_
+","_x000D_
+Molecular and methylation profile of Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter (MGMT-STP27, Illumina 450k array data): Methylated_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+TERT promoter: Mutation_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #038\NH17-2912,-0.179,-0.038,-0.055,0.243,-0.029,0.106,-0.119,0.362,0.432,0.487,0.258,-0.371,-0.025,-0.368,-0.531,-0.425,-0.17,-0.257,0.027,-0.071,0.018,0.174,0.037,-0.11,0.058,0.044,-0.228,-0.23,-0.163,methylated
+153,200379120113_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#041_450k array data 2018-01-24\200379120113\200379120113_R04C01_Grn.idat,118,#041,41,NH17-2955,,200379120113_R04C01,12/20/2017 0:00,,1/19/2018 0:00,30.0,SB,Diagnostic,41,4,NDP,NHNN,GBM,"(2) unusual histology, location, demographics",DEF1A,4/4/2000 0:00,17.70249429,"Diffuse paediatric-type high grade glioma, MYCN subtype",0.97093474,GBM_MYCN,0.677734581,0.866103,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2955,"Glioblastoma (WHO grade IV)_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation       _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q: Test pending  _x000D_
+","Glioblastoma, IDH-wildtype (WHO grade IV)  see supplementary comment_x000D_
+_x000D_
+MGMT Promoter: No methylation     _x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation     _x000D_
+ATRX (IHC): Retained     _x000D_
+1p/19q: Retained     _x000D_
+EGFR: Moderate amplification_x000D_
+TERT promoter: Test unsuccessful _x000D_
+Chromosome 10q: LOH     _x000D_
+Histone H3F3A: No mutation     _x000D_
+BRAF (V600E): No mutation      _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #041\NH17-2955,0.134,1.106,0.038,0.0,0.032,0.03,0.056,1.051,0.274,0.294,0.209,0.035,0.053,-0.008,0.002,-0.38,-0.247,-0.39,-0.01,-0.005,0.01,0.011,-0.411,0.006,0.01,0.075,-0.15,-0.05,0.037,unmethylated
+155,200379120113_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#041_450k array data 2018-01-24\200379120113\200379120113_R05C02_Grn.idat,119,#041,41,NH17-3065,,200379120113_R05C02,1/2/2018 0:00,,1/19/2018 0:00,17.0,SB,Diagnostic,41,12,NDP,Newcastle,?GlioSa; ?other sarcoma,"(2) unusual histology, location, demographics",1A,11/29/1973 0:00,44.08630137,"glioblastoma, IDH-wildtype, mesenchymal type",0.990907964,GBM_RTKII,0.152885253,0.544275,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-3065,"Preliminary diagnosis:_x000D_
+Poorly differentiated tumour with biphasic cytoarchitecture  see comment_x000D_
+","Histological diagnosis: Poorly differentiated tumour with biphasic cytoarchitecture,  in combination with copy number profile compatible with glioblastoma/gliosarcoma, IDH-wildtype (WHO grade IV)_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #041\NH17-3065,-0.102,-0.026,0.035,0.028,-0.088,0.111,0.11,0.316,0.313,0.363,0.204,0.023,0.076,0.073,-0.028,0.003,-0.128,-0.242,-0.006,0.01,0.714,1.156,-0.031,0.001,0.086,0.053,-0.09,0.069,0.011,unmethylated
+151,200379120113_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#041_450k array data 2018-01-24\200379120113\200379120113_R01C01_Grn.idat,117,#041,41,NH17-2915,,200379120113_R01C01,12/13/2017 0:00,,1/19/2018 0:00,37.0,SB,Diagnostic,41,4,NDP,NHNN,IDH-mutant glioma with MVP (reported as GBM),"(2) unusual histology, location, demographics",DEF2A,9/23/1994 0:00,23.22350076,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.983539103,AIDH,0.940147657,0.797949,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2915,"Glioblastoma, IDH mutant (WHO grade IV)_x000D_
+IDH1 (R132H IHC): Mutation  _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+_x000D_
+","_x000D_
+Glioblastoma, IDH-mutant (WHO grade IV) 6 see supplementary comment_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC): Mutation  _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+1p/19q: Retained_x000D_
+Chromosome 7p and EGFR: No gain and no amplification_x000D_
+TERT promoter: No mutation_x000D_
+Chromosome 10q: Retained_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #041\NH17-2915,-0.243,-0.329,-0.009,0.056,-0.045,-0.06,0.084,-0.016,0.149,-0.07,-0.004,0.033,0.25,0.064,-0.33,-0.097,0.154,-0.093,0.02,0.012,0.127,0.006,0.14,-0.058,0.354,0.31,-0.605,0.058,0.085,methylated
+152,200379120113_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#041_450k array data 2018-01-24\200379120113\200379120113_R01C02_Grn.idat,115,#041,41,NH17-2845,,200379120113_R01C02,12/20/2017 0:00,,1/19/2018 0:00,30.0,SB,Diagnostic,41,7,NDP,NHNN,"IDHwt, TERTmt LGG (gliomatosis radiologically)",(1) small biopsy or nonrepresentative sample;,DEF1C,7/23/1954 0:00,63.39366438,ganglioglioma,0.266091964,GBM_MES,0.357515683,0.657342,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2845,"Glioma- see comment_x000D_
+IDH1 (R132H IHC): No mutation       _x000D_
+ATRX (IHC): Retained _x000D_
+1p/19q: Test pending_x000D_
+","_x000D_
+Molecular profile suggestive (but not diagnostic) of glioblastoma, IDH-wildtype (WHO grade IV)  see supplementary comment_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+EGFR: No amplification_x000D_
+TERT promoter: Mutation_x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #041\NH17-2845,-0.155,-0.129,-0.016,0.049,-0.013,-0.023,0.0,0.265,0.265,0.218,0.204,0.022,0.131,0.113,-0.007,-0.051,-0.004,-0.123,0.037,0.022,0.068,0.015,0.081,-0.034,0.132,0.155,-0.045,0.063,0.058,methylated
+154,200379120113_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#041_450k array data 2018-01-24\200379120113\200379120113_R04C02_Grn.idat,116,#041,41,NH17-2904,,200379120113_R04C02,12/21/2017 0:00,,1/19/2018 0:00,29.0,SB,Diagnostic,41,4,NDP,Latvia,?DIA; ?PXA,"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",5821-2,9/18/2005 0:00,12.18767123,supratentorial pilocytic astrocytoma,0.998370982,LGG_PA_GGST,0.984596545,0.557113,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2904,"See comment_x000D_
+","2016 resection material: _x000D_
+Astrocytoma (no paraffin block available for further characterisation)_x000D_
+2017 resection material: _x000D_
+Methylation class: Pilocytic astrocytoma / ganglioglioma spectrum (WHO grade I)  see supplementary comment _x000D_
+MGMT Promoter: No methylation _x000D_
+BRAF (V600E and three fusions): No mutation_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #041\NH17-2904,-0.169,-0.061,-0.045,-0.008,-0.066,0.118,0.036,0.188,0.212,0.214,0.147,0.097,-0.004,0.088,-0.074,0.013,-0.001,-0.046,0.118,0.079,0.021,0.017,-0.093,-0.059,-0.105,-0.058,-0.101,0.022,-0.016,unmethylated
+79,3999308207_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#007_450K Array Data 2015-08\3999308207\IDAT FILES\3999308207_R06C01_Grn.idat,1376,#007,412,NH15-1334,,3999308207_R06C01,7/20/2015 0:00,,8/6/2015 0:00,17.0,SB,Diagnostic,7,1,NDP,NHNN,Anaplastic astrocytoma,"(6) Research sample, for stratification or subclassification",SP1A,11/9/1981 0:00,33.68059361,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.938556937,AIDH,0.863856626,0.888955,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH15-1334,"Anaplastic astrocytoma (WHO Grade III)_x000D_
+_x000D_
+IDH1 (IHC and sequencing): repeat testing in progress_x000D_
+ATRX (IHC): Mutation present_x000D_
+Histone H3K27 (IHC): No mutation_x000D_
+1p/19q: No LOH (previously tested)_x000D_
+","Integrated diagnosis: Astrocytoma, IDH-mutant, CNS WHO grade 3 [2021 WHO classification]_x000D_
+Histology: Astrocytoma, IDH-mutant, CNS WHO grade 3_x000D_
+Methylation profile: IDH glioma, subclass astrocytoma  _x000D_
+MGMT promoter (Illumina array): Methylated _x000D_
+  _x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #007\NH15-1334,0.065,-0.145,0.042,-0.102,-0.003,-0.125,-0.038,0.344,0.296,0.561,0.244,0.278,0.298,0.129,-0.073,-0.274,0.012,-0.053,-0.048,-0.069,0.122,-0.206,-0.185,0.111,0.162,0.006,-0.114,0.049,0.104,methylated
+156,200069280193_R01C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#046_450K array data 2018-02-26\200069280193\200069280193_R01C02_Grn.idat,123,#046,46,NH17-3068,,200069280193_R01C02,1/11/2018 0:00,,2/23/2018 0:00,43.0,SB,Diagnostic,46,1,NDP,"Cardiff, University Hospital","Pilocytic, or HGG?","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",A1,7/25/2002 0:00,15.41780822,supratentorial midline pilocytic astrocytoma,0.999623679,LGG_PAMID,0.921244627,0.433792,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-3068,"Methylation profile: Pilocytic astrocytoma, subclass midline pilocytic astrocytoma  see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #046\NH17-3068,0.03,-0.144,-0.021,0.042,0.013,0.015,-0.009,-0.02,0.073,0.047,0.013,-0.018,-0.044,0.107,0.036,-0.046,0.138,0.081,0.193,0.095,0.135,0.103,-0.054,-0.189,0.024,-0.01,-0.045,-0.119,0.071,unmethylated
+157,200069280193_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#046_450K array data 2018-02-26\200069280193\200069280193_R02C01_Grn.idat,120,#046,46,NH17-2698,,200069280193_R02C01,12/20/2017 0:00,,2/23/2018 0:00,65.0,ZJ,Diagnostic,46,8,NDP,NHNN,MGMT status differs between us and Bristol,"(2) unusual histology, location, demographics",SP1A,9/2/1960 0:00,57.2236016,"glioblastoma, IDH-wildtype, mesenchymal type",0.760357892,GBM_MES,0.645650541,0.571451,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2698,"Giant cell glioblastoma (WHO grade IV)     _x000D_
+IDH1 (R132H IHC): No mutation _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q:     Test pending_x000D_
+","_x000D_
+Giant cell glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained_x000D_
+1p/19q: Retained_x000D_
+Chromosome 7p and EGFR: No gain and no amplification_x000D_
+TERT promoter: No mutation_x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation _x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #046\NH17-2698,0.001,-0.094,-0.007,0.069,-0.189,0.036,-0.062,0.036,0.114,0.352,0.262,-0.011,0.01,-0.119,0.014,-0.001,-0.002,0.011,-0.048,-0.051,0.014,0.102,0.008,-0.108,0.039,0.067,-0.179,-0.164,0.02,methylated
+158,200069280193_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#046_450K array data 2018-02-26\200069280193\200069280193_R04C01_Grn.idat,121,#046,46,NH17-2956,,200069280193_R04C01,1/3/2018 0:00,,2/23/2018 0:00,51.0,ZJ,Diagnostic,46,7,NDP,NHNN,"?GBM, IDHwt, TERTmt","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF1A,4/26/1968 0:00,49.66432268,ganglioglioma,0.134584336,GBM_RTKII,0.541348513,0.658506,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2956,"Diffuse glioma (WHO grade II)_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation       _x000D_
+ATRX (IHC): Retained      _x000D_
+1p/19q: Test pending_x000D_
+","Molecular profile suggestive (but not diagnostic) of glioblastoma, IDH-wildtype (WHO grade IV)  see supplementary comment_x000D_
+_x000D_
+_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation     _x000D_
+ATRX (IHC): Retained     _x000D_
+1p/19q: Retained_x000D_
+EGFR: No amplification          _x000D_
+TERT promoter: Mutation     _x000D_
+Chromosome 10q: Retained_x000D_
+_x000D_
+Histone H3F3A: No mutation     _x000D_
+BRAF (V600E): No mutation      _x000D_
+ _x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #046\NH17-2956,0.172,-0.059,-0.096,0.063,-0.144,-0.005,-0.251,0.154,0.084,0.178,0.092,-0.022,0.125,-0.106,0.136,0.07,-0.171,-0.241,0.039,-0.09,-0.012,0.294,-0.182,-0.156,0.01,-0.047,-0.121,-0.315,-0.13,unmethylated
+159,200069280193_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#046_450K array data 2018-02-26\200069280193\200069280193_R04C02_Grn.idat,126,#046,46,NH18-99,,200069280193_R04C02,1/16/2018 0:00,,2/23/2018 0:00,38.0,SB/AK,Diagnostic,46,1,NDP,"Charing Cross Hospital, London","Ependymoma, type?","(7) Establish  methylation class for histologcally defined entities, e.g. Medullo, ependymoma, etc",C2,11/5/1980 0:00,37.20684932,papillary glioneuronal tumour,0.447471366,LGG_DNT,0.22032451,0.732342,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-99,"Methylation profile: No matching methylation class  see comment_x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #046\NH18-99,-0.068,0.013,0.063,0.022,-0.021,-0.037,-0.168,-0.036,0.152,-0.242,-0.019,0.158,-0.074,-0.191,0.039,0.097,-0.037,0.01,-0.266,-0.135,-0.154,-0.058,0.049,-0.572,0.363,0.119,-0.244,-0.149,0.254,unmethylated
+160,200069280193_R05C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#046_450K array data 2018-02-26\200069280193\200069280193_R05C02_Grn.idat,124,#046,46,NH18-101,,200069280193_R05C02,1/16/2018 0:00,,2/23/2018 0:00,38.0,SB/AK,Diagnostic,46,10,NDP,NHNN,Low grade glioneuronal tumour ?DNT,"(5) Confirmation of rare, unusual or interesting histo-molecular results",DEF1A,5/9/2000 0:00,17.69428082,supratentorial pilocytic astrocytoma,0.561577937,LGG_PA_GGST,0.911431891,0.595595,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-101,"Dysembryoplastic neuroepithelial tumour (WHO grade I), see comment_x000D_
+IDH1 (R132H IHC): No mutation       _x000D_
+ATRX (IHC): Retained      _x000D_
+BRAF V600E IHC: No mutation_x000D_
+","Low grade glial / glioneuronal tumour, in favour of pilocytic astrocytoma (WHO grade I)  see supplementary comment_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #046\NH18-101,0.239,-0.657,-0.266,-0.031,-0.42,0.107,0.203,-0.258,0.013,0.057,0.036,-0.015,0.17,0.015,0.045,0.053,-0.061,-0.07,-0.261,-0.212,-0.264,0.298,0.169,-0.342,0.102,0.131,-0.253,-0.1,0.247,unmethylated
+161,200069280193_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#046_450K array data 2018-02-26\200069280193\200069280193_R06C01_Grn.idat,122,#046,46,NH17-2982,,200069280193_R06C01,1/11/2018 0:00,,2/23/2018 0:00,43.0,SB,Diagnostic,46,2,NDP,Royal London Hospital,Metastasising Glioma,"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",A1,6/27/1985 0:00,32.48630137,"glioblastoma, IDH-wildtype, mesenchymal type",0.11379532,PXA,0.083231952,0.822922,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH17-2982,"Histological diagnosis: Poorly differentiated tumour infiltration in host bone_x000D_
+Methylation profile: No matching methylation class_x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #046\NH17-2982,-0.555,-0.301,-0.083,-0.049,-0.2,-0.308,-0.247,0.284,0.045,0.095,0.126,-0.07,-0.044,-0.474,-0.119,0.18,0.109,0.098,-0.084,-0.133,-0.108,-0.535,-0.244,-0.435,0.2,-0.013,-0.069,-0.204,0.208,unmethylated
+162,200069280193_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#046_450K array data 2018-02-26\200069280193\200069280193_R06C02_Grn.idat,125,#046,46,NH18-151,,200069280193_R06C02,1/22/2018 0:00,,2/23/2018 0:00,32.0,SB,Diagnostic,46,4,NDP,Nottingham University Hospital,"Anaplastic PA, GBM, reported  to have H3 K27M mutation","(2) unusual histology, location, demographics",B1,12/12/1960 0:00,57.12465753,pleomorphic xanthoastrocytoma(-like),0.332197327,DMG_K27,0.713431497,0.751009,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-151,"High grade glioma, H3 K27M-mutant  see comment_x000D_
+","Methylation profile: Diffuse midline glioma, H3 K27M-mutant (WHO grade IV)_x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #046\NH18-151,0.111,-0.308,-0.182,0.068,-0.194,-0.007,0.136,-0.029,0.044,0.019,0.006,-0.059,0.101,-0.233,0.03,0.105,0.051,0.038,-0.047,-0.086,-0.121,0.233,0.098,-0.37,0.044,0.051,-0.386,-0.217,0.247,unmethylated
+163,200069280195_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#047_450k array data 2018-03-12\200069280195\200069280195_R01C01_Grn.idat,127,#047,47,NH18-198,,200069280195_R01C01,1/25/2018 0:00,,3/9/2018 0:00,43.0,SB/AK,Diagnostic,47,4,NDP,Tehran (IR),Low grade glial / glioneuronal tumour,"(4) IHC, sequencing, or copy number assay ambiguous",S96.8919,8/28/1970 0:00,47.42054795,ganglioglioma,0.494674364,GBM_MES,0.820629888,0.568297,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-198,"Methylation profile: Glioblastoma, IDH-wildtype (WHO grade IV)_x000D_
+_x000D_
+MGMT Promoter (Illumina): No methylation      _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #047\NH18-198,-0.181,-0.081,0.013,0.336,0.009,0.013,0.105,0.32,0.381,0.407,0.3,0.015,0.041,0.038,0.076,0.011,0.053,0.041,-0.051,0.088,-0.023,-0.005,0.097,-0.101,0.011,-0.142,0.185,-0.019,0.082,unmethylated
+164,200069280195_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#047_450k array data 2018-03-12\200069280195\200069280195_R02C01_Grn.idat,132,#047,47,NH18-51,,200069280195_R02C01,1/26/2018 0:00,,3/9/2018 0:00,42.0,SB/AK,Diagnostic,47,1,NDP,NHNN,? Central neurocytoma,"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF1A,2/14/2001 0:00,16.91339992,dysembryoplastic neuroepithelial tumour,0.941466218,LGG_DNT,0.79887439,0.781594,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-51,"Low grade glial/glioneuronal tumour- see comment_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation; further tests pending _x000D_
+ATRX (IHC): Retained        _x000D_
+","Central neurocytoma, WHO grade II), see comment_x000D_
+IDH1 (R132H IHC); IDH1/2 Seq: No mutation  _x000D_
+ATRX (IHC): Retained _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #047\NH18-51,-0.077,-0.051,-0.009,-0.011,-0.08,-0.018,0.028,-0.052,0.013,0.009,0.002,0.01,0.04,0.033,-0.031,0.004,0.046,-0.005,0.025,0.008,0.0,-0.019,0.0,0.027,0.027,0.001,-0.088,0.053,0.071,methylated
+165,200069280195_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#047_450k array data 2018-03-12\200069280195\200069280195_R02C02_Grn.idat,131,#047,47,NH18-289,,200069280195_R02C02,2/9/2018 0:00,,3/9/2018 0:00,28.0,ZJ,Diagnostic,47,1,NDP,Brighton and Sussex Hospital,"Poorly differentiated, biphasic tumour (gliosarcoma vs metastasis)","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF1A,11/15/1969 0:00,48.25890411,"glioblastoma, IDH-wildtype, mesenchymal type",0.412133857,GBM_MES,0.483986267,0.704303,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-289,"Preliminary diagnosis:_x000D_
+Malignant, poorly differentiated tumour  see comment_x000D_
+","Molecular and methylation profile in favour of Glioblastoma, IDH-wildtype (WHO grade IV)  see comment  _x000D_
+IDH1 (R132H IHC); IDH1/2Seq: No mutation_x000D_
+ATRX (IHC): Retained     _x000D_
+1p/19q: Retained          _x000D_
+EGFR: No amplification          _x000D_
+TERT promoter: Mutation     _x000D_
+Histone H3F3A: No mutation     _x000D_
+BRAF (V600E): No mutation          _x000D_
+MGMT Promoter: No methylation      _x000D_
+ _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #047\NH18-289,-0.054,-0.176,0.007,-0.041,-0.075,0.012,0.074,0.171,0.241,0.283,0.173,-0.005,0.061,-0.041,0.009,-0.016,-0.334,-0.335,-0.085,-0.054,0.819,1.096,0.019,0.104,0.225,0.127,0.162,0.018,0.053,unmethylated
+166,200069280195_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#047_450k array data 2018-03-12\200069280195\200069280195_R03C01_Grn.idat,129,#047,47,NH18-205,,200069280195_R03C01,1/26/2018 0:00,,3/9/2018 0:00,42.0,SB/AK,Diagnostic,47,3,NDP,Nottingham University Hospital,? Low grade glial / glionueronal tumour,"(2) unusual histology, location, demographics",A1,12/31/1998 0:00,19.08082192,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]",0.23548273,OIDH,0.307093372,0.762326,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-205,"Low grade glioma (see comment)_x000D_
+Methylation class: inconclusive result_x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #047\NH18-205,-0.307,-0.035,0.1,0.33,0.464,0.204,0.406,0.167,0.44,-0.183,-0.032,0.104,-0.493,0.19,-0.085,-0.087,0.181,-0.155,-0.064,0.144,0.129,0.508,-0.054,0.413,-0.217,-0.513,-0.283,-0.175,-0.017,methylated
+167,200069280195_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#047_450k array data 2018-03-12\200069280195\200069280195_R03C02_Grn.idat,130,#047,47,NH18-258,,200069280195_R03C02,2/19/2018 0:00,,3/9/2018 0:00,18.0,ZJ,Diagnostic,47,19,NDP,NHNN,Poorly differentiated tumour (recurrence from NH14-2205),"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",SP1A,1/16/1992 0:00,26.06412671,"Diffuse paediatric-type high grade glioma, RTK2 subtype",0.42297815,GBM_MYCN,0.961293968,0.851525,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-258,"Glioblastoma (WHO grade IV)  see comment_x000D_
+_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation       _x000D_
+ATRX (IHC): Retained      _x000D_
+  _x000D_
+","Molecular and methylation profile: Glioblastoma, IDH-wildtype (WHO grade IV)  _x000D_
+IDH1 (R132H IHC); IDH1/2Seq: No mutation_x000D_
+ATRX (IHC): Retained     _x000D_
+Histone H3F3A: No mutation     _x000D_
+BRAF (V600E): No mutation_x000D_
+MGMT promoter (Illumina array): No methylation          _x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #047\NH18-258,0.178,0.359,0.451,0.093,0.138,-0.021,-0.827,0.485,0.482,0.55,0.419,-0.145,-0.195,-0.146,-2.079,-0.23,-0.433,-0.589,0.038,-0.185,-0.181,-0.177,-0.146,-0.224,-0.254,0.061,-0.39,-0.222,-0.082,unmethylated
+168,200069280195_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#047_450k array data 2018-03-12\200069280195\200069280195_R04C01_Grn.idat,128,#047,47,NH18-199,,200069280195_R04C01,1/26/2018 0:00,,3/9/2018 0:00,42.0,SB/AK,Diagnostic,47,1,NDP,Nottingham University Hospital,High grade glioma,"(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",A1,8/17/2017 0:00,0.436986301,Infant-type hemispheric glioma,0.99999943,IHG,0.999865491,0.657176,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-199,"Histology: Glioblastoma (WHO grade IV)_x000D_
+Methylation class: Infantile spheric glioma, see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #047\NH18-199,-0.051,-0.034,0.033,-0.017,-0.001,-0.043,0.045,-0.002,0.052,0.022,-0.005,-0.002,0.105,-0.004,0.027,-0.036,0.01,0.017,-0.062,0.059,0.024,0.035,0.084,-0.016,0.027,-0.003,-0.062,-0.036,0.069,unmethylated
+175,200069280225_R06C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#048_450K Array data 2016-04-16\200069280225\200069280225_R06C02_Grn.idat,136,#048,48,NH18-663,,200069280225_R06C02,3/22/2018 0:00,,4/16/2018 0:00,25.0,SB,Diagnostic,48,19,NDP,"Birmingham, Queen Elizabeth Hospital","Ganglioglioma CD34+, BRAF-","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",A,5/2/1974 0:00,43.86164384,"glioblastoma, IDH-wildtype, mesenchymal type",0.989132736,GBM_MES,0.820098086,0.599401,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-663,"Histology: Diffuse, low grade glioma_x000D_
+Methylation class: Glioblastoma, IDH wild-type, subclass mesenchyma_x000D_
+EGFR: amplification_x000D_
+Chromosome 10q loss_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #048\NH18-663,-0.045,-0.066,0.03,-0.036,-0.038,0.007,-0.053,1.323,0.225,0.233,0.178,0.034,0.014,-0.009,-0.604,-0.074,-0.164,-0.178,-0.051,-0.003,0.037,0.032,0.056,-0.012,0.067,-0.002,0.166,-0.051,0.092,unmethylated
+173,200069280225_R04C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#048_450K Array data 2016-04-16\200069280225\200069280225_R04C02_Grn.idat,135,#048,48,NH18-595,,200069280225_R04C02,3/21/2018 0:00,,4/16/2018 0:00,26.0,SB,Diagnostic,48,1,NDP,Nottingham University Hospital,"looks like Oligo. IDH 1/2 neg, ATRX retained BRAF wt","(5) Confirmation of rare, unusual or interesting histo-molecular results",C1,10/9/1988 0:00,29.44246575,rosette-forming glioneuronal tumour,0.999641406,LGG_RGNT,0.994196938,0.675047,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-595,"Histology: Low grade glial neuronal tumour_x000D_
+Methylation profile: Rosette forming glioneuronal tumour_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #048\NH18-595,-0.149,-0.08,0.023,-0.029,-0.096,0.037,0.012,-0.06,-0.047,0.013,0.016,-0.007,0.047,-0.028,0.008,-0.054,0.014,0.073,-0.004,-0.084,-0.02,-0.017,0.051,-0.028,-0.011,-0.031,0.027,0.036,0.025,unmethylated
+169,200069280225_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#048_450K Array data 2016-04-16\200069280225\200069280225_R03C01_Grn.idat,134,#048,48,NH18-514,,200069280225_R03C01,3/7/2018 0:00,,4/16/2018 0:00,40.0,SB,Diagnostic,48,2,NDP,Manchester Children,"Myxopap Ep/ PA, PlomyxA. ","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",A,1/19/2012 0:00,6.121917808,"Diffuse paediatric-type high grade glioma, MYCN subtype",0.319668163,GBM_MYCN,0.308161191,0.78429,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-514,"Referred diagnosis: myxopapillary ependymoma versus pilocytic/pilomyxoid astrocytoma. _x000D_
+Methylation class and interpretation see comment_x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #048\NH18-514,-0.067,-0.109,0.038,-0.017,-0.112,0.069,-0.516,-0.045,0.0,0.025,0.0,0.023,0.024,-0.064,0.015,-0.022,-0.266,-0.326,-0.05,-0.071,-0.05,0.081,0.034,-0.015,0.013,0.02,-0.127,-0.026,0.026,unmethylated
+171,200069280225_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#048_450K Array data 2016-04-16\200069280225\200069280225_R04C01_Grn.idat,133,#048,48,NH18-145,,200069280225_R04C01,3/7/2018 0:00,,4/16/2018 0:00,40.0,ZJ,Diagnostic,48,8,NDP,Plymouth,"High grade NE tumour (IDH,H3, wt)","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",ABC,3/22/1989 0:00,28.79315068,"Diffuse paediatric-type high grade glioma, RTK1 subtype",0.970242061,GBM_MID,0.538633838,0.823827,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-145,"Preliminary diagnosis:High grade tumour - see comment_x000D_
+","Histology: High-grade neuroepithelial tumour_x000D_
+Methylation class: Glioblastoma, IDH wild-type, subclass midline (see comment)_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #048\NH18-145,-0.083,-0.604,-0.059,-0.03,0.325,-0.073,-0.505,-0.016,0.124,0.557,0.028,-0.025,0.22,0.408,-2.15,0.03,-0.023,-0.057,-0.007,0.028,-0.01,0.033,-0.421,0.002,-2.307,0.064,0.253,-0.372,-0.387,unmethylated
+177,200379120026_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#049_450k array data 2018-04-23\200379120026\200379120026_R01C01_Grn.idat,137,#049,49,NH18-582,,200379120026_R01C01,3/26/2018 0:00,,4/23/2018 0:00,28.0,ZJ,Diagnostic,49,2,NDP,"Belfast, Royal Victoria Hospital","Low grade glioma, IDHwt","(4) IHC, sequencing, or copy number assay ambiguous",A,8/5/1988 0:00,29.60136986,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.99991115,AIDH,0.996984941,0.708815,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-582,"Referred diagnosis: Low grade glioma, IDH-wildtype  _x000D_
+IDH1 (R132H IHC); IDH1/2Seq: No mutation_x000D_
+ATRX (IHC): Loss of expression (indicates mutation)     _x000D_
+1p/19q: Retained          _x000D_
+EGFR: No amplification          _x000D_
+TERT promoter: No mutation     _x000D_
+Histone H3F3A: No mutation     _x000D_
+BRAF (V600E): No mutation          _x000D_
+MGMT Promoter: Low level methylation (>0-10%)      _x000D_
+","Molecular and methylation profile: Diffuse astrocytoma, IDH-mutant (WHO grade II)  _x000D_
+IDH1/2Seq: Mutation     _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)     _x000D_
+1p/19q: Retained          _x000D_
+EGFR: No amplification          _x000D_
+TERT promoter: No mutation     _x000D_
+Histone H3F3A: No mutation     _x000D_
+BRAF (V600E): No mutation          _x000D_
+MGMT Promoter: Low level methylation (>5-10%)      _x000D_
+  _x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #049\NH18-582,-0.132,-0.017,0.08,-0.001,0.061,-0.019,-0.103,0.001,0.005,0.111,0.013,0.045,-0.05,0.182,-0.047,-0.05,0.055,0.003,0.045,0.004,0.089,-0.078,-0.134,0.065,-0.042,-0.02,-0.029,-0.059,0.017,methylated
+178,200379120026_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#049_450k array data 2018-04-23\200379120026\200379120026_R02C01_Grn.idat,138,#049,49,NH18-646,,200379120026_R02C01,3/27/2018 0:00,,4/23/2018 0:00,27.0,SB,Diagnostic,49,12,NDP,"Cambridge, Addenbrooke's Hospital",Ventricualr LGG/Glioneuronal,"(2) unusual histology, location, demographics",A,9/28/1990 0:00,27.48356164,papillary glioneuronal tumour,0.767170214,LGG_DNT,0.724545184,0.748756,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-646,"Methylation profile: Low grade glioma, dysembryoplastic neuroepithelial tumour  see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #049\NH18-646,-0.168,-0.081,0.079,0.077,0.0,-0.026,-0.313,-0.086,0.103,-0.076,-0.025,0.056,-0.037,0.048,0.082,-0.195,0.078,0.006,0.146,-0.028,0.099,-0.078,-0.057,0.1,-0.068,-0.12,-0.172,0.023,-0.019,unmethylated
+179,200379120026_R02C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#049_450k array data 2018-04-23\200379120026\200379120026_R02C02_Grn.idat,141,#049,49,NH18-807,,200379120026_R02C02,4/12/2018 0:00,,4/23/2018 0:00,11.0,SB,Diagnostic,49,8,NDP,"Cambridge, Addenbrooke's Hospital","GBM, subtype?","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",A3,2/17/1988 0:00,30.1054433,"glioblastoma, IDH-wildtype, RTK1 type",0.998843401,GBM_RTKI,0.953468308,0.726674,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-807,"Histology and methylation profile: Glioblastoma, IDH-wildtype (WHO grade IV)  _x000D_
+MGMT Promoter (derived from Illumina 450k array data): Unmethylated_x000D_
+  _x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #049\NH18-807,-0.197,-0.011,0.04,0.0,-0.057,0.038,0.021,0.233,0.293,0.227,0.193,0.012,0.062,-0.088,-1.051,0.084,-0.334,-0.247,-0.026,-0.016,-0.027,-0.01,-0.283,-0.013,0.034,-0.213,-0.057,-0.034,-0.268,unmethylated
+180,200379120026_R03C02,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#049_450k array data 2018-04-23\200379120026\200379120026_R03C02_Grn.idat,140,#049,49,NH18-804,,200379120026_R03C02,4/12/2018 0:00,,4/23/2018 0:00,11.0,SB,Diagnostic,49,2,NDP,"Birmingham, Queen Elizabeth Hospital","LGG, could be infiltration zone? Non diganostic poss!",(1) small biopsy or nonrepresentative sample;,D1,11/20/2003 0:00,14.25068493,infratentorial pilocytic astrocytoma,0.155114934,LGG_PA_GGST,0.276942796,0.515294,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-804,"Methylation profile: Control tissue, hemispheric cortex  see comment_x000D_
+",,(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #049\NH18-804,-0.151,-0.034,0.029,0.025,-0.022,-0.055,-0.064,0.004,0.065,0.091,0.006,0.019,0.015,0.055,0.057,-0.077,0.048,-0.001,0.052,-0.001,-0.028,0.005,-0.007,0.028,0.025,-0.062,-0.058,-0.05,0.017,unmethylated
+181,200379120026_R06C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#049_450k array data 2018-04-23\200379120026\200379120026_R06C01_Grn.idat,139,#049,49,NH18-716,,200379120026_R06C01,4/5/2018 0:00,,4/23/2018 0:00,18.0,ZJ,Diagnostic,49,2,NDP,Royal London Hospital,"LGG, favouring pilocytic astrocytoms","(3) non-specific histology [e.g. high-grade tumour with no distinctive features, low-grade tumour with no distinctive features]",DEF1A,10/9/1985 0:00,32.4890411,high-grade astrocytoma with piloid features,0.792499113,ANAPA,0.573052879,0.558938,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-716,"Low grade glioma in favour of pilocytic astrocytoma  see comment_x000D_
+","Morphology: Low grade glioma favouring pilocytic astrocytoma_x000D_
+Methylation class: Anaplastic pilocytic astrocytoma_x000D_
+ATRX: Loss of expression, CDKN2A/B loss_x000D_
+",(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #049\NH18-716,-0.234,-0.025,0.025,0.068,-0.073,0.014,-0.028,-0.04,0.133,0.125,0.005,-0.171,0.343,0.023,-0.619,-0.038,-0.103,-0.127,0.253,0.063,0.166,0.178,0.055,-0.072,0.085,-0.04,-0.26,-0.119,-0.076,unmethylated
+185,202093120072_R04C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#050_850k array data 2018-05-03\202093120072\202093120072_R04C01_Grn.idat,143,#050,50,NH18-692,,202093120072_R04C01,4/19/2018 0:00,,5/3/2018 0:00,14.0,SB,Diagnostic,50,3,NDP,"Liverpool, The Walton Centre","Anaplastic PA (ATRX loss, NF1 pat)","(2) unusual histology, location, demographics",A,7/27/1990 0:00,27.64843988,high-grade astrocytoma with piloid features,0.994990227,ANAPA,0.635165875,0.751061,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-692,"Referred diagnosis: Diffuse astrocytoma, probably high grade _x000D_
+Methylation profile: Anaplastic pilocytic astrocytoma (anaplastic astrocytoma with piloid features)  see comment_x000D_
+_x000D_
+",,(3) establishing new diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #050\NH18-692,-0.128,0.036,0.082,-0.043,0.067,0.058,-0.075,-0.105,-0.064,-0.147,-0.026,0.054,0.115,0.079,-0.488,-0.099,0.146,-0.025,0.049,0.172,0.071,0.151,-0.125,-0.003,-0.056,-0.033,-0.039,0.042,0.048,methylated
+182,202093120072_R01C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#050_850k array data 2018-05-03\202093120072\202093120072_R01C01_Grn.idat,146,#050,50,NH18-800,,202093120072_R01C01,4/17/2018 0:00,,5/3/2018 0:00,16.0,SB,Diagnostic,50,5,NDP,NHNN,"Astro II with MVP, ?A-IDH vs GBM IDH","(2) unusual histology, location, demographics",SP1A,8/24/1995 0:00,22.64502473,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.999994887,AIDH,0.998638972,0.753445,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-800,"Diffuse astrocytoma  see comment_x000D_
+_x000D_
+IDH1 (R132H IHC): Mutation  _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+","Diffuse astrocytoma, IDH-mutant (WHO grade II)  see supplementary comment _x000D_
+IDH1 (R132H IHC); IDH1/2Seq: Mutation     _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)     _x000D_
+1p/19q: Retained          _x000D_
+EGFR: No amplification          _x000D_
+TERT promoter: No mutation     _x000D_
+Histone H3F3A: No mutation     _x000D_
+BRAF (V600E): No mutation          _x000D_
+MGMT Promoter: No/insignificant methylation* _x000D_
+  _x000D_
+",(1) confirmation of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #050\NH18-800,0.002,-0.061,0.039,-0.069,-0.001,0.011,-0.008,-0.027,0.093,0.108,0.107,0.021,-0.027,0.01,-0.009,-0.003,0.039,0.03,-0.001,0.006,-0.021,-0.054,-0.225,-0.006,-0.026,-0.012,-0.005,0.026,0.028,methylated
+183,202093120072_R02C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#050_850k array data 2018-05-03\202093120072\202093120072_R02C01_Grn.idat,144,#050,50,NH18-738,,202093120072_R02C01,4/17/2018 0:00,,5/3/2018 0:00,16.0,SB,Diagnostic,50,2,NDP,Manchester,"LGG, diffuse, non-spec. All Molecular non-informative","(5) Confirmation of rare, unusual or interesting histo-molecular results",A,,,dysembryoplastic neuroepithelial tumour,0.952341233,LGG_DNT,0.957154462,0.772149,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-738,"Low grade glioma; compatible with a paediatric diffuse astrocytoma (see comment)._x000D_
+","Histological diagnosis: Low grade glioma, compatible with a paediatric diffuse astrocytoma _x000D_
+Methylation profile: Low grade glioma, dysembryoplastic neuroepithelial tumour  see supplementary comment_x000D_
+_x000D_
+BRAF (V600E and three fusions): No mutation_x000D_
+MGMT Promoter: No methylation_x000D_
+_x000D_
+_x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #050\NH18-738,0.026,-0.035,0.028,-0.012,-0.002,0.008,0.021,-0.049,-0.072,-0.086,-0.021,0.009,0.016,-0.015,0.025,-0.004,0.021,0.015,0.028,0.004,0.009,-0.033,0.009,0.017,0.017,-0.008,0.039,0.041,0.064,unmethylated
+184,202093120072_R03C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#050_850k array data 2018-05-03\202093120072\202093120072_R03C01_Grn.idat,142,#050,50,NH14-2173,,202093120072_R03C01,4/18/2018 0:00,,5/3/2018 0:00,15.0,SB,Diagnostic,50,1,NDP,NHNN,"LGG, 4Y survival, TERT250T, no EGFR; ?GBM",(1) small biopsy or nonrepresentative sample;,DEF2A,8/22/1970 0:00,44.29988394,ganglioglioma,0.401748854,GBM_MES,0.325721958,0.727095,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH14-2173,"Low grade glioneuronal tumour, with features raising the possibility of central neurocytoma (WHO Grade II). Please see comments. _x000D_
+",,(5) Non-contributory profile,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #050\NH14-2173,0.127,0.005,0.059,0.16,0.05,0.243,0.285,0.398,0.452,0.476,0.414,0.249,0.279,0.252,-0.025,0.01,0.03,0.014,-0.056,0.021,0.072,0.104,-0.032,-0.008,-0.052,-0.062,0.165,-0.051,0.055,unmethylated
+186,202093120072_R05C01,E:\Methylation_data_all_tumours_May23\Part_1_001_050\#050_850k array data 2018-05-03\202093120072\202093120072_R05C01_Grn.idat,145,#050,50,NH18-762,,202093120072_R05C01,4/20/2018 0:00,,5/3/2018 0:00,13.0,SB,Diagnostic,50,5,NDP,NHNN,"ATRX mutant High grade glioma, 38Y, no IDH, H3.3 mut","(2) unusual histology, location, demographics",DEF2A,8/10/1979 0:00,38.68341895,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]",0.835738371,AIDH,0.560637492,0.848827,"CNPs at bands 7q33, 7q34 and 7q35 are NOT consistent with a KIAA1549-BRAF fusion event.",NH18-762,"Provisional diagnosis: high grade glioma with astrocytic lineage_x000D_
+_x000D_
+IDH1 (R132H IHC): No mutation; further tests pending _x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+1p/19q: Test pending_x000D_
+  _x000D_
+","Anaplastic astrocytoma, IDH wild-type (WHO grade III)_x000D_
+IDH1 (R132H IHC); IDH1/2Seq: No mutation_x000D_
+ATRX (IHC): Loss of expression (indicates mutation)_x000D_
+EGFR: No amplification_x000D_
+Histone H3F3A: No mutation_x000D_
+BRAF (V600E): No mutation_x000D_
+MGMT Promoter: No/insignificant methylation*_x000D_
+ _x000D_
+_x000D_
+",(2) refinement of diagnosis,,S:\IoN_Scanned_Slides_CLIN\Biopsy\Surgical Neuropathology\ILLUMINA\Batch #050\NH18-762,-0.059,-0.019,0.067,-0.039,0.019,-0.354,0.087,0.035,-0.015,-0.034,-0.014,0.005,0.035,-0.023,0.055,0.027,-0.202,-0.863,0.178,0.047,0.813,-0.177,-0.019,0.006,0.02,0.015,-0.03,0.042,0.079,methylated
