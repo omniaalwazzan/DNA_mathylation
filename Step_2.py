@@ -1,72 +1,9 @@
-# This script should be the Step 2
-
-import os
-import shutil
-import cv2
 import pandas as pd
-
-# Specify the source directory (nested folders)
-source_directory = r"E:\Methylation_data_all_tumours_May23\Part_1_001_050"
-
-# Specify the destination directory (where you want to move the files)
-destination_directory = r"E:\IDAT\Part 1"
-
-# Loop through all files in the source directory and its subdirectories
-for foldername, subfolders, filenames in os.walk(source_directory):
-    for filename in filenames:
-        # Check if the file ends with ".idat"
-        if filename.endswith(".idat"):
-            # Create the full path to the source file
-            source_file_path = os.path.join(foldername, filename)
-            # Create the full path to the destination file
-            destination_file_path = os.path.join(destination_directory, filename)
-            # Move the file from the source to the destination
-            shutil.move(source_file_path, destination_file_path)
-            #print(f"Moved {filename} to {destination_directory}")
-
-print("All .idat files moved successfully.")
-
-
-
-# This code helps when creating image dataset, labelled by filename
-# Thd code will take file names from one directory that match those in CSV and move them to another directory
-def step_2(csv_file_path,src,dest_dir):
-    
-    CSV_DF = pd.read_csv(csv_file_path) # csv file contains image names and labels 
-    IDAT_PATH = src # image folder 
-    
-    IDAT_DIR=os.listdir(src) 
-    
-    Dist_PATH=dest_dir # lable of the images
-    
-    
-    #Training Split
-    for file in CSV_DF['ExtractedName']:
-        for name in IDAT_DIR:
-            if name.startswith(file):
-                sourc = os.path.join(IDAT_PATH,name )
-                distination = os.path.join(Dist_PATH, name)
-                shutil.move(sourc, distination)
-    
-    print("All .idat files moved successfully.")
-
-                
-## Calling the function
-src_part1 = r"E:\IDAT\Part 1"
-det_part1 = r"E:\IDAT\filterd_part1"
-csv_p1_pth = r"E:\2ndYear\Slivia's project\mythalExp\cases_Part_1_001_050.csv"
-
-step_2(csv_p1_pth,src_part1,det_part1)
-
-# Move 850 Cases to a separate folder, Step2.1
-
-csv_p1_pth_850k = "E:/IDAT/filterd_part1/850k/cases_part1_850k.csv"
-dest_850k= "E:/IDAT/filterd_part1/850k"
-step_2(csv_p1_pth_850k,det_part1,dest_850k)
-
+import shutil 
+import os 
 
 def read_tsv(tsv_path):
-    tsv = pd.read_table("E:/2ndYear/Slivia's project/Silvia Dataset/epialleles_gbm/EPIC.hg19.manifest.tsv")
+    tsv = pd.read_table(tsv_path)
     return tsv
 
 def xls2csv(xls_path,csv_path):
@@ -75,8 +12,49 @@ def xls2csv(xls_path,csv_path):
     print(f"Excel file '{xls_path}' has been converted to CSV file '{csv_path}'.")
     return csv_df
 
-
+def step_2(csv_file_path, src, dest_dir):
+    if isinstance(csv_file_path, str):
+        # If input is a file path, read the CSV file into a DataFrame
+        CSV_DF = pd.read_csv(csv_file_path)
+    elif isinstance(csv_file_path, pd.DataFrame):
+        # If input is already a DataFrame, use it directly
+        CSV_DF = csv_file_path
+    else:
+        raise ValueError("Invalid input type. Expected file path (string) or DataFrame.")
     
-
+    IDAT_PATH = src  # folder containing idat files 
+    IDAT_DIR = os.listdir(src) 
+    Dist_PATH = dest_dir  
     
+    for file in CSV_DF['ExtractedName']:
+        for name in IDAT_DIR:
+            if name.startswith(file):
+                sourc = os.path.join(IDAT_PATH, name)
+                destination = os.path.join(Dist_PATH, name)
+                shutil.move(sourc, destination)
+    
+    print("All .idat files moved successfully.")
+
+
+# Step 2.1 
+# This would create a csv file containing only 850k cases 
+def array_850K(csv_path):
+    df = pd.read_csv(csv_path)
+    # Filter rows containing '850k array data' in the 'path' column
+    csv_p1_pth_850k = df[df['FilePath'].str.contains('850k array data', case=False)]
+    
+    return csv_p1_pth_850k
+
+
+csv_from_step1 = r"D:\2ndYear\Slivia's project\mythalExp\Part_2_051_100.csv"
+
+# Move 850 Cases to a separate folder, Step2.1
+src_part = r"D:\IDAT\filterd_part2"
+csv_p1_pth_850k = array_850K(csv_from_step1)
+dest_850k= r"D:\IDAT\Part2_850k"
+step_2(csv_p1_pth_850k,src_part,dest_850k)
+
+
+
+
 
