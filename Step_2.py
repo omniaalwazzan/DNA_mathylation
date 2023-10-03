@@ -57,4 +57,29 @@ step_2(csv_p1_pth_850k,src_part,dest_850k)
 
 
 
+# Count the number of IDat files inside nested folder 
 
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct  3 15:32:20 2023
+
+@author: omnia
+"""
+
+import pandas as pd
+import os
+
+# Specify the path to the directory containing the folders
+directory_path = r"E:\Slivia's project\IDAT"
+
+# Loop through each folder in the specified directory
+for foldername in os.listdir(directory_path):
+    folder_path = os.path.join(directory_path, foldername)
+    
+    # Check if the current item in the directory is a folder
+    if os.path.isdir(folder_path):
+        # Count the number of files in the folder
+        num_files = len(os.listdir(folder_path))
+        
+        # Print a statement showing the folder name and the number of files inside
+        print(f"Folder '{foldername}' contains {num_files} files.")
