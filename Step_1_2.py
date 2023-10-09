@@ -12,6 +12,29 @@ def xls2csv(xls_path,csv_path):
     print(f"Excel file '{xls_path}' has been converted to CSV file '{csv_path}'.")
     return csv_df
 
+### Step one ###
+
+# Specify the source directory (nested folders)
+source_directory = "/data/Blizard-MarinoCollab/Methylation_data_all_tumours_May23/Part_1_001_050"
+# Specify the destination directory (where we want to move the files)
+destination_directory = "/data/DERI-MMH/DNA_meth/IDAT/filtr_p1"  
+
+# Loop through all files in the source directory and its subdirectories
+for foldername, subfolders, filenames in os.walk(source_directory):
+    for filename in filenames:
+        # Check if the file ends with ".idat"
+        if filename.endswith(".idat"):
+            # Create the full path to the source file
+            source_file_path = os.path.join(foldername, filename)
+            # Create the full path to the destination file
+            destination_file_path = os.path.join(destination_directory, filename)
+            # Move the file from the source to the destination
+            shutil.move(source_file_path, destination_file_path)
+            #print(f"Moved {filename} to {destination_directory}")
+
+print("All .idat files moved successfully.")
+
+
 def step_2(csv_file_path, src, dest_dir):
     if isinstance(csv_file_path, str):
         # If input is a file path, read the CSV file into a DataFrame
