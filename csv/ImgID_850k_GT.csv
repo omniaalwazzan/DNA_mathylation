@@ -1,0 +1,1623 @@
+,Sample.ID,Sentrix.ID,MC 12.6
+0,NH16-580,200512330122_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1,NH16-623,200512330122_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+2,NH16-862,200512330122_R06C01,pleomorphic xanthoastrocytoma(-like)
+3,NH16-1084,200577430059_R08C01,Diffuse glioneuronal tumour with oligodendroglioma-like features and nuclear clusters
+4,NH16-2632,200577440025_R05C01,pleomorphic xanthoastrocytoma(-like)
+5,NH16-1240,200577440082_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+6,NH16-2214,200577440082_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+7,NH16-1976,200577440082_R03C01,"glioblastoma, IDH-wildtype, RTK2 type"
+8,NH16-2251,200577440082_R05C01,"glioblastoma, IDH-wildtype, RTK2 type"
+9,NH16-2255,200577440082_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+10,NH16-2342,200577440082_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+11,NH16-2806,200577440082_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+12,NH18-800,202093120072_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+13,NH18-738,202093120072_R02C01,dysembryoplastic neuroepithelial tumour
+14,NH14-2173,202093120072_R03C01,ganglioglioma
+15,NH18-692,202093120072_R04C01,high-grade astrocytoma with piloid features
+16,NH18-762,202093120072_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+17,NH18-825,202073210004_R03C01,ganglioglioma
+18,NH18-823,202073210004_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+19,NH18-941,202073210004_R05C01,subependymal giant cell astrocytoma
+20,NH18-930,202073210004_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+21,NH18-921,202073210004_R07C01,pleomorphic xanthoastrocytoma(-like)
+22,NH18-951,202093120022_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+23,NH18-976,202093120022_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+24,NH18-1022,202093120022_R05C01,infratentorial pilocytic astrocytoma
+25,NH18-995,202093120022_R06C01,pleomorphic xanthoastrocytoma(-like)
+26,NH17-2085,202093120022_R07C01,rosette-forming glioneuronal tumour
+27,NH18-973,202073210050_R03C01,supratentorial pilocytic astrocytoma
+28,NH18-1108,202073210050_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+29,NH18-828,202073210050_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+30,NH18-1086,202073210050_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+31,NH18-1196,202073210028_R02C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+32,NH18-1082,202073210028_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+33,NH18-1233,202073210028_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+34,NH18-1271,202073210005_R05C01,ganglioglioma
+35,NH18-1269,202073210005_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+36,NH18-1250,202073210005_R08C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+37,NH18-1296,202073210006_R01C01,dysembryoplastic neuroepithelial tumour
+38,NH18-1423,202073210006_R02C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+39,NH18-1486,202073210006_R05C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+40,NH18-1475,202073210006_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+41,NH18-1453,202073210006_R08C01,rosette-forming glioneuronal tumour
+42,NH18-1330,202066270125_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+43,NH18-1513,202066270125_R02C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+44,NH18-1361,202066270125_R04C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+45,NH18-1224,202066270125_R06C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+46,NH18-1609,202066270125_R08C01,high-grade astrocytoma with piloid features
+47,NH18-1659,202066270100_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+48,NH18-1679,202066270100_R05C01,rosette-forming glioneuronal tumour
+49,NH18-1680,202066270100_R06C01,ganglioglioma
+50,NH18-1660,202128330027_R02C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+51,NH18-1760,202128330027_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+52,NH18-1829,202128330027_R07C01,dysembryoplastic neuroepithelial tumour
+53,NH18-1878,202066270106_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+54,NH18-1875,202066270106_R02C01,ganglioglioma
+55,NH18-1780,202066270106_R03C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+56,NH18-1925,202066270106_R04C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+57,NH18-1828,202066270106_R07C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+58,NH18-1963,202066270106_R08C01,pleomorphic xanthoastrocytoma(-like)
+59,NH18-1981,202066270129_R01C01,dysembryoplastic neuroepithelial tumour
+60,NH18-1982,202066270129_R02C01,supratentorial pilocytic astrocytoma
+61,NH18-1912,202066270129_R05C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+62,NH18-2002,202066270129_R06C01,high-grade astrocytoma with piloid features
+63,NH18-2060,202066270129_R08C01,supratentorial pilocytic astrocytoma
+64,NH18-2050,202135260056_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+65,NH18-2063,202135260056_R03C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+66,NH18-2160,202262730190_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+67,NH18-2236,202262730190_R06C01,infratentorial pilocytic astrocytoma
+68,NH18-2253,202128330159_R01C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+69,NH18-2237,202128330159_R02C01,supratentorial pilocytic astrocytoma
+70,NH18-2070,202128330159_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+71,NH18-2284,202093120023_R01C01,infratentorial pilocytic astrocytoma
+72,NH18-2314,202093120023_R02C01,high-grade astrocytoma with piloid features
+73,NH18-2316,202093120023_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+74,NH18-2346,202093120023_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+75,NH18-2298,202093120023_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+76,NH18-2423,202081130192_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+77,NH18-2420,202081130192_R03C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+78,NH18-2552,202081130192_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+79,NH18-2624,201530480010_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+80,NH18-2669,201533500048_R01C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+81,NH18-2665,201533500048_R04C01,pleomorphic xanthoastrocytoma(-like)
+82,NH18-2678,201533500048_R05C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+83,NH18-2738,201533500048_R06C01,dysembryoplastic neuroepithelial tumour
+84,NH18-2748,201533500048_R07C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+85,NH18-2749,201533500048_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+86,NH18-2750,202066270146_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+87,NH18-2829,202066270146_R08C01,high-grade astrocytoma with piloid features
+88,NH18-2768,202047860035_R01C01,papillary glioneuronal tumour
+89,NH18-2869,202047860035_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+90,NH18-2910,202047860035_R07C01,supratentorial pilocytic astrocytoma
+91,NH18-2929,202047860035_R08C01,infratentorial pilocytic astrocytoma
+92,NH18-2918,202066270083_R01C01,ganglioglioma
+93,NH19-2,202066270083_R03C01,high-grade astrocytoma with piloid features
+94,NH18-2850,202066270083_R05C01,pleomorphic xanthoastrocytoma(-like)
+95,NH19-36,202066270083_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+96,NH19-29,202066270083_R08C01,infratentorial pilocytic astrocytoma
+97,NH19-91,202081130229_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+98,NH19-144,203145740106_R01C01,papillary glioneuronal tumour
+99,NH19-146,203145740106_R02C01,diffuse leptomeningeal glioneuronal tumour
+100,NH19-192,203145740106_R05C01,supratentorial pilocytic astrocytoma
+101,NH19-197,203145740106_R06C01,infratentorial pilocytic astrocytoma
+102,NH19-189,203145740106_R07C01,supratentorial pilocytic astrocytoma
+103,NH19-195,203145740106_R08C01,infratentorial pilocytic astrocytoma
+104,NH19-210,202081130208_R01C01,ganglioglioma
+105,NH19-207,202081130208_R05C01,infratentorial pilocytic astrocytoma
+106,NH19-239,202066270113_R02C01,diffuse leptomeningeal glioneuronal tumour
+107,NH19-395,202066270120_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+108,NH19-410,202066270120_R03C01,"glioblastoma, IDH-wildtype, RTK2 type"
+109,NH18-2810,202066270120_R04C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+110,NH19-471,202066270120_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+111,NH19-117,202081130209_R01C01,infratentorial pilocytic astrocytoma
+112,NH19-450,202081130209_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+113,NH19-505,202081130209_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+114,NH19-509,202081130209_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type B]"
+115,NH19-525,202081130209_R08C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+116,NH19-489,203145740128_R01C01,rosette-forming glioneuronal tumour
+117,NH19-476,203145740128_R04C01,supratentorial midline pilocytic astrocytoma
+118,NH19-553,203145740128_R05C01,ganglioglioma
+119,NH19-396,203145740128_R06C01,infratentorial pilocytic astrocytoma
+120,NH19-596,203145740128_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+121,NH15-1432,203068650141_R03C01,high-grade astrocytoma with piloid features
+122,NH19-624,203068650141_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+123,NH19-648,203068650141_R06C01,high-grade astrocytoma with piloid features
+124,NH19-673,203145740121_R01C01,infratentorial pilocytic astrocytoma
+125,NH19-687,203145740121_R06C01,dysembryoplastic neuroepithelial tumour
+126,NH19-682,203068650095_R01C01,pleomorphic xanthoastrocytoma(-like)
+127,NH19-717,203068650095_R03C01,polymorphous low-grade neuroepithelial tumour of the young
+128,NH19-664,203068650095_R04C01,"Diffuse midline glioma, H3 K27-altered, subtype EGFR-altered"
+129,NH19-818,203068650095_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+130,NH19-828,203145740002_R03C01,rosette-forming glioneuronal tumour
+131,NH19-890,203145740002_R06C01,high-grade astrocytoma with piloid features
+132,NH19-881,203068760217_R02C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+133,NH19-918,203068760217_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+134,NH19-961,203068760218_R02C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+135,NH19-968,203068760218_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+136,NH19-1024,203068760218_R04C01,infratentorial pilocytic astrocytoma
+137,NH19-965,203068760218_R05C01,infratentorial pilocytic astrocytoma
+138,NH19-1047,203068760218_R06C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type B]"
+139,NH19-925,203068760136_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+140,NH19-1063,203068760136_R07C01,high-grade astrocytoma with piloid features
+141,NH19-1137,203068650124_R01C01,ganglioglioma
+142,NH19-1130,203068650124_R03C01,dysembryoplastic neuroepithelial tumour
+143,NH19-900,203068650124_R04C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+144,NH19-894,203068650124_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+145,NH19-1166,203068650124_R08C01,infratentorial pilocytic astrocytoma
+146,NH19-958,203068650085_R08C01,dysembryoplastic neuroepithelial tumour
+147,NH19-1280,203068650087_R02C01,infratentorial pilocytic astrocytoma
+148,NH19-1324,203068650087_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+149,NH19-1308,203068650087_R08C01,high-grade astrocytoma with piloid features
+150,NH19-1163,203068650139_R03C01,"glioblastoma, IDH-wildtype, RTK2 type"
+151,NH19-1383,203153910053_R02C01,supratentorial midline pilocytic astrocytoma
+152,NH19-1444,203153910053_R07C01,infratentorial pilocytic astrocytoma
+153,NH19-1283,203153910095_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+154,NH19-1281,203153910095_R02C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+155,NH19-1530,203153910095_R04C01,supratentorial pilocytic astrocytoma
+156,NH19-1512,203153910095_R05C01,pleomorphic xanthoastrocytoma(-like)
+157,NH19-1517,203153910095_R07C01,ganglioglioma
+158,NH19-1638,203068650122_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+159,NH19-1591,203068650122_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+160,NH19-1703,203068650122_R04C01,high-grade astrocytoma with piloid features
+161,NH19-1696,203068650122_R05C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+162,NH19-1741,203175830083_R05C01,supratentorial midline pilocytic astrocytoma
+163,NH19-1827,203175830083_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+164,NH19-1732,203179340039_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+165,NH19-1843,203179340039_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+166,NH19-1881,203179340039_R03C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+167,NH19-1873,203175830026_R03C01,rosette-forming glioneuronal tumour
+168,NH19-1906,203175830026_R04C01,ganglioglioma
+169,NH19-1961,203145740008_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+170,NH19-1965,203145740008_R06C01,infratentorial pilocytic astrocytoma
+171,NH19-2003,203145740119_R01C01,high-grade astrocytoma with piloid features
+172,NH19-2099,203068650103_R02C01,diffuse leptomeningeal glioneuronal tumour
+173,NH19-2043,203068650103_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+174,NH19-2077,203068650103_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+175,NH19-2014,203057570130_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+176,NH19-2035,203057570130_R02C01,pleomorphic xanthoastrocytoma(-like)
+177,NH19-2200,203057570130_R05C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+178,NH19-2024,203057570130_R08C01,high-grade astrocytoma with piloid features
+179,NH19-2146,203060700028_R05C01,supratentorial pilocytic astrocytoma
+180,NH19-2157,203060700028_R06C01,pleomorphic xanthoastrocytoma(-like)
+181,NH19-2050,203060700028_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+182,NH19-2193,203219640005_R01C01,infratentorial pilocytic astrocytoma
+183,NH19-2093,203219640005_R05C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+184,NH19-2297,203219640005_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+185,NH19-1901,203219640034_R01C01,ganglioglioma
+186,NH19-2379,203219640034_R07C01,supratentorial pilocytic astrocytoma
+187,NH19-2406,203861150106_R01C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+188,NH19-2365,203861150106_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+189,NH19-2409,203861150106_R04C01,ganglioglioma
+190,NH19-2175,203861150106_R05C01,ganglioglioma
+191,NH19-2429,203861150106_R07C01,dysembryoplastic neuroepithelial tumour
+192,NH19-2462,203861150106_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+193,NH19-2496,203861150107_R06C01,pleomorphic xanthoastrocytoma(-like)
+194,NH19-2525,203861150109_R01C01,diffuse leptomeningeal glioneuronal tumour
+195,NH19-2504,203861150109_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+196,NH19-2553,203861150109_R05C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+197,NH19-2546,203861150109_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+198,NH19-2317,203861150117_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+199,NH19-2643,203866380079_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+200,NH19-2647,203866380079_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+201,NH19-2626,203866380079_R07C01,infratentorial pilocytic astrocytoma
+202,NH19-2663,203866380079_R08C01,pleomorphic xanthoastrocytoma(-like)
+203,NH19-2662,203869580111_R01C01,infratentorial pilocytic astrocytoma
+204,NH19-2685,203869580111_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+205,NH19-2635,203869580111_R04C01,infratentorial pilocytic astrocytoma
+206,NH19-2698,203869580111_R06C01,pleomorphic xanthoastrocytoma(-like)
+207,NH19-2566,203869580111_R07C01,pleomorphic xanthoastrocytoma(-like)
+208,NH19-2850,203869580134_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+209,NH19-2744,203869580134_R05C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+210,NH19-2879,203869580125_R04C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+211,NH19-2886,203869580125_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+212,NH19-2876,203869580125_R07C01,"control tissue, cerebellar hemisphere"
+213,NH19-2867,203869580125_R08C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type B]"
+214,NH19-2975,203219640063_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+215,NH19-2997,203583860051_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+216,NH19-3048,203583860051_R03C01,dysembryoplastic neuroepithelial tumour
+217,NH19-2951,203583860051_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+218,NH19-3014,203583860051_R08C01,pleomorphic xanthoastrocytoma(-like)
+219,NH19-3012,203550290096_R01C01,supratentorial pilocytic astrocytoma
+220,NH19-2972,203550290096_R05C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+221,NH19-3074,203550290096_R07C01,infratentorial pilocytic astrocytoma
+222,NH19-3159,203550290096_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+223,NH19-3122,203583860037_R06C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+224,NH19-3189,203583860037_R08C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+225,NH19-3191,204088040141_R02C01,high-grade astrocytoma with piloid features
+226,NH19-3031,204088040141_R05C01,ganglioglioma
+227,NH19-3261,203980260029_R08C01,infratentorial pilocytic astrocytoma
+228,NH19-3238,203980260091_R04C01,supratentorial pilocytic astrocytoma
+229,NH19-3363,203980260091_R05C01,infratentorial pilocytic astrocytoma
+230,NH19-3286,203980260091_R07C01,dysembryoplastic neuroepithelial tumour
+231,NH19-3385,203980260091_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+232,NH19-3039,203980260002_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+233,NH19-3378,203980260002_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+234,NH19-3423,203980260002_R06C01,supratentorial midline pilocytic astrocytoma
+235,NH19-3158,203980260002_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+236,NH19-3447,204088020021_R01C01,pleomorphic xanthoastrocytoma(-like)
+237,NH19-3466,204088020021_R03C01,high-grade astrocytoma with piloid features
+238,NH19-3503,204088020021_R05C01,infratentorial pilocytic astrocytoma
+239,NH19-3510,204088020021_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+240,NH19-3274,203845510092_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+241,NH20-122,203980260068_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+242,NH20-107,203980260068_R02C01,infratentorial pilocytic astrocytoma
+243,NH20-147,203980260068_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+244,NH20-123,203980260068_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+245,NH20-143,203980260068_R06C01,supratentorial pilocytic astrocytoma
+246,NH20-113,203845510096_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+247,NH20-193,203845510096_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+248,NH20-232,203845510096_R04C01,Infant-type hemispheric glioma
+249,NH20-269,203845510096_R06C01,dysembryoplastic neuroepithelial tumour
+250,NH20-250,203845510096_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+251,NH20-365,203845510085_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+252,NH20-360,203845510085_R05C01,rosette-forming glioneuronal tumour
+253,NH20-362,203845510085_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+254,NH20-204,203845520051_R01C01,"glioblastoma, IDH-wildtype, RTK1 type"
+255,NH20-435,203845520051_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+256,NH20-126,203845520051_R04C01,high-grade astrocytoma with piloid features
+257,NH20-403,203845520051_R05C01,supratentorial pilocytic astrocytoma
+258,NH20-528,203845520070_R05C01,infratentorial pilocytic astrocytoma
+259,NH20-544,203845520070_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+260,NH20-471,203845520070_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+261,NH20-336,203845510052_R01C01,"glioblastoma, IDH-wildtype, RTK1 type"
+262,NH20-539,203845510052_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+263,NH20-567,203845510052_R04C01,ganglioglioma
+264,NH20-397,203845510052_R06C01,pleomorphic xanthoastrocytoma(-like)
+265,NH20-570,203845510052_R07C01,supratentorial pilocytic astrocytoma
+266,NH09-1467,203845510052_R08C01,dysembryoplastic neuroepithelial tumour
+267,NH20-601,203845520072_R03C01,pleomorphic xanthoastrocytoma(-like)
+268,NH20-661,203845520031_R04C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+269,NH20-689,203845510004_R01C01,infratentorial pilocytic astrocytoma
+270,NH20-677,203845510004_R02C01,dysembryoplastic neuroepithelial tumour
+271,NH20-667,203845510004_R03C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+272,NH20-679,203845510004_R05C01,"glioblastoma, IDH-wildtype, RTK2 type"
+273,NH20-733,203845510004_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+274,NH20-703,203845510005_R02C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+275,NH20-668,203845510005_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+276,NH20-743,203845510005_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+277,NH17-560,203845510005_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+278,NH20-779,204296550026_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+279,NH20-773,204296550026_R03C01,ganglioglioma
+280,NH20-784,204296550026_R04C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+281,NH20-756,204296550026_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+282,NH20-810,204296550026_R07C01,rosette-forming glioneuronal tumour
+283,NH20-878,204296590098_R03C01,supratentorial midline pilocytic astrocytoma
+284,NH20-804,204296590103_R04C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+285,NH20-803,204296590103_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+286,NH20-829,204296590103_R06C01,pleomorphic xanthoastrocytoma(-like)
+287,NH20-832,204296590103_R08C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+288,NH20-921,204296550047_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+289,NH20-894,204296550047_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+290,NH20-938,204296550047_R05C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+291,NH20-895,204296550047_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+292,NH20-958,204296550047_R08C01,pleomorphic xanthoastrocytoma(-like)
+293,NH20-583,204308830074_R02C01,ganglioglioma
+294,NH20-582,204308830074_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+295,NH20-957,204308830074_R06C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+296,NH20-969,204308830074_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type B]"
+297,NH20-727,204308830041_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+298,NH20-916,204308830041_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+299,NH20-1017,204308830041_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+300,NH20-1077,204308830073_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+301,NH20-1081,204308830073_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+302,NH20-1023,204308830073_R07C01,ganglioglioma
+303,NH20-1118,204308830073_R08C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+304,NH20-1147,204308830075_R01C01,infratentorial pilocytic astrocytoma
+305,NH20-1163,204308830075_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+306,NH20-1059,204308830075_R04C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+307,NH20-1185,204308830075_R06C01,high-grade astrocytoma with piloid features
+308,NH20-1204,204308830132_R01C01,supratentorial midline pilocytic astrocytoma
+309,NH20-1172,204308830132_R03C01,ganglioglioma
+310,NH20-1217,204308830132_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+311,NH20-1248,204308830132_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+312,NH20-1278,204308830146_R02C01,supratentorial pilocytic astrocytoma
+313,NH20-1294,204308830146_R06C01,subependymal giant cell astrocytoma
+314,NH20-1307,204308830146_R08C01,infratentorial pilocytic astrocytoma
+315,NH20-1304,204308830112_R02C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+316,NH20-1330,204308830112_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+317,NH20-1259,204308830112_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+318,NH20-1364,204308830031_R04C01,infratentorial pilocytic astrocytoma
+319,NH20-1378,204308830031_R05C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+320,NH20-1391,204308830031_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+321,NH20-1398,204308830031_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+322,NH20-1406,204296550082_R02C01,high-grade astrocytoma with piloid features
+323,NH20-1416,204296550082_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+324,NH20-1415,204296550082_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+325,NH20-1247,204296550082_R05C01,"glioblastoma, IDH-wildtype, RTK2 type"
+326,NH20-1401,204296550082_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+327,NH20-1414,204296550088_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+328,NH20-1358,204296550088_R06C01,ganglioglioma
+329,NH20-1480,204296550088_R08C01,"control tissue, white matter (corpus callosum)"
+330,NH20-1493,204296550055_R01C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+331,NH20-1102,204296550055_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+332,NH20-1467,204296550055_R04C01,ganglioglioma
+333,NH20-1417,204296550055_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+334,NH20-1538,204308990002_R03C01,subependymal giant cell astrocytoma
+335,NH20-1450,204308990010_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+336,NH20-1590,204308990010_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+337,NH20-1621,204308990007_R02C01,supratentorial pilocytic astrocytoma
+338,NH20-1513,204308990007_R03C01,ganglioglioma
+339,NH20-1550,204308990007_R04C01,infratentorial pilocytic astrocytoma
+340,NH20-1636,204308990007_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+341,NH20-1570,204308910079_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+342,NH20-1680,204308910079_R05C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+343,NH20-1685,204308910047_R01C01,dysembryoplastic neuroepithelial tumour
+344,NH20-1691,204308910047_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+345,NH20-1359,204308910047_R05C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+346,NH20-1631,204308910081_R05C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+347,NH20-1684,204308910081_R06C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+348,NH20-1672,204308910081_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+349,NH18-2815,204308990011_R06C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+350,NH20-1778,204308990011_R07C01,ganglioglioma
+351,NH20-1774,204308990011_R08C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+352,NH20-1721,204308990009_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+353,NH20-1767,204308990009_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+354,NH20-1760,204308990009_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+355,NH20-1788,204308990009_R05C01,ganglioglioma
+356,NH20-1659,204308990022_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+357,NH20-1743,204308990022_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+358,NH20-1811,204308990022_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+359,NH20-1827,204308990023_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+360,NH20-1862,204308990023_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+361,NH20-1686,204308990023_R08C01,pleomorphic xanthoastrocytoma(-like)
+362,NH20-1825,204308830067_R03C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+363,NH20-1904,204308830067_R05C01,supratentorial midline pilocytic astrocytoma
+364,NH20-1883,204308830020_R01C01,high-grade astrocytoma with piloid features
+365,NH20-1831,204308830020_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+366,NH20-1860,204308830020_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+367,NH20-1777,204308830020_R06C01,dysembryoplastic neuroepithelial tumour
+368,NH20-1970,204308830066_R02C01,rosette-forming glioneuronal tumour
+369,NH20-1991,204308830066_R04C01,dysembryoplastic neuroepithelial tumour
+370,NH20-1936,204308830066_R05C01,infratentorial pilocytic astrocytoma
+371,NH20-1944,204308830066_R07C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+372,NH19-2371,204308830066_R08C01,"Diffuse midline glioma, H3 K27-altered, subtype EGFR-altered"
+373,NH20-2048,204308830064_R03C01,"glioblastoma, IDH-wildtype, RTK2 type"
+374,NH20-2034,204308830064_R04C01,supratentorial midline pilocytic astrocytoma
+375,NH20-2010,204308830064_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+376,NH20-2055,204296550078_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+377,NH20-2054,204296550078_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+378,NH20-2066,204296550078_R07C01,infratentorial pilocytic astrocytoma
+379,NH20-2069,204296550078_R08C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+380,NH20-1929,204339110074_R01C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+381,NH20-1911,204339110074_R03C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+382,NH20-2129,204339110074_R05C01,supratentorial midline pilocytic astrocytoma
+383,NH20-1983,204339110074_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+384,NH20-2080,204339110023_R02C01,"diffuse glioneuronal tumour, non defined type"
+385,NH20-2122,204339110023_R05C01,dysembryoplastic neuroepithelial tumour
+386,NH20-2125,204339110023_R08C01,supratentorial pilocytic astrocytoma
+387,NH20-2021,204339010096_R04C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+388,NH20-2238,204339010096_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+389,NH20-2239,204339010096_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+390,NH20-2144,204339110097_R02C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+391,NH20-2108,204339110097_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+392,NH20-2182,204339110097_R04C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+393,NH20-2180,204339110097_R08C01,infratentorial pilocytic astrocytoma
+394,NH20-2221,204339110105_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+395,NH20-2141,204339110105_R02C01,supratentorial pilocytic astrocytoma
+396,NH20-1927,204339110105_R04C01,rosette-forming glioneuronal tumour
+397,NH20-2215,204339110105_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+398,NH20-1999,204339010040_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+399,NH20-2249,204339010040_R03C01,high-grade astrocytoma with piloid features
+400,NH20-2242,204339010040_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+401,NH20-2275,204339010040_R07C01,infratentorial pilocytic astrocytoma
+402,NH20-2168,204339010084_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+403,NH20-2288,204339010084_R03C01,subependymal giant cell astrocytoma
+404,NH20-2259,204339010084_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+405,NH20-2289,204339010084_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+406,NH20-2243,204339010084_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+407,NH20-2321,204339110078_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+408,NH20-2317,204339110078_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+409,NH20-2318,204339110078_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+410,NH20-2319,204339110078_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+411,NH20-2320,204339110078_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+412,NH20-2202,204339110078_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+413,NH20-2339,204339110083_R01C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+414,NH20-2345,204339110083_R05C01,pleomorphic xanthoastrocytoma(-like)
+415,NH20-2174,204339110083_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+416,NH20-2127,204339110083_R08C01,high-grade astrocytoma with piloid features
+417,NH20-2264,204339010083_R01C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+418,NH20-2344,204339010083_R02C01,infratentorial pilocytic astrocytoma
+419,NH20-2365,204339010083_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+420,NH20-2382,204339010083_R06C01,infratentorial pilocytic astrocytoma
+421,NH20-2253,204339010083_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+422,NH20-2223,204339010083_R08C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+423,NH20-2390,204339110084_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+424,NH20-2387,204339110084_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+425,NH20-2368,204894630037_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+426,NH20-2422,204894630037_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+427,NH20-2267,204894630037_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+428,NH20-2445,204894630072_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+429,NH20-2461,204894630072_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+430,NH20-2430,204894630072_R05C01,"control tissue, white matter (corpus callosum)"
+431,NH20-2478,204894630072_R08C01,ganglioglioma
+432,NH20-2474,204339010020_R01C01,dysembryoplastic neuroepithelial tumour
+433,NH20-1919,204339010020_R03C01,ganglioglioma
+434,NH20-2496,204339010020_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+435,NH20-2497,204339010020_R05C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+436,NH20-2494,204339010020_R06C01,subependymal giant cell astrocytoma
+437,NH20-2204,204339010020_R07C01,high-grade astrocytoma with piloid features
+438,NH20-2559,204339010021_R07C01,supratentorial midline pilocytic astrocytoma
+439,NH20-2556,204894630079_R01C01,infratentorial pilocytic astrocytoma
+440,NH20-2577,204894630079_R03C01,supratentorial pilocytic astrocytoma
+441,NH20-2581,204894630079_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+442,NH20-1908,204894630079_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+443,NH20-2594,204894630079_R06C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+444,NH20-2517,204894630079_R07C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+445,NH20-2605,204894630079_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+446,NH20-2598,204894630080_R01C01,infratentorial pilocytic astrocytoma
+447,NH20-2503,204894630080_R03C01,"glioblastoma, IDH-wildtype, RTK2 type"
+448,NH20-2618,204894630080_R07C01,infratentorial pilocytic astrocytoma
+449,NH20-2651,204894630080_R08C01,papillary glioneuronal tumour
+450,NH20-2609,204894630012_R01C01,infratentorial pilocytic astrocytoma
+451,NH20-2653,204894630012_R04C01,high-grade astrocytoma with piloid features
+452,NH20-2579,204894630012_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+453,NH20-2535,204894630012_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+454,NH20-2697,204894630077_R05C01,infratentorial pilocytic astrocytoma
+455,NH20-2771,204894630025_R01C01,supratentorial midline pilocytic astrocytoma
+456,NH20-2750,204894630025_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+457,NH20-2761,204894630025_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+458,NH20-2801,204894630038_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+459,NH20-2811,204894630038_R04C01,supratentorial pilocytic astrocytoma
+460,NH20-2803,204894630038_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+461,NH20-2699,204894630042_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+462,NH20-2828,204894630042_R06C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+463,NH20-2723,204894630042_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+464,NH20-2700,204894630009_R03C01,Diffuse glioneuronal tumour with oligodendroglioma-like features and nuclear clusters
+465,NH20-2665,204894630009_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+466,NH20-2881,204894630009_R06C01,infratentorial pilocytic astrocytoma
+467,NH20-2906,204894630009_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+468,NH20-2760,204894630009_R08C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+469,NH20-2767,205021750005_R01C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+470,NH20-2903,205021750005_R02C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+471,NH20-2913,205021750005_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+472,NH20-2914,205021750005_R06C01,high-grade astrocytoma with piloid features
+473,NH20-2915,205021750005_R07C01,diffuse leptomeningeal glioneuronal tumour
+474,NH20-2945,204921830024_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+475,NH20-2954,204921830024_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+476,NH20-3000,205021750018_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+477,NH20-2916,205021750018_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+478,NH21-7,205021750018_R06C01,pleomorphic xanthoastrocytoma(-like)
+479,NH21-20,205021750018_R07C01,supratentorial pilocytic astrocytoma
+480,NH21-21,205021750018_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+481,NH21-34,205022250127_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+482,NH21-37,205022250127_R04C01,high-grade astrocytoma with piloid features
+483,NH20-2973,205022250127_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+484,NH21-46,205022250127_R07C01,supratentorial midline pilocytic astrocytoma
+485,NH21-47,205022250127_R08C01,ganglioglioma
+486,NH21-59,205021750115_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+487,NH21-45,205021750115_R02C01,infratentorial pilocytic astrocytoma
+488,NH21-26,205021750115_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+489,NH21-48,205021750115_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+490,NH21-53,205021750115_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+491,NH21-95,205022250165_R01C01,supratentorial midline pilocytic astrocytoma
+492,NH21-102,205022250165_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+493,NH21-101,205022250165_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+494,NH21-104,205022250165_R04C01,diffuse leptomeningeal glioneuronal tumour
+495,NH20-3024,205022250165_R05C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+496,NH21-120,205022250165_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+497,NH21-103,205022250165_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+498,NH21-135,205021750148_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+499,NH21-79,205022250076_R03C01,ganglioglioma
+500,NH21-160,205022250076_R05C01,high-grade astrocytoma with piloid features
+501,NH21-159,205022250076_R06C01,dysembryoplastic neuroepithelial tumour
+502,NH21-157,205022250076_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+503,NH21-164,205021750036_R01C01,ganglioglioma
+504,NH21-139,205021750036_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+505,NH06-876,205021750100_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+506,NH21-220,205021750109_R01C01,supratentorial midline pilocytic astrocytoma
+507,NH21-178,205021750109_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+508,NH21-251,205021750109_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+509,NH21-209,205021750109_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+510,NH21-271,205021750144_R01C01,pleomorphic xanthoastrocytoma(-like)
+511,NH21-130,205021750144_R02C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+512,NH21-280,205021750144_R04C01,infratentorial pilocytic astrocytoma
+513,NH21-76,205021750144_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+514,NH21-279,205021750144_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+515,NH21-288,205021740170_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+516,NH21-316,205021740170_R05C01,"glioblastoma, IDH-wildtype, RTK2 type"
+517,NH21-314,205021740170_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+518,NH20-3030,205021740057_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+519,NH21-329,205021740057_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+520,NH21-359,205021740057_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+521,NH21-358,205021740057_R05C01,supratentorial midline pilocytic astrocytoma
+522,NH21-383,205021740057_R08C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+523,NH21-386,205021750076_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+524,NH21-393,205021750076_R02C01,ganglioglioma
+525,NH21-424,205021750076_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+526,NH21-423,205021750076_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+527,NH21-335,205021750076_R07C01,ganglioglioma
+528,NH21-306,205021750150_R03C01,infratentorial pilocytic astrocytoma
+529,NH21-430,205021750150_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+530,NH21-475,205021750150_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+531,NH21-379,205021740110_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+532,NH21-404,205021740110_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+533,NH21-481,205021740110_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+534,NH21-414,205021740110_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+535,NH21-511,204940880063_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+536,NH21-532,204940880063_R02C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+537,NH21-470,204940880063_R03C01,pleomorphic xanthoastrocytoma(-like)
+538,NH21-524,204940880063_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+539,NH21-555,204940880021_R03C01,supratentorial pilocytic astrocytoma
+540,NH21-573,204940880021_R05C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+541,NH21-538,204940880021_R06C01,high-grade astrocytoma with piloid features
+542,NH21-587,204940880021_R07C01,supratentorial pilocytic astrocytoma
+543,NH21-607,204940880096_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+544,NH21-610,204940880096_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+545,NH21-492,204940880009_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+546,NH21-595,204940880009_R04C01,ganglioglioma
+547,NH21-544,204940880009_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+548,NH21-689,204940880009_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+549,NH21-694,204940880009_R07C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+550,NH21-703,204940890067_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+551,NH21-701,204940890067_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+552,NH21-702,204940890067_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+553,NH21-641,204940890067_R07C01,rosette-forming glioneuronal tumour
+554,NH21-725,204940890118_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+555,NH21-779,204940890118_R04C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+556,NH21-767,204940890118_R05C01,dysembryoplastic neuroepithelial tumour
+557,NH21-766,204940890118_R07C01,infratentorial pilocytic astrocytoma
+558,NH21-742,204940890123_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+559,NH21-743,204940890123_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+560,NH21-758,204940890123_R08C01,"glioblastoma, IDH-wildtype, RTK1 type"
+561,NH21-910,205022250094_R03C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+562,NH21-807,205022250094_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+563,NH21-841,205022250094_R06C01,pleomorphic xanthoastrocytoma(-like)
+564,NH21-887,205022250067_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+565,NH21-888,205022250067_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+566,NH21-799,205291530160_R07C01,ganglioglioma
+567,NH21-972,205022250050_R02C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+568,NH21-942,205022250050_R08C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+569,NH21-983,205291530180_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+570,NH21-858,205291530180_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+571,NH21-1009,205291530180_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+572,NH21-881,205291530124_R01C01,rosette-forming glioneuronal tumour
+573,NH21-1053,205291530124_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+574,NH21-1125,205291530124_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+575,NH21-1121,205291530145_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+576,NH21-1139,205291530145_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+577,NH21-1132,205291530145_R04C01,dysembryoplastic neuroepithelial tumour
+578,NH21-985,205291530145_R05C01,pleomorphic xanthoastrocytoma(-like)
+579,NH21-1167,205291530145_R06C01,infratentorial pilocytic astrocytoma
+580,NH21-1149,205291530145_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+581,NH21-1173,205291530145_R08C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+582,NH21-1031,205291530119_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+583,NH21-1110,205291530119_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+584,NH21-1163,205291530119_R06C01,infratentorial pilocytic astrocytoma
+585,NH21-1190,205291530119_R08C01,"diffuse glioneuronal tumour, non defined type"
+586,NH21-1199,205292900028_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+587,NH21-1229,205292900028_R06C01,supratentorial pilocytic astrocytoma
+588,NH21-1245,205292900118_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+589,NH21-1248,205292900118_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+590,NH21-1278,205292900056_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+591,NH18-2117,205292900056_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+592,NH21-1333,205292900056_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+593,NH21-1332,205292900056_R07C01,ganglioglioma
+594,NH21-1315,205292900056_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+595,NH21-1335,205291530072_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+596,NH21-1297,205291530072_R03C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+597,NH21-1344,205291530072_R08C01,supratentorial pilocytic astrocytoma
+598,NH21-1192,205291530098_R01C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+599,NH21-1356,205291530098_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+600,NH21-1263,205291530098_R05C01,ganglioglioma
+601,NH21-1411,205291530098_R08C01,infratentorial pilocytic astrocytoma
+602,NH21-1298,205291530184_R01C01,papillary glioneuronal tumour
+603,NH21-1438,205291530184_R03C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+604,NH21-1460,205291530184_R04C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+605,NH21-1465,205291530184_R05C01,high-grade astrocytoma with piloid features
+606,NH21-1456,205291530184_R08C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+607,NH21-1429,205291530174_R03C01,ganglioglioma
+608,NH21-1442,205292900185_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+609,NH21-1524,205292900185_R02C01,infratentorial pilocytic astrocytoma
+610,NH21-1589,205292900185_R05C01,high-grade astrocytoma with piloid features
+611,NH21-1570,205292900087_R01C01,supratentorial pilocytic astrocytoma
+612,NH21-1549,205292900087_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+613,NH21-1545,205292900087_R06C01,dysembryoplastic neuroepithelial tumour
+614,NH21-1256,205292900087_R07C01,infratentorial pilocytic astrocytoma
+615,NH21-1587,205292900085_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+616,NH21-1588,205292900085_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+617,NH21-1580,205589740077_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+618,NH21-1604,205589740077_R02C01,infratentorial pilocytic astrocytoma
+619,NH21-1613,205589740077_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+620,NH21-1420,205589740077_R08C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+621,NH21-1585,205589740143_R01C01,infratentorial pilocytic astrocytoma
+622,NH21-1546,205589740143_R04C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+623,NH21-1610,205589740143_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+624,NH21-1635,205589740143_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+625,NH21-1661,205589740152_R02C01,high-grade astrocytoma with piloid features
+626,NH21-1676,205589740152_R03C01,infratentorial pilocytic astrocytoma
+627,NH21-1617,205589740152_R08C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+628,NH21-1652,205566000025_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+629,NH21-1637,205566000025_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+630,NH21-1729,205566000025_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+631,NH21-1739,205460730055_R04C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+632,NH21-1699,205460730055_R05C01,ganglioglioma
+633,NH21-1702,205460730055_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+634,NH21-1749,205460730168_R02C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+635,NH21-1717,205460730168_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+636,NH21-1537,205460730168_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+637,NH21-1768,205605870166_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+638,NH21-1645,205605870166_R03C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+639,NH21-1474,205605870166_R04C01,supratentorial pilocytic astrocytoma
+640,NH21-1523,205605870166_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+641,NH21-1790,205605880001_R01C01,infratentorial pilocytic astrocytoma
+642,NH21-1805,205605880001_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+643,NH21-1811,205605880001_R05C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+644,NH21-1783,205605880003_R01C01,dysembryoplastic neuroepithelial tumour
+645,NH21-1828,205605880003_R08C01,supratentorial midline pilocytic astrocytoma
+646,NH21-1852,205605880035_R05C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+647,NH21-1875,205605880035_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+648,NH21-1885,205605880038_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+649,NH21-1934,205605880038_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+650,NH21-1913,205605880038_R07C01,supratentorial pilocytic astrocytoma
+651,NH21-1944,205605880038_R08C01,supratentorial midline pilocytic astrocytoma
+652,NH21-1954,205648300146_R04C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+653,NH21-1977,205648300146_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+654,NH21-1947,205648300146_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+655,NH21-1961,205648300085_R03C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+656,NH21-1966,205648300085_R04C01,ganglioglioma
+657,NH05-418,205648300085_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+658,NH21-2015,205648300162_R03C01,supratentorial pilocytic astrocytoma
+659,NH21-2027,205648300162_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+660,NH21-2009,205648300162_R08C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+661,NH21-1996,205648300030_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+662,NH21-1997,205648300030_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+663,NH21-1998,205648300030_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+664,NH21-1999,205648300030_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+665,NH21-2000,205648300030_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+666,NH21-2001,205648300030_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+667,NH21-2002,205648300030_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+668,NH21-2003,205648300030_R08C01,pleomorphic xanthoastrocytoma(-like)
+669,NH21-1970,205648300147_R01C01,supratentorial pilocytic astrocytoma
+670,NH21-2053,205648300128_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+671,NH21-2052,205648300128_R02C01,infratentorial pilocytic astrocytoma
+672,NH21-2045,205648300128_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+673,NH21-2025,205648300128_R04C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+674,NH21-2064,205648300128_R07C01,pleomorphic xanthoastrocytoma(-like)
+675,NH21-1752,205648300128_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+676,NH21-2063,205648300058_R01C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+677,NH21-2083,205648300058_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+678,NH21-2088,205648300059_R01C01,rosette-forming glioneuronal tumour
+679,NH21-2137,205648300059_R05C01,dysembryoplastic neuroepithelial tumour
+680,NH21-2102,205648300059_R06C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+681,NH21-2151,205648300178_R02C01,pleomorphic xanthoastrocytoma(-like)
+682,NH21-2215,205648300161_R05C01,diffuse leptomeningeal glioneuronal tumour
+683,NH21-2213,205648300161_R06C01,dysembryoplastic neuroepithelial tumour
+684,NH21-2202,205648300161_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+685,NH21-2210,205676390044_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+686,NH21-2270,205676390044_R07C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+687,NH21-1972,205676380170_R02C01,ganglioglioma
+688,NH21-2292,205676380170_R05C01,supratentorial midline pilocytic astrocytoma
+689,NH21-2279,205676380170_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+690,NH21-2308,205657600020_R04C01,infratentorial pilocytic astrocytoma
+691,NH21-2309,205657600020_R05C01,high-grade astrocytoma with piloid features
+692,NH21-2298,205657600020_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+693,NH21-2261,205657600020_R07C01,rosette-forming glioneuronal tumour
+694,NH21-2336,205657600005_R02C01,supratentorial midline pilocytic astrocytoma
+695,NH21-2240,205657600005_R05C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+696,NH21-2026,205657600005_R06C01,supratentorial midline pilocytic astrocytoma
+697,NH21-2294,205648300074_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+698,NH21-2426,205648300074_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+699,NH21-2391,205648310002_R04C01,papillary glioneuronal tumour
+700,NH21-2371,205648310002_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+701,NH21-2373,205648310002_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+702,NH21-2459,205814850110_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+703,NH21-2456,205814850110_R08C01,ganglioglioma
+704,NH21-2471,205809370155_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+705,NH21-2214,205809370155_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+706,NH21-2491,205809370155_R08C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+707,NH21-2490,205809380172_R01C01,supratentorial midline pilocytic astrocytoma
+708,NH21-2537,205809380172_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+709,NH21-2546,205809380172_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+710,NH21-2502,205814850159_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+711,NH21-1864,205814850159_R03C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+712,NH21-2548,205814850159_R06C01,supratentorial pilocytic astrocytoma
+713,NH21-2576,205814850159_R07C01,infratentorial pilocytic astrocytoma
+714,NH21-2577,205605880090_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+715,NH21-2636,205605880090_R02C01,high-grade astrocytoma with piloid features
+716,NH21-2561,205605880090_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+717,NH21-2592,205605880090_R06C01,pleomorphic xanthoastrocytoma(-like)
+718,NH21-2588,205605880090_R07C01,supratentorial midline pilocytic astrocytoma
+719,NH20-749,205809370163_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+720,NH21-2379,205809370163_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+721,NH21-2601,205809370163_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+722,NH21-2634,205809370163_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+723,NH21-2624,205809370108_R02C01,supratentorial midline pilocytic astrocytoma
+724,NH21-2632,205809370108_R03C01,high-grade astrocytoma with piloid features
+725,NH21-2700,205799790027_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+726,NH21-2706,205799790027_R02C01,dysembryoplastic neuroepithelial tumour
+727,NH17-570,205799790027_R05C01,rosette-forming glioneuronal tumour
+728,NH21-2618,205799790027_R06C01,supratentorial pilocytic astrocytoma
+729,NH20-875,205799790027_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+730,NH21-2699,205799790027_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+731,NH21-2693,205799790104_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+732,NH21-2710,205799790104_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+733,NH21-2722,205799790104_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+734,NH21-2400,205799790104_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+735,NH21-2709,205799790104_R07C01,supratentorial pilocytic astrocytoma
+736,NH21-2714,205799790104_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+737,NH18-1724,205799790107_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+738,NH21-2736,205799790107_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+739,NH21-2758,205799790107_R05C01,infratentorial pilocytic astrocytoma
+740,NH21-2766,205799790107_R07C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+741,NH21-2762,205799790107_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+742,NH21-2755,205809360046_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+743,NH21-2801,205809360046_R02C01,supratentorial pilocytic astrocytoma
+744,NH21-2780,205809360046_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+745,NH21-2730,205809360046_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+746,NH21-2733,205809360046_R07C01,dysembryoplastic neuroepithelial tumour
+747,NH21-2775,205809370107_R03C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+748,NH21-2499,205809370107_R05C01,ganglioglioma
+749,NH21-2689,205809370107_R06C01,pleomorphic xanthoastrocytoma(-like)
+750,NH21-2803,205809370107_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+751,NH21-2797,205809370107_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+752,NH21-2871,205852210130_R03C01,high-grade astrocytoma with piloid features
+753,NH21-2571,205852210130_R04C01,diffuse leptomeningeal glioneuronal tumour
+754,NH14-1021,205852210163_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+755,NH21-2893,205852210163_R06C01,high-grade astrocytoma with piloid features
+756,NH21-2930,205852210176_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+757,NH21-2911,205852210176_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+758,NH21-2939,205852210024_R04C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+759,NH21-2956,205852210024_R06C01,supratentorial pilocytic astrocytoma
+760,NH21-2919,205852210139_R03C01,infratentorial pilocytic astrocytoma
+761,NH21-2805,205852210139_R04C01,ganglioglioma
+762,NH21-2946,205852210139_R06C01,high-grade astrocytoma with piloid features
+763,NH21-2977,205852210029_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+764,NH21-2963,205852210029_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+765,NH21-2962,205852210029_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+766,NH21-2968,205852210029_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+767,NH21-2992,205852210095_R01C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+768,NH21-2973,205852210095_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+769,NH21-3028,205852210095_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+770,NH21-3006,205852210095_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+771,NH21-3012,205852210141_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+772,NH21-2993,205852210141_R04C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+773,NH21-3008,205852210141_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+774,NH21-3036,205852210141_R08C01,dysembryoplastic neuroepithelial tumour
+775,NH21-3029,205852210066_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+776,NH21-3082,205852210068_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+777,NH21-3055,205852210068_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+778,NH21-3065,205852210068_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+779,NH21-3090,205852210068_R06C01,infratentorial pilocytic astrocytoma
+780,NH21-3071,205852210068_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+781,NH16-456,205852210096_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+782,NH21-3073,205852210096_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+783,NH21-3081,205852210096_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+784,NH21-3086,205852210096_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+785,NH21-3051,205852210096_R06C01,ganglioglioma
+786,NH21-3124,205852210096_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+787,NH21-3234,205852210008_R02C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+788,NH21-2882,205852210008_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+789,NH21-3118,205852210008_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+790,NH21-2952,205852210008_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+791,NH21-2954,205852210008_R08C01,ganglioglioma
+792,NH21-3142,205852210117_R01C01,infratentorial pilocytic astrocytoma
+793,NH21-3027,205852210117_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+794,NH21-3153,205852210117_R08C01,rosette-forming glioneuronal tumour
+795,NH21-3167,205852210039_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+796,NH21-3199,205852210039_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+797,NH21-3188,205852210041_R03C01,high-grade astrocytoma with piloid features
+798,NH21-3210,205852210041_R05C01,high-grade astrocytoma with piloid features
+799,NH21-3175,205852210041_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+800,NH21-3213,205852210041_R08C01,ganglioglioma
+801,NH21-3227,205852210065_R01C01,"diffuse glioneuronal tumour, non defined type"
+802,NH21-3231,205852210065_R02C01,infratentorial pilocytic astrocytoma
+803,NH21-3251,205852210065_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+804,NH21-3238,205852210065_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+805,NH21-3243,205852210065_R08C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+806,NH21-3255,205852210023_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+807,NH21-3298,205852210023_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+808,NH21-3284,205852210023_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+809,NH21-3276,205852210023_R07C01,ganglioglioma
+810,NH21-3262,205852210023_R08C01,infratentorial pilocytic astrocytoma
+811,NH21-3104,205852220013_R02C01,ganglioglioma
+812,NH21-3265,205852220013_R03C01,ganglioglioma
+813,NH21-3257,205852220013_R04C01,infratentorial pilocytic astrocytoma
+814,NH21-3267,205852220013_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+815,NH21-3287,205852220013_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+816,NH21-3318,205852220004_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+817,NH21-3328,205852220004_R04C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+818,NH21-3326,205852220004_R07C01,infratentorial pilocytic astrocytoma
+819,NH21-3321,205852220004_R08C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+820,NH21-3354,205852210166_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+821,NH21-3357,205852210166_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+822,NH21-3360,205852210166_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+823,NH21-3351,205852220032_R01C01,dysembryoplastic neuroepithelial tumour
+824,NH21-3350,205852220032_R02C01,high-grade astrocytoma with piloid features
+825,NH21-3356,205852220032_R03C01,infratentorial pilocytic astrocytoma
+826,NH21-3404,206053660108_R04C01,ganglioglioma
+827,NH21-3402,206053660108_R05C01,ganglioglioma
+828,NH22-18,206053660108_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+829,NH22-22,205852210006_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+830,NH22-45,205852210006_R07C01,supratentorial pilocytic astrocytoma
+831,NH22-81,206053660070_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+832,NH22-82,206053660070_R02C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+833,NH22-76,206053660070_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+834,NH22-73,206053660070_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+835,NH22-79,206053660070_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+836,NH22-55,206053660070_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+837,NH21-3253,206053660070_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+838,NH22-116,206053660072_R06C01,high-grade astrocytoma with piloid features
+839,NH22-106,206053660072_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+840,NH22-114,206053660071_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+841,NH22-107,206053660071_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+842,NH16-158,206053660071_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+843,NH17-1108,206053660071_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+844,NH22-143,206053660071_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+845,NH22-147,206053660044_R04C01,ganglioglioma
+846,NH12-1777,206053660044_R05C01,infratentorial pilocytic astrocytoma
+847,NH22-54,206053660044_R06C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+848,NH22-202,206053660044_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+849,NH22-175,206053660044_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+850,NH22-171,206053660060_R01C01,subependymal giant cell astrocytoma
+851,NH22-188,206053660060_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+852,NH22-190,206053660060_R06C01,supratentorial midline pilocytic astrocytoma
+853,NH22-168,206053660060_R08C01,pleomorphic xanthoastrocytoma(-like)
+854,NH21-3401,206053660111_R01C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+855,NH22-225,206053660111_R05C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+856,NH22-211,206053660111_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+857,NH22-209,206053660111_R08C01,infratentorial pilocytic astrocytoma
+858,NH22-235,206053660019_R01C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+859,NH22-251,206053660019_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+860,NH22-284,206053660019_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+861,NH22-237,206053660110_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+862,NH22-238,206053660110_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+863,NH22-299,206053660110_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+864,NH22-176,206053660110_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+865,NH22-314,206036370059_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+866,NH22-320,206036370059_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+867,NH22-317,206036370059_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+868,NH22-312,206053660109_R05C01,infratentorial pilocytic astrocytoma
+869,NH22-359,206036370071_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+870,NH22-321,206036370071_R07C01,supratentorial pilocytic astrocytoma
+871,NH22-392,206036370071_R08C01,papillary glioneuronal tumour
+872,NH21-3217,206036370069_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+873,NH22-396,206036370069_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+874,NH14-176,206036370069_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+875,NH22-390,206036370069_R05C01,ganglioglioma
+876,NH22-214,206036370069_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+877,NH22-366,206036370021_R04C01,dysembryoplastic neuroepithelial tumour
+878,NH22-395,206036370021_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+879,NH22-279,206053660090_R03C01,infratentorial pilocytic astrocytoma
+880,NH22-434,206053660090_R04C01,supratentorial pilocytic astrocytoma
+881,NH22-448,206053660090_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+882,NH22-417,206053660090_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+883,NH22-455,206053660074_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+884,NH22-472,206053660074_R03C01,infratentorial pilocytic astrocytoma
+885,NH22-443,206053660074_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+886,NH22-465,206053660074_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+887,NH14-1617,206053660074_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+888,NH22-452,206053660069_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+889,NH22-496,206053660069_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+890,NH22-506,206053660069_R08C01,infratentorial pilocytic astrocytoma
+891,NH22-513,206053660073_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+892,NH22-522,206053660073_R07C01,infratentorial pilocytic astrocytoma
+893,NH22-520,206036370122_R01C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+894,NH22-561,206036370122_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+895,NH22-586,206036370122_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+896,NH22-573,206036370122_R05C01,supratentorial pilocytic astrocytoma
+897,NH22-572,206036370122_R06C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+898,NH22-563,206036370122_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+899,NH22-557,206036370122_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+900,NH22-548,206036370162_R02C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+901,NH22-560,206036370162_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+902,NH22-625,206036370162_R08C01,pleomorphic xanthoastrocytoma(-like)
+903,NH22-607,206036370160_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+904,NH20-25,206036370160_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+905,NH22-469,206036370160_R08C01,infratentorial pilocytic astrocytoma
+906,NH22-670,206036370156_R01C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+907,NH22-653,206036370156_R03C01,pleomorphic xanthoastrocytoma(-like)
+908,NH22-567,206036370156_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+909,NH14-633,206036370156_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+910,NH22-639,206036370156_R08C01,infratentorial pilocytic astrocytoma
+911,NH22-709,206154250072_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+912,NH22-579,206154250072_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+913,NH22-723,206154250072_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+914,NH22-720,206154250072_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+915,NH22-747,206154250074_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+916,NH22-785,206154250074_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+917,NH22-794,206154250074_R08C01,"glioblastoma, IDH-wildtype, RTK1 type"
+918,NH22-792,206154250110_R01C01,infratentorial pilocytic astrocytoma
+919,NH22-804,206154250110_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+920,NH22-803,206154250110_R04C01,dysembryoplastic neuroepithelial tumour
+921,NH22-582,206154250110_R05C01,"glioblastoma, IDH-wildtype, RTK2 type"
+922,NH22-768,206154250110_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+923,NH22-823,206154250071_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+924,NH22-841,206154250071_R06C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+925,NH22-800,206154250035_R01C01,ganglioglioma
+926,NH22-847,206154250035_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+927,NH22-858,206154250035_R04C01,supratentorial midline pilocytic astrocytoma
+928,NH22-860,206154250035_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+929,NH22-861,206154250035_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+930,NH22-851,206154250035_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+931,NH22-868,206154080106_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+932,NH22-685,206154080106_R05C01,ganglioglioma
+933,NH22-583,206154080106_R06C01,dysembryoplastic neuroepithelial tumour
+934,NH22-857,206154080106_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+935,NH22-908,206154080119_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+936,NH22-910,206154080119_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+937,NH22-909,206154080119_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+938,NH22-905,206154080119_R07C01,pleomorphic xanthoastrocytoma(-like)
+939,NH22-892,206154080118_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+940,NH22-912,206154080118_R04C01,supratentorial pilocytic astrocytoma
+941,NH22-934,206154080118_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+942,NH22-923,206154080118_R06C01,ganglioglioma
+943,NH22-950,206154080118_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+944,NH22-981,206154080043_R01C01,supratentorial pilocytic astrocytoma
+945,NH22-982,206154080043_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+946,NH22-974,206154080043_R04C01,supratentorial midline pilocytic astrocytoma
+947,NH22-866,206154080043_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+948,NH22-959,206154250026_R03C01,ganglioglioma
+949,NH22-931,206154250026_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+950,NH22-993,206154250026_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+951,NH22-1013,206154250026_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+952,NH22-1004,206154250026_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+953,NH22-1034,206154250027_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+954,NH22-1006,206154250062_R06C01,ganglioglioma
+955,NH22-1028,206154250062_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+956,NH16-793,206154080077_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+957,NH22-1079,206154080077_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+958,NH22-795,206154080077_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+959,NH22-966,206154080121_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+960,NH22-1109,206154080121_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+961,NH22-1122,206154080121_R04C01,pleomorphic xanthoastrocytoma(-like)
+962,NH22-1153,206154080121_R05C01,rosette-forming glioneuronal tumour
+963,NH22-925,206154080078_R02C01,supratentorial pilocytic astrocytoma
+964,NH22-932,206154080078_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+965,NH22-1163,206154080078_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+966,NH22-1169,206154080078_R08C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+967,NH22-1167,206154080122_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+968,NH15-1188,206154080122_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+969,NH22-1182,206154080122_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+970,NH22-127,206154080122_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+971,NH22-1195,206154080122_R06C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+972,NH22-1173,206154080122_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+973,NH22-1196,206154250108_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+974,NH22-1200,206154250108_R06C01,infratentorial pilocytic astrocytoma
+975,NH22-1226,206154250108_R07C01,ganglioglioma
+976,NH22-1227,206154250108_R08C01,ganglioglioma
+977,NH22-1228,206154250056_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+978,NH22-1232,206154250056_R02C01,supratentorial pilocytic astrocytoma
+979,NH22-1229,206154250056_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+980,NH22-1231,206154250056_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+981,NH22-1187,206154250056_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+982,NH22-1211,206154250056_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+983,NH22-1127,206154250096_R01C01,papillary glioneuronal tumour
+984,NH15-1018,206154250096_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+985,NH22-1241,206154250096_R04C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+986,NH22-1252,206154250096_R05C01,dysembryoplastic neuroepithelial tumour
+987,NH22-1253,206154250096_R06C01,infratentorial pilocytic astrocytoma
+988,NH22-1217,206154250096_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+989,NH22-1265,206154250099_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+990,NH22-1246,206154250099_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+991,NH22-1317,206154250099_R08C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+992,NH22-1180,206154250070_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+993,NH22-1184,206154250070_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+994,NH22-1282,206154250070_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+995,NH22-1292,206154250070_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+996,NH22-1310,206486300130_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+997,NH22-1293,206486300130_R08C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+998,NH22-1354,206486300122_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+999,NH22-1341,206486300122_R04C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+1000,NH22-1339,206486300122_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1001,NH22-1357,206486300119_R03C01,supratentorial pilocytic astrocytoma
+1002,NH22-1358,206486300119_R04C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1003,NH22-1372,206486300119_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1004,NH22-1361,206486300046_R01C01,pleomorphic xanthoastrocytoma(-like)
+1005,NH22-1376,206486300046_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1006,NH22-1408,206486300046_R06C01,pleomorphic xanthoastrocytoma(-like)
+1007,NH22-1194,206486300046_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1008,NH22-1427,206486300002_R02C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+1009,NH22-1457,206486300002_R03C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+1010,NH22-1456,206486300002_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1011,NH22-1454,206486300002_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1012,NH21-2260,206486300002_R06C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+1013,NH22-1459,206486300002_R07C01,papillary glioneuronal tumour
+1014,NH22-1192,206486300002_R08C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1015,NH22-1475,206486300016_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1016,NH22-1473,206486300016_R02C01,infratentorial pilocytic astrocytoma
+1017,NH22-1474,206486300016_R03C01,infratentorial pilocytic astrocytoma
+1018,NH22-1444,206486300016_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1019,NH22-1440,206486300016_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1020,NH22-1428,206486300016_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1021,NH22-1503,206486300016_R07C01,"diffuse glioneuronal tumour, non defined type"
+1022,NH22-1498,206486300016_R08C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1023,NH22-1494,206486300009_R02C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1024,NH22-1543,206486300009_R05C01,papillary glioneuronal tumour
+1025,NH22-1499,206486300009_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1026,NH22-1512,206486300009_R08C01,high-grade astrocytoma with piloid features
+1027,NH22-1516,206486300093_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1028,NH22-1480,206486300093_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1029,NH22-1463,206486300093_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1030,NH22-1483,206486300093_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1031,NH22-1517,206486300113_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1032,NH22-1515,206486300113_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1033,NH22-1561,206486300113_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1034,NH22-1578,206486300113_R05C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1035,NH22-1559,206486300087_R01C01,ganglioglioma
+1036,NH22-1587,206486300087_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1037,NH22-1611,206486300087_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1038,NH22-1500,206486300087_R08C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1039,NH22-1276,206486300112_R02C01,ganglioglioma
+1040,NH22-1610,206486300112_R03C01,infratentorial pilocytic astrocytoma
+1041,NH22-1630,206486300112_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1042,NH22-897,206486300024_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1043,NH22-1654,206486300024_R03C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+1044,NH22-1442,206486300024_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1045,NH22-1534,206486300024_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1046,NH22-1621,206486300007_R01C01,pleomorphic xanthoastrocytoma(-like)
+1047,NH22-1697,206486300031_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1048,NH22-1664,206486300031_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1049,NH22-1613,206486300031_R07C01,pleomorphic xanthoastrocytoma(-like)
+1050,NH22-1729,206486300031_R08C01,supratentorial pilocytic astrocytoma
+1051,NH22-1725,206486300022_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1052,NH22-1586,206486300022_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1053,NH22-1710,206486300022_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1054,NH22-1694,206486300165_R03C01,ganglioglioma
+1055,NH22-1702,206486300165_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1056,NH22-1734,206486300165_R06C01,ganglioglioma
+1057,NH22-1736,206486300165_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1058,NH22-1786,206486300163_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1059,NH22-1775,206486300163_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1060,NH22-1795,206486300168_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1061,NH22-1796,206486300168_R04C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1062,NH22-1803,206486300168_R05C01,supratentorial midline pilocytic astrocytoma
+1063,NH22-1822,206486300168_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1064,NH22-1833,206486300147_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1065,NH22-1836,206486300147_R03C01,dysembryoplastic neuroepithelial tumour
+1066,NH22-1837,206486300147_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1067,NH22-1838,206486300147_R06C01,supratentorial pilocytic astrocytoma
+1068,NH22-1865,206486300147_R08C01,ganglioglioma
+1069,NH22-1852,206486300103_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1070,NH22-1854,206486300103_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1071,NH22-1857,206486300103_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1072,NH22-1881,206486300103_R08C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+1073,NH22-1870,206486300136_R03C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+1074,NH22-1900,206486300136_R05C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1075,NH22-456,206486300136_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1076,NH22-1905,206486300136_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1077,NH22-1943,206601450181_R02C01,papillary glioneuronal tumour
+1078,NH22-1938,206601450181_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1079,NH22-1946,206601450181_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1080,NH22-1920,206601450182_R01C01,supratentorial pilocytic astrocytoma
+1081,NH22-1924,206601450182_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1082,NH22-1925,206601450182_R03C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1083,NH22-1963,206601450182_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1084,NH22-1960,206601450182_R08C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1085,NH22-1849,206601450196_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1086,NH22-1970,206601450196_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1087,NH22-1989,206601450138_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1088,NH22-2025,206601450138_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1089,NH22-2029,206601450138_R06C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1090,NH22-2016,206601450138_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1091,NH22-2019,206600570043_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1092,NH22-2030,206600570043_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1093,NH22-2055,206600570043_R03C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+1094,NH22-2057,206600570043_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1095,NH22-2059,206600570043_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1096,NH22-2062,206600570043_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1097,NH20-2312,206600570043_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1098,NH22-2043,206600570044_R03C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+1099,NH22-2040,206600570044_R05C01,high-grade astrocytoma with piloid features
+1100,NH22-2038,206600570049_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1101,NH21-2998,206600570049_R02C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+1102,NH22-1879,206600570049_R03C01,pleomorphic xanthoastrocytoma(-like)
+1103,NH22-2011,206600570049_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1104,NH22-2041,206600570049_R05C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+1105,NH22-2080,206600570049_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1106,NH22-2078,206600570058_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1107,NH22-2108,206600570058_R06C01,supratentorial pilocytic astrocytoma
+1108,NH22-2106,206600570058_R08C01,infratentorial pilocytic astrocytoma
+1109,NH22-2115,206601450018_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1110,NH22-2112,206601450018_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1111,NH22-2120,206601450018_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1112,NH22-2137,206601450005_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1113,NH22-2142,206601450003_R01C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1114,NH22-2146,206601450003_R02C01,"Diffuse paediatric-type high grade glioma, H3 wildtype and IDH wild type, Subtype A&B (novel)"
+1115,NH22-2185,206601450003_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1116,NH22-2181,206601450003_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1117,NH22-2182,206601450001_R02C01,ganglioglioma
+1118,NH22-2190,206601450001_R03C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1119,NH22-2183,206601450001_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1120,NH22-2180,206601450001_R06C01,ganglioglioma
+1121,NH22-2199,206601450001_R07C01,infratentorial pilocytic astrocytoma
+1122,NH22-2231,206600570015_R04C01,ganglioglioma
+1123,NH22-2227,206600570009_R02C01,ganglioglioma
+1124,NH22-2226,206600570009_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1125,NH22-2266,206600570009_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1126,NH22-2240,206600570011_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1127,NH22-2248,206600570011_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1128,NH22-2247,206600570011_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1129,NH22-2210,206600570011_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1130,NH22-2126,206600570004_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1131,NH22-2282,206600570004_R04C01,ganglioglioma
+1132,NH22-2285,206600570004_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1133,NH22-2316,206600570004_R08C01,"diffuse glioneuronal tumour, non defined type"
+1134,NH22-2309,206601450077_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1135,NH22-2308,206601450077_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1136,NH22-2328,206601450077_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1137,NH22-2324,206601450080_R02C01,supratentorial midline pilocytic astrocytoma
+1138,NH22-2353,206601450080_R04C01,infratentorial pilocytic astrocytoma
+1139,NH22-2349,206601450080_R07C01,ganglioglioma
+1140,NH22-2346,206601450080_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1141,NH22-2332,206601450107_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1142,NH22-2369,206601450107_R02C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+1143,NH22-2362,206601450107_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1144,NH22-2361,206601450110_R04C01,high-grade astrocytoma with piloid features
+1145,NH16-1485,206601450110_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1146,NH19-1419,206601450104_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1147,NH22-2380,206601450104_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1148,NH22-2392,206601450104_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1149,NH22-2439,206601450104_R06C01,pleomorphic xanthoastrocytoma(-like)
+1150,NH22-2417,206601450104_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1151,NH22-2467,206601450097_R02C01,ganglioglioma
+1152,NH22-2397,206601450097_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1153,NH22-2434,206601450097_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1154,NH22-2395,206601450123_R01C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+1155,NH22-2529,206601450123_R03C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1156,NH22-2523,206601450123_R05C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1157,NH22-2509,206601450123_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1158,NH22-2506,206601450123_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1159,NH22-2503,206601450123_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1160,NH22-2495,206601450150_R02C01,supratentorial midline pilocytic astrocytoma
+1161,NH22-2492,206601450150_R03C01,"diffuse glioneuronal tumour, non defined type"
+1162,NH22-2491,206601450150_R04C01,supratentorial midline pilocytic astrocytoma
+1163,NH19-2671,206601450150_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1164,NH22-2599,206601450118_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1165,NH22-2550,206601450118_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1166,NH22-2547,206601450118_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1167,NH22-2496,206601450118_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1168,NH22-2563,206699910041_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1169,NH22-2602,206699910041_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1170,NH22-2568,206699910041_R03C01,pleomorphic xanthoastrocytoma(-like)
+1171,NH22-2548,206699910041_R05C01,supratentorial pilocytic astrocytoma
+1172,NH22-2597,206699910041_R06C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1173,NH22-2573,206699910041_R08C01,rosette-forming glioneuronal tumour
+1174,NH22-2582,206699910161_R01C01,high-grade astrocytoma with piloid features
+1175,NH22-2632,206699910161_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1176,NH22-2637,206699900133_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1177,NH22-2634,206699900133_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1178,NH22-2583,206699910042_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1179,NH22-2610,206699910042_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1180,NH22-2644,206699910042_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1181,NH22-2679,206699910042_R05C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1182,NH22-2659,206699910042_R07C01,pleomorphic xanthoastrocytoma(-like)
+1183,NH22-2626,206699900135_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1184,NH22-2707,206699900135_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1185,NH22-2726,206699900120_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1186,NH22-2558,206699900120_R03C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+1187,NH22-2643,206699900120_R05C01,ganglioglioma
+1188,NH22-2689,206699900120_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1189,NH22-2675,206699900120_R08C01,supratentorial pilocytic astrocytoma
+1190,NH22-2590,206699900087_R05C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1191,NH22-2666,206699900087_R07C01,dysembryoplastic neuroepithelial tumour
+1192,NH22-2737,206699900087_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1193,NH22-2736,206699900167_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1194,NH22-2754,206699900167_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1195,NH22-2739,206699900167_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1196,NH22-2764,206699900167_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1197,NH22-2782,206699900197_R04C01,supratentorial midline pilocytic astrocytoma
+1198,NH22-2828,206699900158_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1199,NH22-2829,206699900158_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1200,NH22-2830,206699900158_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1201,NH22-2812,206699900158_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1202,NH22-2797,206699900158_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1203,NH22-2783,206699900158_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1204,NH22-2766,206699900156_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1205,NH22-2806,206699900156_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1206,NH22-2803,206699900156_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1207,NH22-2855,206699900156_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1208,NH22-2822,206699900156_R06C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+1209,NH22-2814,206699900156_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1210,NH22-2836,206699910018_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1211,NH22-2823,206699910018_R03C01,ganglioglioma
+1212,NH22-2856,206699910018_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1213,NH22-2767,206699910018_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1214,NH22-2864,206699910081_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1215,NH22-2863,206699910081_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1216,NH22-2887,206699910081_R04C01,high-grade astrocytoma with piloid features
+1217,NH13-1634,206699910016_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1218,NH22-2885,206699910016_R04C01,ganglioglioma
+1219,NH22-1767,206699910016_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1220,NH22-2871,206699910016_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1221,NH22-2870,206699910016_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1222,NH17-2901,206699910016_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1223,NH22-2851,206699910194_R03C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1224,NH22-2880,206699910194_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1225,NH22-2921,206699910194_R05C01,infratentorial pilocytic astrocytoma
+1226,NH22-2613,206699900188_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1227,NH22-2948,206699900188_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1228,NH22-2962,206699900188_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1229,NH22-2778,206699900188_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1230,NH22-2970,206699900189_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1231,NH22-2972,206699900189_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1232,NH22-2976,206699900189_R06C01,infratentorial pilocytic astrocytoma
+1233,NH22-2834,206699900189_R08C01,subependymal giant cell astrocytoma
+1234,NH22-2984,206699900182_R01C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1235,NH22-2995,206699900182_R06C01,infratentorial pilocytic astrocytoma
+1236,NH22-2957,206699900134_R01C01,ganglioglioma
+1237,NH22-2947,206699900134_R02C01,dysembryoplastic neuroepithelial tumour
+1238,NH22-3056,206699900134_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1239,NH22-3052,206699900134_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1240,NH22-3019,206699900153_R02C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1241,NH22-3005,206699900153_R03C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1242,NH22-3033,206699900153_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1243,NH22-3039,206699900153_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1244,NH22-3071,206699900180_R03C01,supratentorial pilocytic astrocytoma
+1245,NH22-3076,206699900180_R04C01,infratentorial pilocytic astrocytoma
+1246,NH22-2779,206693200059_R04C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1247,NH21-1201,206699900066_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1248,NH22-3081,206699900066_R03C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1249,NH22-3095,206699900066_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1250,NH22-3147,206699900066_R06C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1251,NH22-3122,206667650124_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1252,NH22-3164,206667650124_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1253,NH22-3163,206667650124_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1254,NH22-3152,206667650124_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1255,NH22-3153,206667650106_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1256,NH22-3155,206667650106_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1257,NH22-3179,206667650106_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1258,NH22-3129,206667650106_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1259,NH22-3134,206667650106_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1260,NH22-3157,206667650160_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1261,NH22-3170,206667650160_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1262,NH22-3206,206667650160_R07C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+1263,NH22-2994,206667650160_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1264,NH22-3012,206667650132_R02C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type B]"
+1265,NH22-3161,206667650132_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1266,NH22-2813,206667650132_R04C01,supratentorial pilocytic astrocytoma
+1267,NH22-3089,206667650132_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1268,NH22-3227,206667650134_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1269,NH22-3225,206667650134_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1270,NH22-3207,206667650134_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1271,NH22-3217,206667650134_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1272,NH22-3223,206667650128_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1273,NH22-3257,206667650128_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1274,NH22-3258,206667650135_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1275,NH22-3313,206667650135_R07C01,high-grade astrocytoma with piloid features
+1276,NH22-3330,206667650135_R08C01,pleomorphic xanthoastrocytoma(-like)
+1277,NH22-3309,206693200121_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1278,NH22-3199,206693200121_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1279,NH22-3295,206693200121_R06C01,ganglioglioma
+1280,NH22-3166,206693200121_R07C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1281,NH22-2269,206693200121_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1282,NH22-3358,206693200123_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1283,NH22-3380,206693200123_R04C01,high-grade astrocytoma with piloid features
+1284,NH22-3399,206693200123_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1285,NH22-3363,206693200123_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1286,NH22-3366,206693200095_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1287,NH22-3447,206693200125_R03C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+1288,NH22-3386,206693200125_R06C01,supratentorial pilocytic astrocytoma
+1289,NH22-3341,206693200125_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1290,NH22-3327,206677660087_R01C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1291,NH22-3469,206677660087_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1292,NH22-3468,206677670008_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1293,NH22-3444,206677670008_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1294,NH22-3442,206677670008_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1295,NH22-3484,206677670008_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1296,NH22-3477,206677670005_R02C01,pleomorphic xanthoastrocytoma(-like)
+1297,NH22-3459,206677670005_R04C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+1298,NH22-3493,206677670005_R06C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1299,NH22-3479,206677670005_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1300,NH19-3068,206677670005_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1301,NH22-3512,206677660125_R04C01,dysembryoplastic neuroepithelial tumour
+1302,NH22-3528,206677660125_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1303,NH22-3529,206677660124_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1304,NH22-3289,206677660124_R04C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+1305,NH22-3525,206677660124_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1306,NH22-3500,206677660124_R07C01,infratentorial pilocytic astrocytoma
+1307,NH22-3502,206677660124_R08C01,"control tissue, cerebellar hemisphere"
+1308,NH22-3530,206677660085_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1309,NH22-3480,206677660085_R02C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1310,NH22-3570,206677660175_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1311,NH22-3532,206677660175_R02C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1312,NH22-3548,206677660175_R03C01,infratentorial pilocytic astrocytoma
+1313,NH22-3577,206677660175_R05C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1314,NH22-3578,206677660175_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1315,NH22-3579,206677660175_R07C01,high-grade diffuse glioma of the midline/posterior fossa; H3/IDH-wildtype
+1316,NH22-3580,206677660175_R08C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1317,NH22-3566,206667650182_R01C01,infratentorial pilocytic astrocytoma
+1318,NH22-3565,206667650182_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1319,NH22-3560,206667650182_R04C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1320,NH22-3490,206667650182_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1321,NH22-3383,206667650182_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1322,NH22-3586,206667650182_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1323,NH22-3608,207134810006_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1324,NH22-3430,207134810006_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1325,NH22-3630,206667650105_R02C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+1326,NH22-3629,206667650105_R03C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+1327,NH22-3628,206667650105_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1328,NH22-3602,206667650105_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1329,NH22-3377,206667650105_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1330,NH22-3626,206667650105_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1331,NH22-3619,206667650105_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1332,NH22-3620,206667650152_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1333,NH22-3636,206667650152_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1334,NH22-3673,207134810057_R01C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1335,NH22-3657,207134810057_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1336,NH22-3651,207134810057_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1337,NH22-3652,207134810057_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1338,NH22-3672,207134810057_R08C01,pleomorphic xanthoastrocytoma(-like)
+1339,NH22-3294,207134810130_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1340,NH22-3698,207134810130_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1341,NH22-3692,207134810107_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1342,NH22-3694,207134810107_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1343,NH22-3695,207134810107_R03C01,supratentorial pilocytic astrocytoma
+1344,NH22-3713,207134810107_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1345,NH22-3740,207134810017_R02C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1346,NH22-3746,207134810017_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1347,NH22-3774,207134810011_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1348,NH22-3775,207134810011_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1349,NH22-3778,207134810011_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1350,NH22-3782,207134810011_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1351,NH22-3777,207134810011_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1352,NH22-3761,207134810005_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1353,NH22-3795,207134810005_R06C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+1354,NH22-3803,207134810005_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1355,NH22-3763,207134810005_R08C01,supratentorial pilocytic astrocytoma
+1356,NH22-3797,207134810056_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1357,NH22-3798,207134810056_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1358,NH22-3800,207134810056_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1359,NH22-3822,207134810056_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1360,NH22-3817,207134810072_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1361,NH22-3833,207134810072_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1362,NH22-3765,207134810072_R06C01,ganglioglioma
+1363,NH22-3707,207134810071_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1364,NH22-3849,207134810071_R05C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type B]"
+1365,NH22-3852,207134810071_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1366,NH22-3854,207134810071_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1367,NH22-3843,207134810135_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1368,NH22-3848,207134810135_R07C01,high-grade astrocytoma with piloid features
+1369,NH22-3710,207134810111_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1370,NH22-3871,207134810111_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1371,NH22-3897,207129210008_R01C01,pleomorphic xanthoastrocytoma(-like)
+1372,NH22-3899,207129210008_R03C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1373,NH22-3903,207129210008_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1374,NH22-3918,207129210008_R05C01,ganglioglioma
+1375,NH22-3915,207129210008_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1376,NH22-3916,207129210008_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1377,NH23-5,207129210014_R01C01,supratentorial pilocytic astrocytoma
+1378,NH23-20,207129210014_R02C01,supratentorial pilocytic astrocytoma
+1379,NH23-22,207129210014_R03C01,supratentorial midline pilocytic astrocytoma
+1380,NH22-3875,207129210014_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1381,NH23-9,207129210120_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1382,NH23-30,207129210120_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1383,NH23-32,207129210120_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1384,NH23-35,207129210120_R08C01,ganglioglioma
+1385,NH23-45,207129210002_R03C01,infratentorial pilocytic astrocytoma
+1386,NH22-3836,207129210002_R05C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1387,NH16-1137,207129210002_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1388,NH22-3791,207129210002_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1389,NH23-54,207129210002_R08C01,infratentorial pilocytic astrocytoma
+1390,NH23-60,207129210080_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1391,NH23-70,207129210080_R03C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1392,NH23-81,207129210080_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1393,NH23-63,207129210156_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1394,NH23-93,207129210156_R03C01,ganglioglioma
+1395,NH23-94,207129210156_R04C01,infratentorial pilocytic astrocytoma
+1396,NH23-99,207129210156_R08C01,ganglioglioma
+1397,NH23-56,207129210070_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1398,NH23-107,207129210070_R04C01,ganglioglioma
+1399,NH23-64,207129210070_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1400,NH23-100,207129210070_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1401,NH23-106,207129210070_R08C01,infratentorial pilocytic astrocytoma
+1402,NH23-122,207129210037_R01C01,supratentorial pilocytic astrocytoma
+1403,NH23-120,207129210037_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1404,NH23-123,207129210037_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1405,NH23-105,207129210037_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1406,NH23-126,207129210018_R01C01,infratentorial pilocytic astrocytoma
+1407,NH23-157,207129210018_R03C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1408,NH23-136,207129210018_R04C01,dysembryoplastic neuroepithelial tumour
+1409,NH23-161,207129210018_R06C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1410,NH23-147,207129210018_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1411,NH23-194,207129210028_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1412,NH23-215,207129210028_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1413,NH23-130,207129210028_R06C01,ganglioglioma
+1414,NH23-172,207129210028_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1415,NH23-199,207129210005_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1416,NH23-224,207129210005_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1417,NH23-227,207129210005_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1418,NH23-197,207129210004_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1419,NH23-226,207129210004_R03C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1420,NH23-251,207129210004_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1421,NH23-239,207129210004_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1422,NH23-200,207129210004_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1423,NH23-232,207129210004_R08C01,"Diffuse paediatric-type high grade glioma, RTK2 subtype"
+1424,NH23-262,207134810112_R01C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1425,NH23-340,207134810112_R05C01,supratentorial midline pilocytic astrocytoma
+1426,NH23-275,207134810112_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1427,NH23-286,207134810112_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1428,NH23-273,207134810114_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1429,NH23-293,207134810114_R02C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+1430,NH23-294,207134810114_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1431,NH23-297,207134810114_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1432,NH23-264,207134810114_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1433,NH23-280,207244230042_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1434,NH23-311,207244230042_R05C01,infratentorial pilocytic astrocytoma
+1435,NH23-269,207244230042_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1436,NH23-334,207134810148_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1437,NH23-287,207134810148_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1438,NH23-291,207134810148_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1439,NH23-336,207134810148_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1440,NH23-278,207244230113_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1441,NH23-318,207244230113_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1442,NH23-320,207244230113_R04C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1443,NH23-330,207244230113_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1444,NH23-313,207244230113_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1445,NH23-321,207244230129_R02C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+1446,NH23-368,207244230129_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1447,NH14-460,207244230129_R07C01,supratentorial midline pilocytic astrocytoma
+1448,NH23-388,207244230129_R08C01,pleomorphic xanthoastrocytoma(-like)
+1449,NH23-353,207244230096_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1450,NH23-370,207244230096_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1451,NH23-371,207244230096_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1452,NH23-372,207244230096_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1453,NH23-415,207244230032_R01C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1454,NH23-405,207244230032_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1455,NH23-408,207244230032_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1456,NH23-396,207244230045_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1457,NH23-441,207244230045_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1458,NH23-412,207244230045_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1459,NH23-449,207134810003_R06C01,high-grade astrocytoma with piloid features
+1460,NH23-484,207244230048_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1461,NH23-485,207244230048_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1462,NH23-490,207244230048_R08C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1463,NH23-496,207109600026_R01C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1464,NH23-445,207109600026_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1465,NH23-462,207109600026_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1466,NH23-457,207244230020_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1467,NH23-454,207244230020_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1468,NH23-510,207244230020_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1469,NH23-514,207244230020_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type D]"
+1470,NH23-513,207244230020_R08C01,high-grade astrocytoma with piloid features
+1471,NH23-504,207134810153_R01C01,"Diffuse hemispheric glioma, H3 G34-mutant"
+1472,NH23-505,207134810153_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1473,NH16-356,207134810153_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1474,NH23-560,207134810036_R02C01,dysembryoplastic neuroepithelial tumour
+1475,NH23-571,207134810036_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1476,NH23-562,207134810036_R06C01,ganglioglioma
+1477,NH23-509,207134810036_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1478,NH23-525,207134810036_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1479,NH23-482,207108790102_R01C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+1480,NH23-589,207108790102_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1481,NH23-545,207108790102_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1482,NH23-543,207108790102_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1483,NH23-551,207134810113_R01C01,supratentorial pilocytic astrocytoma
+1484,NH23-542,207134810113_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1485,NH20-848,207134810113_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1486,NH20-1320,207134810113_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1487,NH23-596,207134810113_R06C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1488,NH23-563,207134810113_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1489,NH23-568,207134810113_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1490,NH23-567,207134810117_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1491,NH23-566,207134810117_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1492,NH17-2416,207134810117_R03C01,high-grade astrocytoma with piloid features
+1493,NH23-594,207134810117_R05C01,infratentorial pilocytic astrocytoma
+1494,NH23-597,207134810117_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1495,NH23-564,207244230026_R01C01,supratentorial midline pilocytic astrocytoma
+1496,NH23-555,207244230026_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1497,NH23-641,207244230026_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1498,NH23-630,207134810004_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1499,NH23-629,207134810004_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1500,NH23-288,207134810004_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1501,NH23-707,207321890008_R04C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1502,NH23-696,207321890008_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1503,NH23-695,207321890008_R06C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1504,NH23-662,207321890008_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1505,NH22-93,207321890008_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1506,NH23-602,207321890077_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1507,NH23-609,207321890077_R03C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1508,NH23-103,207321890077_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1509,NH23-624,207321890077_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1510,NH23-713,207321890077_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1511,NH23-714,207321890010_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1512,NH23-638,207321890010_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1513,NH23-625,207321890010_R04C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1514,NH23-644,207321890010_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1515,NH23-717,207321890059_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1516,NH23-720,207321890059_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1517,NH23-722,207321890059_R04C01,infratentorial pilocytic astrocytoma
+1518,NH23-766,207321890059_R05C01,high-grade astrocytoma with piloid features
+1519,NH23-724,207244230038_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1520,NH23-737,207244230038_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1521,NH23-738,207244230038_R04C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1522,NH23-778,207244230038_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1523,NH23-790,207244230038_R08C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1524,NH23-791,207244230119_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1525,NH23-795,207244230119_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1526,NH23-803,207244230119_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1527,NH23-807,207244230119_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1528,NH19-2683,207321900056_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1529,NH23-748,207321900056_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1530,NH16-2094,207321900056_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1531,NH23-785,207321900056_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1532,NH15-2146,207321900056_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1533,NH23-813,207321900006_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1534,NH23-827,207321900006_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1535,NH23-840,207321900006_R06C01,"glioblastoma, IDH-wildtype, with primitive neuronal component"
+1536,NH23-699,207321900014_R01C01,ganglioglioma
+1537,NH23-866,207321900014_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1538,NH23-788,207321900046_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1539,NH23-842,207321900046_R05C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1540,NH23-892,207321890035_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1541,NH23-901,207321890035_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1542,NH23-876,207321890035_R06C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1543,NH23-875,207321890035_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1544,NH23-872,207321890102_R01C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1545,NH23-869,207321890102_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1546,NH23-852,207321890102_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1547,NH23-882,207321890102_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1548,NH23-858,207321890060_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1549,NH21-242,207321890060_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1550,NH23-906,207321890060_R05C01,ganglioglioma
+1551,NH23-873,207321580032_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1552,NH23-920,207321580032_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1553,NH23-941,207321580032_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1554,NH23-903,207321580032_R08C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1555,NH23-945,207321580053_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1556,NH23-939,207321580053_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1557,NH23-935,207321580053_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1558,NH23-950,207321580053_R05C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1559,NH23-937,207321580053_R07C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1560,NH23-924,207321580051_R01C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1561,NH23-957,207321580051_R02C01,dysembryoplastic neuroepithelial tumour
+1562,NH23-961,207321580051_R03C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1563,NH23-962,207321580051_R04C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1564,NH23-971,207321580051_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1565,NH23-965,207321580051_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1566,NH20-1763,207321580085_R01C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1567,NH23-966,207321580085_R05C01,supratentorial pilocytic astrocytoma
+1568,NH23-991,207321890034_R02C01,"Diffuse paediatric-type high grade glioma, RTK1 subtype"
+1569,NH23-978,207321890034_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1570,NH23-979,207321890034_R05C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1571,NH23-948,207321890034_R06C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1572,NH23-740,207321890034_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1573,NH23-1024,207321890002_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1574,NH23-1025,207321890002_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1575,NH23-972,207321890002_R08C01,supratentorial pilocytic astrocytoma
+1576,NH23-974,207321890017_R02C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1577,NH23-1012,207321890017_R04C01,"diffuse midline glioma, H3 K27-mutant / EZHIP overexpressing"
+1578,NH23-995,207321890017_R05C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1579,NH23-911,207321890017_R06C01,posterior fossa ependymoma group A1
+1580,NH23-998,207321890017_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1581,NH23-1003,207321890017_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1582,NH23-1006,207321890003_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1583,NH23-1068,207321890011_R07C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1584,NH23-1047,207321890011_R08C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1585,NH23-1078,207355710048_R02C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1586,NH23-1066,207355710048_R03C01,pleomorphic xanthoastrocytoma(-like)
+1587,NH23-1098,207355710048_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1588,NH23-1101,207355710048_R07C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1589,NH23-1121,207355710048_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1590,NH23-1133,207355710003_R02C01,Infant-type hemispheric glioma
+1591,NH23-1126,207355710003_R04C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1592,NH23-1108,207355710003_R06C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1593,NH23-1116,207355710003_R07C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1594,NH23-1142,207355710003_R08C01,ganglioglioma
+1595,NH23-1165,207321890038_R02C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1596,NH23-1154,207321890038_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1597,NH23-1130,207321890038_R04C01,ganglioglioma
+1598,NH23-1186,207321890038_R08C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1599,NH23-1187,207355710088_R01C01,ganglioglioma
+1600,NH23-1188,207355710088_R02C01,supratentorial pilocytic astrocytoma
+1601,NH23-1166,207355710088_R06C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1602,NH23-1201,207355710032_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1603,NH23-1202,207355710032_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1604,NH23-1219,207355710032_R07C01,"diffuse high-grade neuroepithelial tumour [adult-type, non-defined type C]"
+1605,NH23-1231,207355710089_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1606,NH23-1196,207355710089_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type], high grade"
+1607,NH23-1236,207355710089_R03C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1608,NH23-1249,207355710089_R04C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1609,NH23-1254,207355710089_R05C01,infratentorial pilocytic astrocytoma
+1610,NH23-1220,207355710089_R06C01,"Diffuse paediatric-type high grade glioma, MYCN subtype"
+1611,NH23-1235,207355710089_R08C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1612,NH23-1238,207355700085_R01C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1613,NH23-1239,207355700085_R02C01,"diffuse glioma, IDH-mutant and 1p19q co-deleted [oligodendroglial type]"
+1614,NH23-1209,207355700085_R06C01,supratentorial pilocytic astrocytoma
+1615,NH23-1252,207355700085_R07C01,"glioblastoma, IDH-wildtype, RTK1 type"
+1616,NH23-1253,207355700085_R08C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1617,NH23-1216,207355700067_R01C01,supratentorial pilocytic astrocytoma
+1618,NH23-1247,207355700047_R01C01,"glioblastoma, IDH-wildtype, RTK2 type"
+1619,NH23-1263,207355700047_R02C01,"diffuse glioma, IDH-mutant and 1p19q retained [astroglial type]"
+1620,NH23-1264,207355700047_R03C01,"glioblastoma, IDH-wildtype, mesenchymal type"
+1621,NH23-1270,207355700047_R06C01,dysembryoplastic neuroepithelial tumour
