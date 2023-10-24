@@ -1,4 +1,3 @@
-
 import pandas as pd 
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -7,7 +6,7 @@ import pyHSICLasso as hsic
 path = "C:/Users/omnia/OneDrive - University of Jeddah/PhD progress/DNA_methyalation/Part6_850k_Betas.csv"
 #path_4cases = r"C:/Users/omnia/OneDrive - University of Jeddah/PhD progress/DNA_methyalation/Part6_850k_Betas_4samples.csv"
 df =  pd.read_csv(path,index_col=(0))
-
+df.columns
 # Method 1: Coefficient of Variation (CV): Calculate the coefficient of variation for each probe, which is the ratio of the standard deviation to the mean.
 #Probes with a higher CV indicate higher relative variability.
 cv = (df.std(axis=1) / df.mean(axis=1)) * 100  # CV as a percentage
@@ -29,7 +28,6 @@ most_variable_probes_mad = mad.nlargest(n=number_of_probes)
 variability = df.var(axis=1)  # Calculate variance across rows (probes)
 most_variable_probes_vr = variability.nlargest(n=number_of_probes)
 
-# Plotting
 
 # Assuming most_variable_probes contains the top 10,000 most variable probes
 subset_probes = most_variable_probes_vr.sample(n=200)  # Sample 200 probes
@@ -47,6 +45,22 @@ sns.heatmap(df.loc[most_variable_probes_vr.index[:200]], cmap='coolwarm')
 plt.title('Top 200 Most Variable Probes')
 plt.show()
 
+import matplotlib_venn
+from matplotlib_venn import venn2
+intersection_result = most_variable_probes_cv.index.intersection(most_variable_probes_vr.index)
+
+# Find the intersection using the & operator
+intersection_result_vin = most_variable_probes_cv.index.intersection(most_variable_probes_vr.index)
+print(intersection_result)
+
+# Plotting
+set1 = set(most_variable_probes_vr.index)
+set2 = set(most_variable_probes_mad.index)
+
+# Create a Venn diagram for sets
+venn2([set1, set2], ('Coefficient of Variation Set CV', 'Median Absolute Deviation (MAD)'))
+plt.title("Intersection of CV and MAD")
+plt.show()
 
 
 
