@@ -89,5 +89,21 @@ classes_num = filtered_df_10['MC 12.6'].value_counts()
 filtered_df_10.to_csv(r'C:\Users\omnia\OneDrive - University of Jeddah\PhD progress\DNA_methyalation\Last filtring with betaMvalues and imgID\all_data_MvalSentrix_20GT.csv',index=False)
 
 #%%
-# Now we need to merg the filterd cases with the orignial XLSX df to have other important cols like sentrix and CPN
+# Now we need to merge the filtered cases with the original XLSX df to have other important cols like sentrix and CPN
 merged_2 = pd.merge(filtered_ids_df, df_xlsx,left_on='ID',right_on='Sample.ID',how='inner')
+
+#%%
+# Now we need to retrieve sentrix. GT and sample.ID, to merge it with image folder names 
+filtered_df_10 =pd.read_csv(r'C:/Users/omnia/OneDrive - University of Jeddah/PhD progress/DNA_methyalation/Last filtering with betaMvalues and imgID/all_data_betaSentrix_12GT.csv')
+column_to_extract = filtered_df_10[['Sentrix.ID','MC 12.6','ID']].copy()
+
+merged_2 = pd.merge(df, column_to_extract,left_on='ID',right_on='ID',how='inner')
+labels, unique = pd.factorize(merged_2['MC 12.6'])
+
+# Create a new column with factorized labels
+merged_2['lable'] = labels
+classes = merged_2['lable'].nunique()
+print('Number of unique Classes: ',classes)
+classes_counts = merged_2['MC 12.6'].value_counts()
+print("Number of cases in each ground truth:\n", classes_counts)
+merged_2.to_csv(r'C:\Users\omnia\OneDrive - University of Jeddah\PhD progress\DNA_methyalation\Last filtring with betaMvalues and imgID\imgPath_betaSentrix_12GT.csv',index=False)
