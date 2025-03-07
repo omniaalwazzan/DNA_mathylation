@@ -2,6 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pyHSICLasso as hsic
+import matplotlib_venn
+from matplotlib_venn import venn2
 
 path = "C:/Users/omnia/OneDrive - University of Jeddah/PhD progress/DNA_methyalation/Part6_850k_Betas.csv"
 #path_4cases = r"C:/Users/omnia/OneDrive - University of Jeddah/PhD progress/DNA_methyalation/Part6_850k_Betas_4samples.csv"
@@ -29,7 +31,6 @@ variability = df.var(axis=1)  # Calculate variance across rows (probes)
 most_variable_probes_vr = variability.nlargest(n=number_of_probes)
 
 
-# Assuming most_variable_probes contains the top 10,000 most variable probes
 subset_probes = most_variable_probes_vr.sample(n=200)  # Sample 200 probes
 plt.figure(figsize=(10, 6))
 subset_probes.plot(kind='bar', color='skyblue')
@@ -40,13 +41,12 @@ plt.xticks(rotation=45)
 plt.show()
 
 
-# Assuming df is your DataFrame with DNA methylation data
+# df is the DataFrame with DNA methylation data
 sns.heatmap(df.loc[most_variable_probes_vr.index[:200]], cmap='coolwarm')
 plt.title('Top 200 Most Variable Probes')
 plt.show()
 
-import matplotlib_venn
-from matplotlib_venn import venn2
+
 intersection_result = most_variable_probes_cv.index.intersection(most_variable_probes_vr.index)
 
 # Find the intersection using the & operator
